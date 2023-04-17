@@ -24,6 +24,8 @@ Some of the papers here may not be the final version that appeared, if you want 
 
 ## Preprints
 
+6. *Further congruences for $(4,8)$-regular bipartition quadruples modulo powers of $2$*, preprint, 2023. ([pdf](/publ/papers/quad-alg.pdf))
+
 5. *Ramanujan-type Congruences for Partition $k$-Tuples with $5$-Cores*, (with *[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/) and Pranjal Talukdar*), preprint, 2023. ([pdf](https://arxiv.org/pdf/2302.01750.pdf))
 
 4. *On $k$-Facile Perfect Numbers*, (with *Flora S. Jeba and Anirban Roy*), preprint, 2022. (available on request)
