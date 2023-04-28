@@ -71,7 +71,6 @@ permalink: /links/
 [Viviane Pons](http://openpyviv.com)  
 [Mukunth V](https://canonicalensemble.net)
 
-
 ## Journals
 
 [Integers](http://www.integers-ejcnt.org/)  
@@ -88,3 +87,8 @@ permalink: /links/
 [Annals of Improbable Research](https://www.improbable.com)  
 [Proceedings of the National Institute of Science](https://instsci.org)  
 [Journal of Universal Rejection](http://www.universalrejection.org)
+
+## Tips
+
+[How to do Math and TCS](http://www.cs.cmu.edu/~odonnell/toolkit13/how-to-do-math-and-tcs.pdf)  
+[Tips for Giving Clear Talks](http://graphics.stanford.edu/~kayvonf/misc/cleartalktips.pdf)  
