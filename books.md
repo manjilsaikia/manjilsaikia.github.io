@@ -363,6 +363,11 @@ The books which are marked with a ** are the ones that I am either currently rea
 346. **Patriots and Partisans**, *Ramachandra Guha*, Allen Lane, 2012.
 347. **The Book Beautiful: A Memoir of Collecting Rare and Fine Books**, *Pradeep Sebastian*, Hachette India, 2023.
 348. **Early Indians: The Story of Our Ancestors and Where We Came From**, *Tony Joseph*, Juggernaut Books, 2021.
+349. **Off the Shelf: On Books, Book People and Places**, *Sridhar Balan*, Speaking Tiger, 2019.
+350. **Why Men Rape: An Indian Undercover Investigation**, *Tara Kaushal*, HarperCollins Publishers, 2020.
+351. **The Good Girls: An Ordinary Killing**, *Sonia Faleiro*, Hamish Hamilton, 2021.
+352. **The Gated Republic: India’s Public Policy Failures and Private Solutions**, *Shankkar Aiyar*, HarperCollins Publishers, 2020.
+353. **The Idol Thief: The True Story of the Looting of India’s Temples**, *S. Vijay Kumar*, Juggernaut Books, 2022.
 
 
 ## Fiction
