@@ -368,6 +368,12 @@ The books which are marked with a ** are the ones that I am either currently rea
 351. **The Good Girls: An Ordinary Killing**, *Sonia Faleiro*, Hamish Hamilton, 2021.
 352. **The Gated Republic: India’s Public Policy Failures and Private Solutions**, *Shankkar Aiyar*, HarperCollins Publishers, 2020.
 353. **The Idol Thief: The True Story of the Looting of India’s Temples**, *S. Vijay Kumar*, Juggernaut Books, 2022.
+354. **The Epic City: The World on the Streets of Calcutta**, *Kushanava Choudhury*, Bloomsbury, 2019.
+355. **Butter Chicken in Ludhiana: Travels in Small Town India**, *Pankaj Mishra*, Penguin Books, 2013.
+356. **The Gorakhpur Hospital Tragedy: A Doctor’s Memoir of a Deadly Medical Crisis**, *Kafeel Khan*, Pan, 2021.
+357. **Deep Work: Rules for Focused Success in a Distracted World**, *Cal Newport*, Piatkus, 2016.
+358. **Unseen: The Truth About India‘s Manual Scavengers**, *Bhasha Singh (Translated by Reenu Talwar)*, Penguin Books, 2014.
+359. **Across the Chicken Neck: Travels in Northeast India**, *Nandita Haksar*, Rupa Publications, 2016.
 
 
 ## Fiction
