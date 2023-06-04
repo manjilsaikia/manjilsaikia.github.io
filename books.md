@@ -374,6 +374,10 @@ The books which are marked with a ** are the ones that I am either currently rea
 357. **Deep Work: Rules for Focused Success in a Distracted World**, *Cal Newport*, Piatkus, 2016.
 358. **Unseen: The Truth About India‘s Manual Scavengers**, *Bhasha Singh (Translated by Reenu Talwar)*, Penguin Books, 2014.
 359. **Across the Chicken Neck: Travels in Northeast India**, *Nandita Haksar*, Rupa Publications, 2016.
+360. **The Indian President: An Insider’s Account of the Zail Singh Years**, *K. C. Singh*, HarperCollins Publishers, 2023.
+361. **What are Universities For?**, *Colin Lucas*, Permanent Black, 2017.
+362. **Global Universities in an Age of Anxiety**, *Stephen J. Toope*, Ashoka University, 2019.
+363. **Heavy Metal: How a Global Corporation Poisoned Kodaikanal**, *Ameer Shahul*, Macmillan, 2023.
 
 
 ## Fiction
