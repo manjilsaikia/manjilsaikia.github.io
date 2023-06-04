@@ -10,6 +10,8 @@ Some talks (arranged in reverse chronological order) that I have given.
 
 >Not an exhaustive list!
 
+**Alternating Sign Matrices and Plane Partitions**, *Research Seminar Series, Ahmedabad University, India*, May 2023.
+
 **Partitions with fixed differences between largest and smallest parts with fixed multiplicity of the smallest part**, *COmbinatorial Number Theory And Connected Topics - II, India*, online, February 2023. ([slides](/publ/talks/contact2.pdf)) 
 
 **Talk on Pseudoscience**, *InSCIgnis 2022, Tezpur University, India*, online, February 2022. ([video](https://www.youtube.com/watch?v=p6pmuD87MNE))
