@@ -7,11 +7,7 @@ permalink: /contact/
 ---
 ## Address >> Current Office
 
-F-7, Faculty Block - II  
-Indian Institute of Information Technology Manipur  
-City Campus, Mantripukhri  
-Imphal 795002  
-India
+
 
 ## Address >> Current Mailing/Permanent
 
