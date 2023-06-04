@@ -24,15 +24,13 @@ Some of the papers here may not be the final version that appeared, if you want 
 
 ## Preprints
 
-6. *Further congruences for $(4,8)$-regular bipartition quadruples modulo powers of $2$*, preprint, 2023. ([pdf](/publ/papers/quad-alg.pdf))
-
 5. *Ramanujan-type Congruences for Partition $k$-Tuples with $5$-Cores*, (with *[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/) and Pranjal Talukdar*), preprint, 2023. ([pdf](https://arxiv.org/pdf/2302.01750.pdf))
 
 4. *On $k$-Facile Perfect Numbers*, (with *Flora S. Jeba and Anirban Roy*), preprint, 2022. (available on request)
 
 3. *Conjectures on congruences of binomial coefficients modulo higher powers of a prime number*, preprint, 2022. ([pdf](/publ/papers/Conjecture.pdf))
  
-2. *Extensions of some results of Vladeta and Dhar*, (with *[Pankaj Jyoti Mahanta](http://pankajjyoti.com/)*), preprint, 2022. ([pdf](/publ/papers/Partition_Vladeta.pdf))
+2. *Extensions of some results of Jovovic and Dhar*, (with *[Pankaj Jyoti Mahanta](http://pankajjyoti.com/)*), preprint, 2022. ([pdf](/publ/papers/Partition_Vladeta.pdf))
 
 1. *Biases in Non-Unitary Partitions*, (with *[Pankaj Jyoti Mahanta](http://pankajjyoti.com/) and [Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/)*), preprint, 2022. ([pdf](/publ/papers/bias-new.pdf))
 
@@ -97,6 +95,8 @@ Some of the papers here may not be the final version that appeared, if you want 
 1. *The Pursuit of Joy* (with *Pankaj Jyoti Mahanta*), LAP Lambert Academic Publishing, Germany, 2011. ([pdf](http://gonitsora.com/manjil/publ/books/the_pursuit_of_joy.pdf))
 
 ## Non Peer-Reviewed Papers
+
+9. *Further congruences for $(4,8)$-regular bipartition quadruples modulo powers of $2$*, preprint, 2023. ([pdf](/publ/papers/quad-alg.pdf))
 
 8. *Almost Circular Balancing Numbers*, *Advances in Mathematical Sciences* (Z. Ahmed (ed.)), Empyreal Publishing House, 2019, 61 — 67. ([pdf](http://www.editedbook.in/pdf/dr-zakir-ahmed-edited.pdf#%5B%7B%22num%22%3A72%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C73.441%2C696.959%2Cnull%5D))
 
