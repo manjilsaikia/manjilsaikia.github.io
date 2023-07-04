@@ -7,6 +7,12 @@ background: '/img/teaching.jpg'
 permalink: /teaching/
 ---
 
+# Ahmedabad University
+
+**MAT248: Applied Linear Algebra** (January 2024 - May 2024)
+
+**Foundation Programme** (First Year Undergraduate, August 2023 - December 2023)
+
 # IIIT Manipur
 
 **[MA1012: Multivariable Calculus & Ordinary Differential Equations](/teaching/IIIT/ma1012)** (First Year Undergraduate, March 2023 - June 2023)
