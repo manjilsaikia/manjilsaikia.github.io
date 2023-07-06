@@ -7,11 +7,15 @@ background: '/img/teaching.jpg'
 permalink: /teaching/
 ---
 
+Courses where I was/am the co-instructor are marked with **.
+
 # Ahmedabad University
 
 **MAT248: Applied Linear Algebra** (January 2024 - May 2024)
 
-**Foundation Programme** (First Year Undergraduate, August 2023 - December 2023)
+**Foundation Programme: Environment and Climate Change** ** (First Year Undergraduate, August 2023 - September 2023)
+
+**MAT000: Mathematics for Business** ** (First year MBA, July 2023)
 
 # IIIT Manipur
 
@@ -19,15 +23,15 @@ permalink: /teaching/
 
 **[MA301: Optimization Techniques](/teaching/IIIT/ma301)** (Third Year Undergraduate, January 2023 - May 2023)
 
-**[MA1011: Linear Algebra & Single Variable Calculus](/teaching/IIIT/ma1011)** (First Year Undergraduate, December 2022 - February 2023)
+**[MA1011: Linear Algebra & Single Variable Calculus](/teaching/IIIT/ma1011)** ** (First Year Undergraduate, December 2022 - February 2023)
 
 # Cardiff University
 
-**Foundations of Mathematics II** (Undergraduate, February 2022 - May 2022)
+**Foundations of Mathematics II** ** (Undergraduate, February 2022 - May 2022)
 
 # ICTP
 
-**[EAUMP-ICTP School: Topics in Concrete Mathematics](https://indico.ictp.it/event/9669/other-view?view=ictptimetable)** (Graduate, August 2021)
+**[EAUMP-ICTP School: Topics in Concrete Mathematics](https://indico.ictp.it/event/9669/other-view?view=ictptimetable)** ** (Graduate, August 2021)
 
 # Volunteer Courses for Indian students (online)
 
