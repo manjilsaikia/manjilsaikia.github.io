@@ -378,6 +378,14 @@ The books which are marked with a ** are the ones that I am either currently rea
 361. **What are Universities For?**, *Colin Lucas*, Permanent Black, 2017.
 362. **Global Universities in an Age of Anxiety**, *Stephen J. Toope*, Ashoka University, 2019.
 363. **Heavy Metal: How a Global Corporation Poisoned Kodaikanal**, *Ameer Shahul*, Macmillan, 2023.
+364. **Who Moved My Vote?: Digging Through Indian Electoral Data**, *Yugank Goyal and Arun Kumar Kaushik*, Westland Non-Fiction, 2022.
+365. **Instant History: A Memoir**, *Anil Maheshwari*, Bloomsbury India, 2021.
+366. **Liar’s Poker**, *Michael Lewis*, Hodder & Stoughton, 2016.
+367. **Ahmedabad: From Royal City to Megacity**, *Achyut Yagnik and Suchitra Sheth*, Penguin Books, 2016.
+368. **The Big Short: Inside the Doomsday Machine**, *Michael Lewis*, Penguin Books, 2011.
+369. **City Adrift: A Short Biography of Bombay**, *Naresh Fernandes*, Aleph Book Company, 2013.
+370. ** **Calcuttascape: Musings of a Globetrotter**, *Sandeep Bhutoria*, Macmillan, 2020.
+371. **The Crooked Timber of New India: Essays on a Republic in Crisis**, *Parakala Prabhakar*, Speaking Tiger Books, 2023.
 
 
 ## Fiction
