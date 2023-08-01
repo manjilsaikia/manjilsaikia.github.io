@@ -32,7 +32,7 @@ to be announced
 3. **[Families of Congruences for Fractional Partition Functions Modulo Powers of Primes](/seminar/Hirakjyoti_Das.pdf)** (*Hirakjyoti Das*: 17 July 2020)  
 4. **[Combinatorics of Stammering Tableaux](/seminar/Bishal_Deb.pdf)** (*Bishal Deb*: 31 July 2020)  
 5. **[An approach to construct Mathematical model through system of ordinary differential equation](/seminar/Munmi_Saikia.pdf)** (*Munmi Saikia*: 07 August 2020)  
-6. **[Some aspects of $\Gamma_2$ graph over some of the finite commutative rings](/seminar/Anurag_Baruah.pdf)** (*Anurag Baruah*: 14 August 2020)  
+6. **Some aspects of $\Gamma_2$ graph over some of the finite commutative rings** (*Anurag Baruah*: 14 August 2020)  
 7. **[Application of the Rogers-Ramanujan continued fraction to partition functions](/seminar/Nilufar_Mana_Begum.pdf)** (*Nilufar Mana Begum*: 21 August 2020)  
 8. **[Certain types of primitive and normal elements over finite fields](/seminar/Himangshu_Hazarika.pdf)** (*Himangshu Hazarika*: 28 August 2020)  
 9. **[Hard and Easy Instances of L-Tromino Tilings](/seminar/Manjil_Saikia.pdf)** (*Manjil Saikia*: 04 September 2020)  
