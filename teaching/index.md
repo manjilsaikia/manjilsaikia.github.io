@@ -11,7 +11,7 @@ Courses where I was/am the co-instructor are marked with **.
 
 # Ahmedabad University
 
-**MAT248: Applied Linear Algebra** (January 2024 - May 2024)
+**CSE/CSC525: Theory of Computing** (Fourth Year BTech/BS, August 2023 - December 2023)
 
 **Foundation Programme: Environment and Climate Change** ** (First Year Undergraduate, August 2023 - September 2023)
 
