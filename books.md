@@ -386,6 +386,11 @@ The books which are marked with a ** are the ones that I am either currently rea
 369. **City Adrift: A Short Biography of Bombay**, *Naresh Fernandes*, Aleph Book Company, 2013.
 370. ** **Calcuttascape: Musings of a Globetrotter**, *Sandeep Bhutoria*, Macmillan, 2020.
 371. **The Crooked Timber of New India: Essays on a Republic in Crisis**, *Parakala Prabhakar*, Speaking Tiger Books, 2023.
+372. **The Groaning Shelf and other instances of book love**, *Pradeep Sebastian*, Hachette India, 2010.
+373. **A (Very) Short History of Life on Earth: 4.6 Billion Years in 12 Chapters**, *Henry Gee*, Picador, 2022.
+374. **Empires of the Indus: The Story of a River**, *Alice Albinia*, John Murray, 2018.
+375. **The Betrayal of Anne Frank: A Cold Case Investigation**, *Rosemary Sullivan*, William Collins, 2022.
+376. **Vajpayee: The Ascent of the Hindu Right 1924-1977**, *Abhishek Choudhary*, Picador India, 2023.
 
 
 ## Fiction
