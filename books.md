@@ -391,6 +391,13 @@ The books which are marked with a ** are the ones that I am either currently rea
 374. **Empires of the Indus: The Story of a River**, *Alice Albinia*, John Murray, 2018.
 375. **The Betrayal of Anne Frank: A Cold Case Investigation**, *Rosemary Sullivan*, William Collins, 2022.
 376. **Vajpayee: The Ascent of the Hindu Right 1924-1977**, *Abhishek Choudhary*, Picador India, 2023.
+377. **The Book Smugglers of Timbuktu: The Quest for This Storied City and the Race to Save its Treasures**, *Charlie English*, William Collins, 2018.
+378. **Endpapers: A Family Story of Books, War, Escape and Home**, *Alexander Wolff*, Grove Press UK, 2022.
+379. **Guarded by Dragons: Encounters with Rare Books and Rare People**, *Rick Gekoski*, Constable, 2023.
+380. **What the Ermine Saw: The Extraordinary Journey of Leonardo da Vinci's Most Mysterious Portrait**, *Eden Collinsworth*, Doubleday, 2022.
+381. **Editor Missing: The Media in Today’s India**, *Ruben Banerjee*, HarperCollins Publishers, 2022.
+382. ** **Ancient India: Culture of Contradictions**, *Upinder Singh*, Aleph Book Company, 2021.
+383. **The Nazi Hunters: How a Team of Spies and Survivors Captured the World's Most Notorious Nazi**, *Neal Bascomb*, Arthur A. Levine Books, 2013.
 
 
 ## Fiction
@@ -470,6 +477,7 @@ The books which are marked with a ** are the ones that I am either currently rea
 73. **The Sign of the Book: A Cliff Janeway Bookman Novel**, *John Dunning*, Scribner, 2005.
 74. **The Dancing Village**, *Easterine Kire (Ilustrated by Akuo Miachieo)*, Barkweaver, 2015.
 75. **The Parrot and the Merchant**, *Ali Seidabadi (Translated by Azita Rassi)*, Puffin Books, 2019.
+76. **The Time of the Peacock: A Short Novel**, *Siddharth Chowdhury*, Aleph Book Company, 2021.
 
 
 ## Graphic Books
