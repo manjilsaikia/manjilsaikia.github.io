@@ -398,6 +398,12 @@ The books which are marked with a ** are the ones that I am either currently rea
 381. **Editor Missing: The Media in Today’s India**, *Ruben Banerjee*, HarperCollins Publishers, 2022.
 382. ** **Ancient India: Culture of Contradictions**, *Upinder Singh*, Aleph Book Company, 2021.
 383. **The Nazi Hunters: How a Team of Spies and Survivors Captured the World's Most Notorious Nazi**, *Neal Bascomb*, Arthur A. Levine Books, 2013.
+384. **In Pursuit: The Men and Women Who Hunted the Nazis**, *Andrew Nagorski*, Simon & Schuster, 2016.
+385. **Bad News: Last Journalists in a Dictatorship**, *Anjan Sundaram*, Bloomsbury Publishing, 2016.
+386. **Bookshelf**, *Lydia Pyne*, Bloomsbury Academic, 2017.
+387. **Nabokov’s Butterfly: And Other Stories Of Great Authors And Rare Books**, *Rick Gekoski*, Carroll & Graf Publishers, 1996.
+388. **When a Tree Shook Delhi: The 1984 Carnage and its Aftermath**, *Manoj Mitta and H. S. Phoolka*, Roli Books, 2022.
+389. **The Last Liberal and Other Essays**, *Ramachandra Guha*, Permanent Black, 2013.
 
 
 ## Fiction
@@ -478,6 +484,8 @@ The books which are marked with a ** are the ones that I am either currently rea
 74. **The Dancing Village**, *Easterine Kire (Ilustrated by Akuo Miachieo)*, Barkweaver, 2015.
 75. **The Parrot and the Merchant**, *Ali Seidabadi (Translated by Azita Rassi)*, Puffin Books, 2019.
 76. **The Time of the Peacock: A Short Novel**, *Siddharth Chowdhury*, Aleph Book Company, 2021.
+77. **The Book Hunters of Katpadi: A Bibliomystery**, *Pradeep Sebastian*, Hachette India, 2017.
+78. **After Messiah**, *Aakar Patel*, Vintage, 2023.
 
 
 ## Graphic Books
