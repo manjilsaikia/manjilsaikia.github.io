@@ -24,17 +24,17 @@ Some of the papers here may not be the final version that appeared, if you want 
 
 ## Preprints
 
-5. *Ramanujan-type Congruences for Partition $k$-Tuples with $5$-Cores*, (with *[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/) and Pranjal Talukdar*), preprint, 2023. ([pdf](https://arxiv.org/pdf/2302.01750.pdf))
+4. *Ramanujan-type Congruences for Partition $k$-Tuples with $5$-Cores*, (with *[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/) and Pranjal Talukdar*), preprint, 2023. ([pdf](https://arxiv.org/pdf/2302.01750.pdf))
 
-4. *On $k$-Facile Perfect Numbers*, (with *Flora S. Jeba and Anirban Roy*), preprint, 2022. (available on request)
-
-3. *Conjectures on congruences of binomial coefficients modulo higher powers of a prime number*, preprint, 2022. ([pdf](/publ/papers/Conjecture.pdf))
+3. *On $k$-Facile Perfect Numbers*, (with *Flora S. Jeba and Anirban Roy*), preprint, 2022. (available on request)
  
 2. *Extensions of some results of Jovovic and Dhar*, (with *[Pankaj Jyoti Mahanta](http://pankajjyoti.com/)*), preprint, 2022. ([pdf](/publ/papers/Partition_Vladeta.pdf))
 
 1. *Biases in Non-Unitary Partitions*, (with *[Pankaj Jyoti Mahanta](http://pankajjyoti.com/) and [Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/)*), preprint, 2022. ([pdf](/publ/papers/bias-new.pdf))
 
 ## Peer Reviewed Papers
+
+24. *Conjectures on congruences of binomial coefficients modulo higher powers of a prime number*, *Journal of the Assam Academy of Mathematics*, accepted, 2023. ([pdf](/publ/papers/Conjecture.pdf))
 
 23. *Some Missed Congruences modulo powers of $2$ for $t$-colored overpartitions*, *Boletín de la Sociedad Matemática Mexicana*, 2023, 29 (1), Article  15, 10 pp. ([pdf](/publ/papers/NNcong.pdf))
 
