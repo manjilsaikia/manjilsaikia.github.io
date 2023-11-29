@@ -36,6 +36,8 @@ Some of the papers here may not be the final version that appeared, if you want 
 
 ## Peer Reviewed Papers
 
+25. *On near-perfect numbers with five prime factors*, (with *Flora Jeba S and Anirban Roy*), *DeGruyter Proceedings of 2nd ICRTMPCS 2023 "Advances in Mathematical and Computational Sciences"*, to appear, 2023.
+
 24. *Conjectures on congruences of binomial coefficients modulo higher powers of a prime number*, *Journal of the Assam Academy of Mathematics*, accepted, 2023. ([pdf](/publ/papers/Conjecture.pdf))
 
 23. *Some Missed Congruences modulo powers of $2$ for $t$-colored overpartitions*, *Boletín de la Sociedad Matemática Mexicana*, 2023, 29 (1), Article  15, 10 pp. ([pdf](/publ/papers/NNcong.pdf))
