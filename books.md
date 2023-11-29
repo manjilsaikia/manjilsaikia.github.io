@@ -404,6 +404,11 @@ The books which are marked with a ** are the ones that I am either currently rea
 387. **Nabokov’s Butterfly: And Other Stories Of Great Authors And Rare Books**, *Rick Gekoski*, Carroll & Graf Publishers, 1996.
 388. **When a Tree Shook Delhi: The 1984 Carnage and its Aftermath**, *Manoj Mitta and H. S. Phoolka*, Roli Books, 2022.
 389. **The Last Liberal and Other Essays**, *Ramachandra Guha*, Permanent Black, 2013.
+390. **Every Book Its Reader: The Power of the Printed Word to Stir the World**, *Nicholas A. Basbanes*, HarperCollins, 2005.
+391. **Phantoms on the Bookshelves**, *Jacques Bonnet (Translated by Siân Reynolds)*, MacLehose Press, 2010.
+392. **The Anatomy of Hate**, *Revati Laul*, Context, 2018.
+393. **Devil’s Advocate: The Untold Story**, *Karan Thapar*, HarperCollins, 2018.
+394. **The House of Jaipur: The Inside Story of India’s Most Glamorous Royal Family**, *John Zubrzycki*, Juggernaut Books, 2023.
 
 
 ## Fiction
@@ -486,6 +491,8 @@ The books which are marked with a ** are the ones that I am either currently rea
 76. **The Time of the Peacock: A Short Novel**, *Siddharth Chowdhury*, Aleph Book Company, 2021.
 77. **The Book Hunters of Katpadi: A Bibliomystery**, *Pradeep Sebastian*, Hachette India, 2017.
 78. **After Messiah**, *Aakar Patel*, Vintage, 2023.
+79. **Paper Moon: A Novel**, *Rehana Munir*, HarperCollins, 2019.
+80. **Birthday Girl**, *Haruki Murakami (Translated by Jay Rubin)*, Harvill Secker, 2019.
 
 
 ## Graphic Books
