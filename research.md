@@ -24,7 +24,7 @@ Some of the papers here may not be the final version that appeared, if you want 
 
 ## Preprints
 
-5. *Arithmetic Properties Modulo Powers of $2$ for Overpartition $k$-Tuples with Odd Parts*, (with *[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/) and [James A. Sellers](https://www.d.umn.edu/~jsellers/)*), preprint, 2023.
+5. *Arithmetic Properties Modulo Powers of $2$ for Overpartition $k$-Tuples with Odd Parts*, (with *[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/) and [James A. Sellers](https://www.d.umn.edu/~jsellers/)*), preprint, 2023. ([pdf](https://arxiv.org/pdf/2312.12011.pdf))
 
 4. *Ramanujan-type Congruences for Partition $k$-Tuples with $5$-Cores*, (with *[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/) and Pranjal Talukdar*), preprint, 2023. ([pdf](https://arxiv.org/pdf/2302.01750.pdf))
 
