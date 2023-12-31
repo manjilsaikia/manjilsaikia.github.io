@@ -409,6 +409,10 @@ The books which are marked with a ** are the ones that I am either currently rea
 392. **The Anatomy of Hate**, *Revati Laul*, Context, 2018.
 393. **Devil’s Advocate: The Untold Story**, *Karan Thapar*, HarperCollins, 2018.
 394. **The House of Jaipur: The Inside Story of India’s Most Glamorous Royal Family**, *John Zubrzycki*, Juggernaut Books, 2023.
+395. **H-Pop: The Secretive World of Hindutva Pop Stars**, *Kunal Purohit*, HarperCollins Publishers, 2023.
+396. **The Sixth Extinction: An Unnatural History**, *Elizabeth Kolbert*, Bloomsbury Paperbacks, 2015.
+397. **Dethroned: Patel, Menon and the Integration of Princely India**, *John Zubrzycki*, Juggernaut Books, 2023.
+398. **No Time to Lose: A Life in Pursuit of Deadly Viruses**, *Peter Piot with Ruth Marshall*, W. W. Norton & Company, 2013.
 
 
 ## Fiction
@@ -493,6 +497,7 @@ The books which are marked with a ** are the ones that I am either currently rea
 78. **After Messiah**, *Aakar Patel*, Vintage, 2023.
 79. **Paper Moon: A Novel**, *Rehana Munir*, HarperCollins, 2019.
 80. **Birthday Girl**, *Haruki Murakami (Translated by Jay Rubin)*, Harvill Secker, 2019.
+81. **A Bookshop in Algiers**, *Kaouther Adimi (Translated by Chris Andrews)*, Serpent’s Tail, 2022.
 
 
 ## Graphic Books
