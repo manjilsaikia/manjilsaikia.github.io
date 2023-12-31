@@ -38,7 +38,7 @@ Some of the papers here may not be the final version that appeared, if you want 
 
 25. *On near-perfect numbers with five prime factors*, (with *Flora Jeba S and Anirban Roy*), *DeGruyter Proceedings of 2nd ICRTMPCS 2023 "Advances in Mathematical and Computational Sciences"*, to appear, 2024.
 
-24. *Conjectures on congruences of binomial coefficients modulo higher powers of a prime number*, *Journal of the Assam Academy of Mathematics*, *Journal of the Assam Academy of Mathematics*, 2023, 13, 5-7. ([pdf]([https://jaam.aamonline.org.in/ojs/index.php/j/article/view/57](https://jaam.aamonline.org.in/ojs/index.php/j/article/view/58/27)))
+24. *Conjectures on congruences of binomial coefficients modulo higher powers of a prime number*, *Journal of the Assam Academy of Mathematics*, *Journal of the Assam Academy of Mathematics*, 2023, 13, 5-7. ([pdf](https://jaam.aamonline.org.in/ojs/index.php/j/article/view/57](https://jaam.aamonline.org.in/ojs/index.php/j/article/view/58/27))
 
 23. *Some Missed Congruences modulo powers of $2$ for $t$-colored overpartitions*, *Boletín de la Sociedad Matemática Mexicana*, 2023, 29 (1), Article  15, 10 pp. ([pdf](/publ/papers/NNcong.pdf))
 
