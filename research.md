@@ -24,17 +24,17 @@ Some of the papers here may not be the final version that appeared, if you want 
 
 ## Preprints
 
-5. *Arithmetic Properties Modulo Powers of $2$ for Overpartition $k$-Tuples with Odd Parts*, (with *[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/) and [James A. Sellers](https://www.d.umn.edu/~jsellers/)*), preprint, 2023. ([pdf](https://arxiv.org/pdf/2312.12011.pdf))
+4. *Arithmetic Properties Modulo Powers of $2$ for Overpartition $k$-Tuples with Odd Parts*, (with *[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/) and [James A. Sellers](https://www.d.umn.edu/~jsellers/)*), preprint, 2023. ([pdf](https://arxiv.org/pdf/2312.12011.pdf))
 
-4. *Ramanujan-type Congruences for Partition $k$-Tuples with $5$-Cores*, (with *[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/) and Pranjal Talukdar*), preprint, 2023. ([pdf](https://arxiv.org/pdf/2302.01750.pdf))
+3. *Ramanujan-type Congruences for Partition $k$-Tuples with $5$-Cores*, (with *[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/) and Pranjal Talukdar*), preprint, 2023. ([pdf](https://arxiv.org/pdf/2302.01750.pdf))
 
-3. *On $k$-Facile Perfect Numbers*, (with *Flora S. Jeba and Anirban Roy*), preprint, 2022. (available on request)
- 
-2. *Extensions of some results of Jovovic and Dhar*, (with *[Pankaj Jyoti Mahanta](http://pankajjyoti.com/)*), preprint, 2022. ([pdf](/publ/papers/Partition_Vladeta.pdf))
+2. *On $k$-Facile Perfect Numbers*, (with *Flora S. Jeba and Anirban Roy*), preprint, 2022. (available on request)
 
 1. *Biases in Non-Unitary Partitions*, (with *[Pankaj Jyoti Mahanta](http://pankajjyoti.com/) and [Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/)*), preprint, 2022. ([pdf](/publ/papers/bias-new.pdf))
 
 ## Peer Reviewed Papers
+
+26. *Extensions of some results of Jovovic and Dhar*, (with *[Pankaj Jyoti Mahanta](http://pankajjyoti.com/)*), *Journal of the Ramanujan Mathematical Society*, accepted, 2024. ([pdf](/publ/papers/Partition_Vladeta.pdf))
 
 25. *On near-perfect numbers with five prime factors*, (with *Flora Jeba S and Anirban Roy*), *DeGruyter Proceedings of 2nd ICRTMPCS 2023 "Advances in Mathematical and Computational Sciences"*, to appear, 2024.
 
