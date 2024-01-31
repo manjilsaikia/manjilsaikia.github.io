@@ -413,6 +413,12 @@ The books which are marked with a ** are the ones that I am either currently rea
 396. **The Sixth Extinction: An Unnatural History**, *Elizabeth Kolbert*, Bloomsbury Paperbacks, 2015.
 397. **Dethroned: Patel, Menon and the Integration of Princely India**, *John Zubrzycki*, Juggernaut Books, 2023.
 398. **No Time to Lose: A Life in Pursuit of Deadly Viruses**, *Peter Piot with Ruth Marshall*, W. W. Norton & Company, 2013.
+399. **Breathless: The Scientific Race to Defeat a Deadly Virus**, *David Quammen*, The Bodley Head, 2022.
+400. **Breaking Through: A Memoir**, *Isher Judge Ahluwalia*, Rupa Publications India, 2020.
+401. **Field Notes from a Catastrophe: A Frontline Report on Climate Change**, *Elizabeth Kolbert*, Bloomsbury, 2015.
+402. **Bahrisons: Chronicle of a bookshop**, *Anuj Bahri and Aanchal Malhotra*, Tara India Research Press, 2024.
+403. **On Bullshit**, *Harry G. Frankfurt*, Princeton University Press, 2021.
+404. **The Learning Trap: How Byju’s Took Indian Edtech For A Ride**, *Pradip K. Saha*, Juggernaut Books, 2023.
 
 
 ## Fiction
