@@ -419,6 +419,14 @@ The books which are marked with a ** are the ones that I am either currently rea
 402. **Bahrisons: Chronicle of a bookshop**, *Anuj Bahri and Aanchal Malhotra*, Tara India Research Press, 2024.
 403. **On Bullshit**, *Harry G. Frankfurt*, Princeton University Press, 2021.
 404. **The Learning Trap: How Byju’s Took Indian Edtech For A Ride**, *Pradip K. Saha*, Juggernaut Books, 2023.
+405. **84, Charing Cross Road**, *Helene Hanff*, André Deutsch Ltd, 1971.
+406. **The Duchess of Bloomsbury Street**, *Helene Hanff*, André Deutsch Ltd, 1974.
+407. **Love Jihad and Other Fictions: Simple Facts to Counter Viral Falsehoods**, *Sreenivasan Jain, Mariyam Alavi and Supriya Sharma*, Aleph Book Company, 2024.
+408. **Shelf Aware: A Love Affair with Books**, *V. R. Ferose*, Hachette India, 2023.
+409. **The Saffron Storm: From Vajpayee to Modi**, *Saba Naqvi*, Vintage, 2024.
+410. ** **Building a Second Brain: A Proven Method to Organise Your Digital Life and Unlock Your Creative Potential**, *Tiago Forte*, Profile Books, 2022.
+411. ** **Planning Democracy: How a Professor, an Institute and an Idea Shaped India**, *Nikhil Menon*, Viking, 2022.
+412. **An Inky Parade: Tales for Bibliophiles**, *Pradeep Sebastian*, Hachette India, 2024.
 
 
 ## Fiction
