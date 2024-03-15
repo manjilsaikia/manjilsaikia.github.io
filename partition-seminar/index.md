@@ -11,7 +11,7 @@ mathjax: true
 
 This is a research seminar initiated by me and some of my collaborators who are interested in topics related to partitions and $q$-series. We plan to meet every two weeks.  
 
-If you are interested in attending the seminar or giving a talk, please write to **[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/home?authuser=0)** at **abhiraaj002@gmail.com** and we will add you to our mailing list.  
+If you are interested in attending the seminar or giving a talk, please write to **[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/home?authuser=0)** at **abhitezu002@gmail.com** and we will add you to our mailing list.  
 
 The talks are not recorded, they are meant to be for informal discussions with the speaker(s) and everyone is encouraged to ask questions.
 
