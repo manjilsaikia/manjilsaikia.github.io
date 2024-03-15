@@ -23,7 +23,7 @@ The talks are not recorded, they are meant to be for informal discussions with t
 
 (Clicking on the title will take you to the paper on which the talk is based. In case a talk is based on multiple papers, then the most recent paper is linked.)  
 
-5. **[Surprising Connections Between Integer Partitions Statistics: The Crank, Minimal Excludant, and Partition Fixed Points](https://www.sciencedirect.com/science/article/pii/S0012365X24000694)** (*[James E. Sellers](https://www.d.umn.edu/~jsellers/), University of Minnesota Duluth, USA*: 14 March 2024)
+5. **[Surprising Connections Between Integer Partitions Statistics: The Crank, Minimal Excludant, and Partition Fixed Points](https://www.sciencedirect.com/science/article/pii/S0012365X24000694)** (*[James A. Sellers](https://www.d.umn.edu/~jsellers/), University of Minnesota Duluth, USA*: 14 March 2024)
 4. **[New relations of the mex with other partition statistics](https://arxiv.org/abs/2201.05997)** (*[Aritram Dhar](https://www.researchgate.net/profile/Aritram-Dhar), University of Florida, USA*: 28 October 2022)
 3. **[Sequences in Overpartitions](https://arxiv.org/abs/2111.15003)** (*[Ali Kemal Uncu](https://akuncu.com), University of Bath, UK & Austrian Academy of Science, Austria*: 21 October 2022) 
 2. **[Arithmetic Properties of $t$-regular partitions](https://link.springer.com/article/10.1007/s11139-022-00580-6)** (*[Ajit Singh](https://www.researchgate.net/profile/Ajit-Singh-32), Indian Institute of Technology Guwahati, India*: 23 September 2022)  
