@@ -18,6 +18,10 @@ The talks are not recorded, they are meant to be for informal discussions with t
 ## Upcoming Talks
  
 1. **TBA** (*[Gurinder Singh](https://gurindermaan1018.wixsite.com/gurinder), Indian Institute of Technology Guwahati, India*: 01 April 2024)
+2. **TBA** (*[Ajit Singh](https://sites.google.com/view/ajitsingh04/home?authuser=0), University of Virginia, Charlottesville, Virginia, USA*: 15 April 2024)
+3. **TBA** (*[Hirakjyoti Das](https://sites.google.com/view/hirakjyotidas/home?authuser=0), B. Borooah College, Guwahati, India*: 29 April)
+4. **TBA** (*[Cristina M. Ballantine](https://mathcs.holycross.edu/~cballant/), College of the Holy Cross, Worcester, Massachusetts, USA*: 13 May 2024)
+5. **TBA** (*[Pranjal Talukdar](https://www.researchgate.net/scientific-contributions/Pranjal-Talukdar-2225901112), Tezpur University, Assam, India*: 27 May 2024)
 
 ## Past Talks
 
