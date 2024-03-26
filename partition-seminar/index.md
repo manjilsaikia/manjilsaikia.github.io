@@ -17,7 +17,7 @@ The talks are not recorded, they are meant to be for informal discussions with t
 
 ## Upcoming Talks
  
-1. **TBA** (*[Gurinder Singh](https://gurindermaan1018.wixsite.com/gurinder), Indian Institute of Technology Guwahati, India*: 01 April 2024)
+1. **[New parity results for $21$-regular partitions using certain Diophantine equations](https://www.impan.pl/en/publishing-house/journals-and-series/acta-arithmetica/online/115248/certain-diophantine-equations-and-new-parity-results-for-21-regular-partitions)** (*[Gurinder Singh](https://gurindermaan1018.wixsite.com/gurinder), Indian Institute of Technology Guwahati, India*: 01 April 2024)
 2. **TBA** (*[Ajit Singh](https://sites.google.com/view/ajitsingh04/home?authuser=0), University of Virginia, Charlottesville, Virginia, USA*: 15 April 2024)
 3. **TBA** (*[Hirakjyoti Das](https://sites.google.com/view/hirakjyotidas/home?authuser=0), B. Borooah College, Guwahati, India*: 29 April)
 4. **TBA** (*[Cristina M. Ballantine](https://mathcs.holycross.edu/~cballant/), College of the Holy Cross, Worcester, Massachusetts, USA*: 13 May 2024)
