@@ -427,6 +427,10 @@ The books which are marked with a ** are the ones that I am either currently rea
 410. ** **Building a Second Brain: A Proven Method to Organise Your Digital Life and Unlock Your Creative Potential**, *Tiago Forte*, Profile Books, 2022.
 411. ** **Planning Democracy: How a Professor, an Institute and an Idea Shaped India**, *Nikhil Menon*, Viking, 2022.
 412. **An Inky Parade: Tales for Bibliophiles**, *Pradeep Sebastian*, Hachette India, 2024.
+413. **The Cooking of Books: A Literary Memoir**, *Ramachandra Guha*, Juggernaut Books, 2024.
+414. ** **On the End of the World**, *Joseph Roth (Translated by Will Stone)*, Pushkin Press, 2019.
+415. **Issac Newton: Brief Lives**, *Peter Ackroyd*, Vintage, 2007.
+416. **The Lady in Gold: The Extraordinary Tale of Gustav Klimt’s Masterpiece, Portrait of Adele Bloch-Bauer**, *Anne-Marie O’Connor*, Alfred A. Knopf, 2016.
 
 
 ## Fiction
@@ -512,6 +516,8 @@ The books which are marked with a ** are the ones that I am either currently rea
 79. **Paper Moon: A Novel**, *Rehana Munir*, HarperCollins, 2019.
 80. **Birthday Girl**, *Haruki Murakami (Translated by Jay Rubin)*, Harvill Secker, 2019.
 81. **A Bookshop in Algiers**, *Kaouther Adimi (Translated by Chris Andrews)*, Serpent’s Tail, 2022.
+82. **Ghachar Ghochar**, *Vivek Shanbhag (Translated by Srinath Perur)*, Harper Perennial, 2016.
+83. **Mithun Number Two and Other Mumbai Stories**, *Jayant Kaikini (Translated by Tejaswini Niranjana)*, Eka, 2024.
 
 
 ## Graphic Books
