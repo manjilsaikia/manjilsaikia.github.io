@@ -7,12 +7,10 @@ background: '/img/research.jpeg'
 permalink: /research/
 ---
 
-My current work is focused on combinatorics with a side interest in number theory. I am also interested in history of mathematics. For my publications, see below (arranged in reverse chronological order of publication).
+My current work is focused on combinatorics (enumerative and algebraic), $q$-series and integer partitions, with a strong interest in some aspects of theoretical computer science. For some of my work, see below (arranged in reverse chronological order of publication, *some of the papers here may not be the final version that appeared*).
 
 [MathSciNet Profile](http://www.ams.org/mathscinet/search/author.html?mrauthid=962403) (needs subscription)  
 [ZbMath Profile](https://zbmath.org/authors/?q=ai:saikia.manjil-p)
-
-Some of the papers here may not be the final version that appeared, if you want a latest version send me an email.
 
 ## Preprints
 
