@@ -14,7 +14,7 @@ My current work is focused on combinatorics (enumerative and algebraic), $q$-ser
 
 ## Preprints
 
-4. *Signed Roman Domination Number of Cartesian product of  cycles, paths, and its complement graphs*, (with *[Delbrin Ahmed](https://uod.ac/ac/c/cbe/departments/mathematics/academic-members/delbrin-ahmed/), [Dilbak Haje](https://uod.ac/staff/delpak-haji-muhamad/) and [Hassan Izanloo](Hassan Izanloo)*), in preparation, 2024.
+4. *Signed Roman Domination Number of Cartesian product of  cycles, paths, and its complement graphs*, (with *[Delbrin Ahmed](https://uod.ac/ac/c/cbe/departments/mathematics/academic-members/delbrin-ahmed/), [Dilbak Haje](https://uod.ac/staff/delpak-haji-muhamad/) and Hassan Izanloo*), in preparation, 2024.
 
 3. *Arithmetic Properties for Overpartition $k$-tuples with Odd Parts*, (with *[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/) and [Hirakjyoti Das](https://sites.google.com/view/hirakjyotidas/home?authuser=0)*), in preparation, 2024.
 
