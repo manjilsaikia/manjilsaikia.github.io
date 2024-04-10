@@ -17,7 +17,7 @@ The talks are not recorded, they are meant to be for informal discussions with t
 
 ## Upcoming Talks
  
-1. **MacMahon's sums-of-divisors and allied $q$-series** (*[Ajit Singh](https://sites.google.com/view/ajitsingh04/home?authuser=0), University of Virginia, Charlottesville, Virginia, USA*: 15 April 2024)
+1. **[MacMahon's sums-of-divisors and allied $q$-series](https://arxiv.org/pdf/2311.07496.pdf)** (*[Ajit Singh](https://sites.google.com/view/ajitsingh04/home?authuser=0), University of Virginia, Charlottesville, Virginia, USA*: 15 April 2024)
 2. **TBA** (*[Hirakjyoti Das](https://sites.google.com/view/hirakjyotidas/home?authuser=0), B. Borooah College, Guwahati, India*: 29 April)
 3. **TBA** (*[Cristina M. Ballantine](https://mathcs.holycross.edu/~cballant/), College of the Holy Cross, Worcester, Massachusetts, USA*: 13 May 2024)
 4. **TBA** (*[Pranjal Talukdar](https://www.researchgate.net/scientific-contributions/Pranjal-Talukdar-2225901112), Tezpur University, Assam, India*: 27 May 2024)
