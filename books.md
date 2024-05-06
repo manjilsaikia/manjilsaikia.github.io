@@ -431,6 +431,13 @@ The books which are marked with a ** are the ones that I am either currently rea
 414. ** **On the End of the World**, *Joseph Roth (Translated by Will Stone)*, Pushkin Press, 2019.
 415. **Issac Newton: Brief Lives**, *Peter Ackroyd*, Vintage, 2007.
 416. **The Lady in Gold: The Extraordinary Tale of Gustav Klimt’s Masterpiece, Portrait of Adele Bloch-Bauer**, *Anne-Marie O’Connor*, Alfred A. Knopf, 2016.
+417. **Fire on the Ganges: Life among the Dead in Banaras**, *Radhika Iyengar*, Fourth Estate, 2023.
+418. **Ebola: The Natural and Human History of a Deadly Virus**, *David Quammen*, W. W. Norton & Company, 2014.
+419. **The Chimp the River: How AIDS Emerged from an African Forest**, *David Quammen*, W. W. Norton & Company, 2015.
+420. **Spillover: Animal Infections and the Next Human Pandemic**, *David Quammen*, Vintage, 2013.
+421. **Just Transferred: The Untold Story of Ashok Khemka**, *Bhavdeep Kang and Namita Kala*, HarperCollins Publishers India, 2020.
+422. **Dreamers: How Young Indians are Changing Their World**, *Snigdha Poonam*, Penguin Books, 2019.
+423. **India Before Modi: How the BJP Came to Power**, *Vinay Sitapati*, C. Hurst & Company, 2021.
 
 
 ## Fiction
