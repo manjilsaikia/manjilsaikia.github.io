@@ -17,6 +17,8 @@ Courses where I was/am the co-instructor are marked with **.
 
 **MAT256: Differential Equations** (Undergraduate, August 2024 - December 2024)
 
+**MAT000: Mathematics for Business** ** (First year MBA, July 2024 & July 2023)
+
 **MAT248: Applied Linear Algebra** ** (Second Year undergraduates, March 2024 - April 2024)
 
 **MAT515: Combinatorial Enumeration** (Advanced reading course, January 2024 - April 2024)
@@ -28,8 +30,6 @@ Courses where I was/am the co-instructor are marked with **.
 **CSE525: Theory of Computing** (Fourth Year BTech/BS, August 2023 - December 2023)
 
 **Foundation Programme: Environment and Climate Change** ** (First Year Undergraduate, August 2023 - September 2023)
-
-**MAT000: Mathematics for Business** ** (First year MBA, July 2023)
 
 # IIIT Manipur
 
