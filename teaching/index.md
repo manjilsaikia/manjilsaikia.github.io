@@ -11,6 +11,12 @@ Courses where I was/am the co-instructor are marked with **.
 
 # Ahmedabad University
 
+**MAT315/MAT515: Combinatorial Enumeration** (Advanced Undergraduate, August 2024 - December 2024)
+
+**CSC725: Theory of Computation** (PhD course, August 2024 - December 2024)
+
+**MAT256: Differential Equations** (Undergraduate, August 2024 - December 2024)
+
 **MAT248: Applied Linear Algebra** ** (Second Year undergraduates, March 2024 - April 2024)
 
 **MAT515: Combinatorial Enumeration** (Advanced reading course, January 2024 - April 2024)
