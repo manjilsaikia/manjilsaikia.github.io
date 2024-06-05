@@ -13,8 +13,6 @@ Courses where I was/am the co-instructor are marked with **.
 
 **MAT315/MAT515: Combinatorial Enumeration** (Advanced Undergraduate, August 2024 - December 2024)
 
-**CSC725: Theory of Computation** (PhD course, August 2024 - December 2024)
-
 **MAT256: Differential Equations** (Undergraduate, August 2024 - December 2024)
 
 **MAT000: Mathematics for Business** ** (First year MBA, July 2024 & July 2023)
