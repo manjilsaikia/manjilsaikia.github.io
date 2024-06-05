@@ -438,6 +438,12 @@ The books which are marked with a ** are the ones that I am either currently rea
 421. **Just Transferred: The Untold Story of Ashok Khemka**, *Bhavdeep Kang and Namita Kala*, HarperCollins Publishers India, 2020.
 422. **Dreamers: How Young Indians are Changing Their World**, *Snigdha Poonam*, Penguin Books, 2019.
 423. **India Before Modi: How the BJP Came to Power**, *Vinay Sitapati*, C. Hurst & Company, 2021.
+424. ** **India Rising: Tales from a Changing Nation**, *Oliver Balch*, Faber and Faber, 2013.
+425. **The Braided River: A Journey along the Brahmaputra**, *Samrat Choudhury*, HarperCollins Publishers, 2021.
+426. **Bombay-London-New York: A Literary Journey**, *Amitava Kumar*, Penguin Books India, 2002.
+427. **On Women: Selected Writings**, *Khushwant Singh and Humra Quraishi*, Rupa Publications, 2014.
+428. **The Vanished Collection: Stolen masterpieces, family secrets and one woman’s quest for the truth**, *Pauline Baer de Perignon (Translated by Natasha Lehrer)*, Head of Zeus Ltd, 2023.
+429. ** **The Human Side of Science: Edison and Tesla, Watson and Crick, and Other Personal Stories behind Science's Big Ideas**, *Arthur W. Wiggins and Charles M. Wynn (Illustrations by Sidney Harris)*, Prometheus Books, 2016.
 
 
 ## Fiction
