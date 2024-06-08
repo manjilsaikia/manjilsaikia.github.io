@@ -16,7 +16,7 @@ My current work is focused on combinatorics (enumerative and algebraic), $q$-ser
 
 5. *Signed Roman Domination Number of Cartesian product of  cycles, paths, and its complement graphs*, (with *[Delbrin Ahmed](https://uod.ac/ac/c/cbe/departments/mathematics/academic-members/delbrin-ahmed/), [Dilbak Haje](https://uod.ac/staff/delpak-haji-muhamad/) and Hassan Izanloo*), preprint, 2024.
 
-4. *Arithmetic Properties for Overpartition $k$-tuples with Odd Parts*, (with *[Hirakjyoti Das](https://sites.google.com/view/hirakjyotidas/home?authuser=0) and [Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/)*), preprint, 2024.
+4. *Arithmetic Properties Modulo Powers of $2$ and $3$ for Overpartition $k$-tuples with Odd Parts*, (with *[Hirakjyoti Das](https://sites.google.com/view/hirakjyotidas/home?authuser=0) and [Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/)*), preprint, 2024.
 
 3. *On near $F_k$-perfect and deficient $F_k$-perfect numbers*, (with *Flora S. Jeba, [Pankaj Jyoti Mahanta](http://pankajjyoti.com/) and Anirban Roy*), preprint, 2024.
 
