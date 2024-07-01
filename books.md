@@ -444,6 +444,12 @@ The books which are marked with a ** are the ones that I am either currently rea
 427. **On Women: Selected Writings**, *Khushwant Singh and Humra Quraishi*, Rupa Publications, 2014.
 428. **The Vanished Collection: Stolen masterpieces, family secrets and one woman’s quest for the truth**, *Pauline Baer de Perignon (Translated by Natasha Lehrer)*, Head of Zeus Ltd, 2023.
 429. ** **The Human Side of Science: Edison and Tesla, Watson and Crick, and Other Personal Stories behind Science's Big Ideas**, *Arthur W. Wiggins and Charles M. Wynn (Illustrations by Sidney Harris)*, Prometheus Books, 2016.
+430. **River Dog: A Journey Down the Brahmaputra**, *Mark Shand*, Abacus, 2014.
+431. ** **Secular Common Sense**, *Mukul Kesavan*, Penguin Books, 2001.
+432. ** **India Grows at Night: A Liberal Case for a Strong State**, *Gurcharan Das*, Penguin Books, 2013.
+433. **The End of India**, *Khushwant Singh*, Penguin Books, 2003.
+434. **Understanding the Founding Fathers: An Enquiry into the Indian Republic's Beginnings**, *Rajmohan Gandhi*, Aleph Book Company, 2016.
+435. **Rickshaw Ragtime: Calcutta Remembered**, *Jug Suraiya*, Penguin Books, 1993.
 
 
 ## Fiction
@@ -531,6 +537,7 @@ The books which are marked with a ** are the ones that I am either currently rea
 81. **A Bookshop in Algiers**, *Kaouther Adimi (Translated by Chris Andrews)*, Serpent’s Tail, 2022.
 82. **Ghachar Ghochar**, *Vivek Shanbhag (Translated by Srinath Perur)*, Harper Perennial, 2016.
 83. **Mithun Number Two and Other Mumbai Stories**, *Jayant Kaikini (Translated by Tejaswini Niranjana)*, Eka, 2024.
+84. **The Revenge of the Non-Vegetarian**, *Upamanyu Chatterjee*, Speaking Tiger, 2018.
 
 
 ## Graphic Books
