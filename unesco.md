@@ -77,7 +77,8 @@ Hill Forts of Rajasthan: Amber Sub-cluster (January 2018)
 The Architectural Works of Le Corbusier, Chandigarh (July 2011)  
 Jaipur (January 2018)  
 Hill Forts of Rajasthan: Chittorgarh Fort (November 2023)  
-Historic City of Ahmadabad (November 2023)
+Historic City of Ahmadabad (November 2023)  
+Western Ghats (June 2024)
 
 **Italy**
 
