@@ -14,7 +14,7 @@ My current work is focused on combinatorics (enumerative and algebraic), $q$-ser
 
 ## Preprints
 
-5. *The Signed Roman Domination Number of Ladder graphs, circular Ladder graphs and their complements*, (with *[Delbrin Ahmed](https://uod.ac/ac/c/cbe/departments/mathematics/academic-members/delbrin-ahmed/), [Dilbak Haje](https://uod.ac/staff/delpak-haji-muhamad/) and Hassan Izanloo*), preprint, 2024. ([pdf](/publ/papers/SRDF.pdf))
+5. *The Signed Roman Domination Number of Ladder graphs, circular Ladder graphs and their complements*, (with *[Dilbak Haje](https://uod.ac/staff/delpak-haji-muhamad/), [Delbrin Ahmed](https://uod.ac/ac/c/cbe/departments/mathematics/academic-members/delbrin-ahmed/), and Hassan Izanloo*), preprint, 2024. ([pdf](/publ/papers/SRDF.pdf))
 
 4. *Arithmetic Properties Modulo Powers of $2$ and $3$ for Overpartition $k$-Tuples with Odd Parts*, (with *[Hirakjyoti Das](https://sites.google.com/view/hirakjyotidas/home?authuser=0) and [Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/)*), preprint, 2024. ([pdf](/publ/papers/opt_density.pdf))
 
