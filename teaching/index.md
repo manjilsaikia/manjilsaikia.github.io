@@ -11,11 +11,13 @@ Courses where I was/am the co-instructor are marked with **.
 
 # Ahmedabad University
 
+**MAT165: Gateway to Abstract Reasoning** (First Year undergraduates, October 2024 - February 2025)
+
 **MAT315/MAT515: Combinatorial Enumeration** (Advanced Undergraduate, August 2024 - December 2024)
 
 **MAT256: Differential Equations** (Undergraduate, August 2024 - December 2024)
 
-**MAT000: Mathematics for Business** ** (First year MBA, July 2024 & July 2023)
+**MAT000: Mathematics for Business** ** (First Year MBA, July 2024 & July 2023)
 
 **MAT248: Applied Linear Algebra** ** (Second Year undergraduates, March 2024 - April 2024)
 
