@@ -11,7 +11,7 @@ Courses where I was/am the co-instructor are marked with **.
 
 # Ahmedabad University
 
-**MAT165: Gateway to Abstract Reasoning** (First Year undergraduates, October 2024 - February 2025)
+**MAT165: Gateway to Abstract Reasoning** ** (First Year undergraduates, October 2024 - February 2025)
 
 **MAT315/MAT515: Combinatorial Enumeration** (Advanced Undergraduate, August 2024 - December 2024)
 
