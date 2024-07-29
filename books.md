@@ -450,6 +450,12 @@ The books which are marked with a ** are the ones that I am either currently rea
 433. **The End of India**, *Khushwant Singh*, Penguin Books, 2003.
 434. **Understanding the Founding Fathers: An Enquiry into the Indian Republic's Beginnings**, *Rajmohan Gandhi*, Aleph Book Company, 2016.
 435. **Rickshaw Ragtime: Calcutta Remembered**, *Jug Suraiya*, Penguin Books, 1993.
+436. **Degree Coffee by the Yard: A Short Biography of Madras**, *Nirmala Lakshman*, Aleph Book Company, 2013.
+437. **Librorum Ridiculorum: A Compendium of Bizarre Books**, *Brian Lake*, HarperCollins Publishers, 2022.
+438. **Twilight Prisoners: The Rise of the Hindu Right and the Decline of India**, *Siddhartha Deb*, Context, 2024.
+439. **The Lost Gutenberg: The Astounding Story of One Book’s Five-Hundred-Year Odyssey**, *Margaret Leslie Davis*, Atlantic Books, 2019.
+440. **Hitler's Last Hostages: Looted Art and the Soul of the Third Reich**, *Mary M. Lane*, PublicAffairs, 2019.
+441. **Behind the Beautiful Forevers: Life, Death, and Hope in a Mumbai Undercity**, *Katherine Boo*, Penguin Books, 2013.
 
 
 ## Fiction
@@ -538,6 +544,8 @@ The books which are marked with a ** are the ones that I am either currently rea
 82. **Ghachar Ghochar**, *Vivek Shanbhag (Translated by Srinath Perur)*, Harper Perennial, 2016.
 83. **Mithun Number Two and Other Mumbai Stories**, *Jayant Kaikini (Translated by Tejaswini Niranjana)*, Eka, 2024.
 84. **The Revenge of the Non-Vegetarian**, *Upamanyu Chatterjee*, Speaking Tiger, 2018.
+85. **The Company of Women**, *Khushwant Singh*, Penguin Books, 2000.
+86. **English, August: An Indian Story**, *Upamanyu Chatterjee*, Rupa & Co., 1996.
 
 
 ## Graphic Books
