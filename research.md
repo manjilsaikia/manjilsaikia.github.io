@@ -14,57 +14,61 @@ My current work is focused on combinatorics (enumerative and algebraic), $q$-ser
 
 ## Preprints
 
-6. *Congruences for Andrews-Uncu's partition function $\mathcal{EO}_u(n)$*, (with *[Nayandeep Deka Baruah](https://www.tezu.ernet.in/dmaths/people/faculty-pages/ndb.html)*, *[Hirakjyoti Das](https://sites.google.com/view/hirakjyotidas/home?authuser=0) and [Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/)*), preprint, 2024.
+6. *A Novel Approach to Counting Perfect Matchings of Graphs*, (with *[Pravakar Paul](https://ahduni.edu.in/academics/schools-centres/school-of-arts-and-sciences/faculty/pravakar-paul/)*), preprint, 2024. ([pdf](https://arxiv.org/abs/2408.10273))
 
-5. *The Signed Roman Domination Number of Ladder graphs, circular Ladder graphs and their complements*, (with *[Dilbak Haje](https://uod.ac/staff/delpak-haji-muhamad/), [Delbrin Ahmed](https://uod.ac/ac/c/cbe/departments/mathematics/academic-members/delbrin-ahmed/), and Hassan Izanloo*), preprint, 2024. ([pdf](/publ/papers/SRDF.pdf))
+5. *Congruences for Andrews-Uncu's partition function $\mathcal{EO}_u(n)$*, (with *[Nayandeep Deka Baruah](https://www.tezu.ernet.in/dmaths/people/faculty-pages/ndb.html)*, *[Hirakjyoti Das](https://sites.google.com/view/hirakjyotidas/home?authuser=0) and [Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/)*), preprint, 2024.
 
-4. *Arithmetic Properties Modulo Powers of $2$ and $3$ for Overpartition $k$-Tuples with Odd Parts*, (with *[Hirakjyoti Das](https://sites.google.com/view/hirakjyotidas/home?authuser=0) and [Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/)*), preprint, 2024. ([pdf](/publ/papers/opt_density.pdf))
+4. *The Signed Roman Domination Number of Ladder graphs, circular Ladder graphs and their complements*, (with *[Dilbak Haje](https://uod.ac/staff/delpak-haji-muhamad/), [Delbrin Ahmed](https://uod.ac/ac/c/cbe/departments/mathematics/academic-members/delbrin-ahmed/), and Hassan Izanloo*), preprint, 2024. ([pdf](https://arxiv.org/abs/2407.07182))
 
-3. *On near $F_k$-perfect and deficient $F_k$-perfect numbers*, (with *Flora S. Jeba, [Pankaj Jyoti Mahanta](http://pankajjyoti.com/) and Anirban Roy*), preprint, 2024.
+3. *Arithmetic Properties Modulo Powers of $2$ and $3$ for Overpartition $k$-Tuples with Odd Parts*, (with *[Hirakjyoti Das](https://sites.google.com/view/hirakjyotidas/home?authuser=0) and [Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/)*), preprint, 2024. ([pdf](/publ/papers/opt_density.pdf))
 
-2. *Arithmetic Properties Modulo Powers of $2$ for Overpartition $k$-Tuples with Odd Parts*, (with *[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/) and [James A. Sellers](https://www.d.umn.edu/~jsellers/)*), preprint, 2023. ([pdf](https://arxiv.org/pdf/2312.12011.pdf))
+2. *On near $F_k$-perfect and deficient $F_k$-perfect numbers*, (with *Flora S. Jeba, [Pankaj Jyoti Mahanta](http://pankajjyoti.com/) and Anirban Roy*), preprint, 2024.
 
 1. *Biases in Non-Unitary Partitions*, (with *[Pankaj Jyoti Mahanta](http://pankajjyoti.com/) and [Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/)*), preprint, 2022. ([pdf](/publ/papers/bisa_new.pdf))
 
 ## Peer Reviewed Papers
 
+30. *Arithmetic Properties Modulo Powers of $2$ for Overpartition $k$-Tuples with Odd Parts*, (with *[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/) and [James A. Sellers](https://www.d.umn.edu/~jsellers/)*), *Journal of the Ramanujan Mathematical Society*, accepted, 2024. ([pdf](https://arxiv.org/pdf/2312.12011.pdf))
+
+29. *Further congruences for $(4,8)$-regular bipartition quadruples modulo powers of $2$*, *Journal of the Assam Academy of Mathematics*, accepted, 2024. ([pdf](/publ/papers/quad-alg.pdf))
+
 28. *On $k$-Facile Perfect Numbers*, (with *Flora S. Jeba and Anirban Roy*), *Springer Proceedings of International Conference on Algebra and its Applications 2023, Fez, Morocco*, to appear, 2024. ([pdf](/publ/papers/fr_2.pdf))
 
 27. *Ramanujan-type Congruences for Partition $k$-Tuples with $5$-Cores*, (with *[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/) and Pranjal Talukdar*), *Indian Journal of Pure and Applied Mathematics*, accepted, 2024. ([pdf](https://arxiv.org/pdf/2302.01750.pdf))
 
-26. *Extensions of some results of Jovovic and Dhar*, (with *[Pankaj Jyoti Mahanta](http://pankajjyoti.com/)*), *Journal of the Ramanujan Mathematical Society*, accepted, 2024. ([pdf](/publ/papers/Partition_Vladeta.pdf))
+26. *Extensions of some results of Jovovic and Dhar*, (with *[Pankaj Jyoti Mahanta](http://pankajjyoti.com/)*), *Journal of the Ramanujan Mathematical Society*, accepted, 2024. ([pdf](https://arxiv.org/pdf/2301.09849))
 
 25. *On near-perfect numbers with five prime factors*, (with *Flora Jeba S and Anirban Roy*), *DeGruyter Proceedings of 2nd ICRTMPCS 2023 "Advances in Mathematical and Computational Sciences"*, to appear, 2024. ([pdf](/publ/papers/fr_1.pdf))
 
 24. *Conjectures on congruences of binomial coefficients modulo higher powers of a prime number*, *Journal of the Assam Academy of Mathematics*, *Journal of the Assam Academy of Mathematics*, 2023, 13, 5-7. ([pdf](https://jaam.aamonline.org.in/ojs/index.php/j/article/view/58/27))
 
-23. *Some Missed Congruences modulo powers of $2$ for $t$-colored overpartitions*, *Boletín de la Sociedad Matemática Mexicana*, 2023, 29 (1), Article  15, 10 pp. ([pdf](/publ/papers/NNcong.pdf))
+23. *Some Missed Congruences modulo powers of $2$ for $t$-colored overpartitions*, *Boletín de la Sociedad Matemática Mexicana*, 2023, 29 (1), Article  15, 10 pp. ([pdf](https://arxiv.org/pdf/2301.09846))
 
 22. *Representing Even Perfect and Near-Perfect Numbers as Sums of Cubes*, (with *Padma Bhushan Borah and [Pankaj Jyoti Mahanta](http://pankajjyoti.com/)*), *Journal of the Assam Academy of Mathematics*, 2022, 12, 1-7. ([pdf](https://jaam.aamonline.org.in/ojs/index.php/j/article/view/57))
 
 21. *Parity Biases in Partitions and Restricted Partitions*, (with *Koustav Banerjee, Sreerupa Bhattacharjee, Manosij Ghosh Dastidar and [Pankaj Jyoti Mahanta](http://pankajjyoti.com/)*), *Séminaire Lotharingien de Combinatoire (Proceedings of the 34th Conference on Formal Power Series and Algebraic Combinatorics 2022 (Bangalore))*, 86B.21, 2022. ([pdf](/publ/papers/FPSAC2022.pdf))
 
-20. *Refinement of some partition identities of Merca and Yee*, (with *[Pankaj Jyoti Mahanta](http://pankajjyoti.com/)*), *International Journal of Number Theory*, 2022, 18 (5), 1131-1142. ([pdf](/publ/papers/PJM_MY.pdf))
+20. *Refinement of some partition identities of Merca and Yee*, (with *[Pankaj Jyoti Mahanta](http://pankajjyoti.com/)*), *International Journal of Number Theory*, 2022, 18 (5), 1131-1142. ([pdf](https://arxiv.org/pdf/2111.10587))
 
-19. *Some New and Old Gibonacci Identities*, (with *[Pankaj Jyoti Mahanta](http://pankajjyoti.com/)*), *Rocky Mountain Journal of Mathematics*, 2022, 52 (2), 645-665. ([pdf](/publ/papers/Gibonacci_Pankaj.pdf))
+19. *Some New and Old Gibonacci Identities*, (with *[Pankaj Jyoti Mahanta](http://pankajjyoti.com/)*), *Rocky Mountain Journal of Mathematics*, 2022, 52 (2), 645-665. ([pdf](https://arxiv.org/pdf/2008.04842))
 
-18. *Parity Biases in Partitions and Restricted Partitions*, (with *Koustav Banerjee, Sreerupa Bhattacharjee, Manosij Ghosh Dastidar and [Pankaj Jyoti Mahanta](http://pankajjyoti.com/)*), *European Journal of Combinatorics*, 2022, 103, 103522, 19 pp. ([pdf](/publ/papers/parity_Final.pdf))
+18. *Parity Biases in Partitions and Restricted Partitions*, (with *Koustav Banerjee, Sreerupa Bhattacharjee, Manosij Ghosh Dastidar and [Pankaj Jyoti Mahanta](http://pankajjyoti.com/)*), *European Journal of Combinatorics*, 2022, 103, 103522, 19 pp. ([pdf](https://arxiv.org/pdf/2111.10590))
  
 17. *Refined Enumeration of Symmetry Classes of Alternating Sign Matrices*, (with *[Ilse Fischer](https://www.mat.univie.ac.at/~ifischer/)*), *Journal of Combinatorial Theory, Series A*, 2021, 178, 105350, 51 pp. ([pdf](https://arxiv.org/pdf/1906.07723.pdf))
 
-16. *A family of lacunary recurrences for Lucas Numbers*, (with *[Pankaj Jyoti Mahanta](http://pankajjyoti.com/)*), *The Fibonacci Quarterly*, 2020, 58 (4), 356-360. ([pdf](/publ/papers/Lucas_Pankaj.pdf))
+16. *A family of lacunary recurrences for Lucas Numbers*, (with *[Pankaj Jyoti Mahanta](http://pankajjyoti.com/)*), *The Fibonacci Quarterly*, 2020, 58 (4), 356-360. ([pdf](https://arxiv.org/pdf/2008.04841))
 
-15. *Some properties of Zumkeller numbers and $k$-layered numbers*, (with *[Pankaj Jyoti Mahanta](http://pankajjyoti.com/) and Daniel Yaqubi*), *Journal of Number Theory*, 2020, 217, 218–236. ([pdf](/publ/papers/Zumkeller_Numbers.pdf))
+15. *Some properties of Zumkeller numbers and $k$-layered numbers*, (with *[Pankaj Jyoti Mahanta](http://pankajjyoti.com/) and Daniel Yaqubi*), *Journal of Number Theory*, 2020, 217, 218–236. ([pdf](https://arxiv.org/pdf/2008.11096))
 
-14. *Hard and Easy Instances of L-Tromino Tilings*, (with *Javier T. Akagi, Carlos F. Gaona, Fabricio Mendoza and [Marcos Villagra](https://sites.google.com/site/marcosvillagrahome/home)*) *Theoretical Computer Science*, 2020, 815, 197-212. ([pdf](publ/papers/tcs.pdf))
+14. *Hard and Easy Instances of L-Tromino Tilings*, (with *Javier T. Akagi, Carlos F. Gaona, Fabricio Mendoza and [Marcos Villagra](https://sites.google.com/site/marcosvillagrahome/home)*) *Theoretical Computer Science*, 2020, 815, 197-212. ([pdf](https://arxiv.org/pdf/1710.04640))
 
 13. *On Deficient Perfect Numbers with Four Distinct Prime Factors*, (with *Parama Dutta*) *Asian-European Journal of Mathematics*, 2020, 13 (7), 2050126, 13 pp. ([pdf](https://arxiv.org/pdf/1906.09947.pdf))
 
 12. *Hard and Easy Instances of L-Tromino Tilings*, (with *Javier T. Akagi, Carlos F. Gaona, Fabricio Mendoza and [Marcos Villagra](https://sites.google.com/site/marcosvillagrahome/home)*) *Proceedings of the 13th International Conference and Workshops on Algorithms and Computation (WALCOM) 2019, Lecture Notes in Computer Science (LNCS)*, Volume 11355, Springer, 2019, 82-95. ([pdf](/publ/papers/paper_22.pdf))
 
-11. *Enumeration of Domino Tilings of an Aztec Rectangle with boundary defects*, *Advances in Applied Mathematics*, 2017, 89, 41–66.
+11. *Enumeration of Domino Tilings of an Aztec Rectangle with boundary defects*, *Advances in Applied Mathematics*, 2017, 89, 41–66. ([pdf](https://arxiv.org/pdf/1605.09169))
 
-10. *Some Properties of Fibonacci Numbers, Generalized Fibonacci Numbers and Generalized Fibonacci Polynomial Sequences*, (with *Alexandre Laugier*) *Kyungpook Mathematical Journal*, 2017, 57 (1), 1–84.
+10. *Some Properties of Fibonacci Numbers, Generalized Fibonacci Numbers and Generalized Fibonacci Polynomial Sequences*, (with *Alexandre Laugier*) *Kyungpook Mathematical Journal*, 2017, 57 (1), 1–84. ([pdf](https://kmj.knu.ac.kr/journal/download_pdf.php?doi=10.5666/KMJ.2017.57.1.1))
 
 9. *Some Results on Generalized Multiplicative Perfect Numbers*, (with *Alexandre Laugier and Upam Sarmah*) *Annali Dell’Universita’ di Ferrara*, 2016, 62 (2), 293–312. ([pdf](http://arxiv.org/pdf/1603.04382.pdf))
 
@@ -105,8 +109,6 @@ My current work is focused on combinatorics (enumerative and algebraic), $q$-ser
 1. *Solution to Problem 1908 of Mathematics Magazine*, (with *Bishal Deb*), *The Mathematics Magazine*, December 2013, 86 (5), 384 — 385.
 
 ## Non Peer-Reviewed Papers
-
-9. *Further congruences for $(4,8)$-regular bipartition quadruples modulo powers of $2$*, preprint, 2023. ([pdf](/publ/papers/quad-alg.pdf))
 
 8. *Almost Circular Balancing Numbers*, *Advances in Mathematical Sciences* (Z. Ahmed (ed.)), Empyreal Publishing House, 2019, 61 — 67. ([pdf](http://www.editedbook.in/pdf/dr-zakir-ahmed-edited.pdf#%5B%7B%22num%22%3A72%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C73.441%2C696.959%2Cnull%5D))
 
