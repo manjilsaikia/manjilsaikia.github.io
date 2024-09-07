@@ -30,15 +30,15 @@ My current work is focused on combinatorics (enumerative and algebraic), $q$-ser
 
 30. *Arithmetic Properties Modulo Powers of $2$ for Overpartition $k$-Tuples with Odd Parts*, (with *[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/) and [James A. Sellers](https://www.d.umn.edu/~jsellers/)*), *Journal of the Ramanujan Mathematical Society*, accepted, 2024. ([pdf](https://arxiv.org/pdf/2312.12011.pdf))
 
-29. *Further congruences for $(4,8)$-regular bipartition quadruples modulo powers of $2$*, *Journal of the Assam Academy of Mathematics*, accepted, 2024. ([pdf](/publ/papers/quad-alg.pdf))
+29. *On $k$-Facile Perfect Numbers*, (with *Flora S. Jeba and Anirban Roy*), *Springer Proceedings of International Conference on Algebra and its Applications 2023, Fez, Morocco*, to appear, 2024. ([pdf](/publ/papers/fr_2.pdf))
 
-28. *On $k$-Facile Perfect Numbers*, (with *Flora S. Jeba and Anirban Roy*), *Springer Proceedings of International Conference on Algebra and its Applications 2023, Fez, Morocco*, to appear, 2024. ([pdf](/publ/papers/fr_2.pdf))
+28. *Ramanujan-type Congruences for Partition $k$-Tuples with $5$-Cores*, (with *[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/) and Pranjal Talukdar*), *Indian Journal of Pure and Applied Mathematics*, accepted, 2024. ([pdf](https://arxiv.org/pdf/2302.01750.pdf))
 
-27. *Ramanujan-type Congruences for Partition $k$-Tuples with $5$-Cores*, (with *[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/) and Pranjal Talukdar*), *Indian Journal of Pure and Applied Mathematics*, accepted, 2024. ([pdf](https://arxiv.org/pdf/2302.01750.pdf))
+27. *Extensions of some results of Jovovic and Dhar*, (with *[Pankaj Jyoti Mahanta](http://pankajjyoti.com/)*), *Journal of the Ramanujan Mathematical Society*, accepted, 2024. ([pdf](https://arxiv.org/pdf/2301.09849))
 
-26. *Extensions of some results of Jovovic and Dhar*, (with *[Pankaj Jyoti Mahanta](http://pankajjyoti.com/)*), *Journal of the Ramanujan Mathematical Society*, accepted, 2024. ([pdf](https://arxiv.org/pdf/2301.09849))
+26. *On near-perfect numbers with five prime factors*, (with *Flora Jeba S and Anirban Roy*), *DeGruyter Proceedings of 2nd ICRTMPCS 2023 "Advances in Mathematical and Computational Sciences"*, to appear, 2024. ([pdf](/publ/papers/fr_1.pdf))
 
-25. *On near-perfect numbers with five prime factors*, (with *Flora Jeba S and Anirban Roy*), *DeGruyter Proceedings of 2nd ICRTMPCS 2023 "Advances in Mathematical and Computational Sciences"*, to appear, 2024. ([pdf](/publ/papers/fr_1.pdf))
+25. *Further congruences for $(4,8)$-regular bipartition quadruples modulo powers of $2$*, *Journal of the Assam Academy of Mathematics*, 2024, 14, 1-5. ([pdf](https://jaam.aamonline.org.in/ojs/index.php/j/article/view/62/jaam-2024-1))
 
 24. *Conjectures on congruences of binomial coefficients modulo higher powers of a prime number*, *Journal of the Assam Academy of Mathematics*, *Journal of the Assam Academy of Mathematics*, 2023, 13, 5-7. ([pdf](https://jaam.aamonline.org.in/ojs/index.php/j/article/view/58/27))
 
