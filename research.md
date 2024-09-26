@@ -14,6 +14,10 @@ My current work is focused on combinatorics (enumerative and algebraic), $q$-ser
 
 ## Preprints
 
+8. *Symmetric Domino Tilings of Aztec Diamonds*, (with *[Pravakar Paul](https://ahduni.edu.in/academics/schools-centres/school-of-arts-and-sciences/faculty/pravakar-paul/)*), preprint, 2024.
+
+7. *Further Arithmetic Properties of Overcubic Partition Triples*, (with *[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/)*), preprint, 2024.
+
 6. *A Novel Approach to Counting Perfect Matchings of Graphs*, (with *[Pravakar Paul](https://ahduni.edu.in/academics/schools-centres/school-of-arts-and-sciences/faculty/pravakar-paul/)*), preprint, 2024. ([pdf](https://arxiv.org/abs/2408.10273))
 
 5. *Congruences for Andrews-Uncu's partition function $\mathcal{EO}_u(n)$*, (with *[Nayandeep Deka Baruah](https://www.tezu.ernet.in/dmaths/people/faculty-pages/ndb.html)*, *[Hirakjyoti Das](https://sites.google.com/view/hirakjyotidas/home?authuser=0) and [Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/)*), preprint, 2024.
