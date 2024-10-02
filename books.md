@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Books
-description: Books that I have read since August 2014.
+description: Books I read between August 2014 and July 2024.
 background: '/img/books.jpeg'
 permalink: /books-old/
 ---
