@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Books: Fiction
+title: Books - Fiction
 description: Fiction Books that I have read since August 2024.
 background: '/img/books.jpeg'
 permalink: /books/fiction/
