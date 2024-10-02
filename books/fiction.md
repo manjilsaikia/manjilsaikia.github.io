@@ -3,7 +3,7 @@ layout: page
 title: Books: Fiction
 description: Fiction Books that I have read since August 2024.
 background: '/img/books.jpeg'
-permalink: /books/fiction
+permalink: /books/fiction/
 ---
 
 Starting from August 2014, I have decided to keep a record of the books that I have read or am currently reading. This list is just for my own personal recollection, but once in a while if I find the book very appealing I may post a review somewhere.
