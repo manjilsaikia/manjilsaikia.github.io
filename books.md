@@ -3,12 +3,12 @@ layout: page
 title: Books
 description: Books that I have read since August 2014.
 background: '/img/books.jpeg'
-permalink: /books/
+permalink: /books-old/
 ---
 
 Starting from August 2014, I have decided to keep a record of the books that I have read or am currently reading. This list is just for my own personal recollection, but once in a while if I find the book very appealing I may post a review somewhere.
 
-The books which are marked with a ** are the ones that I am either currently reading or have not read completely but plan to do so in the future.
+**The list of all books that I read between August 2014 - July 2024 (a decade) is given below.** For the rest of the books please refer to this [page](/books/). The books which are marked with a ** are the ones that I am either currently reading or have not read completely but plan to do so in the future.
 
 >All the books that I read are rated on [Goodreads](https://www.goodreads.com/user/show/36494310-manjil).
 
