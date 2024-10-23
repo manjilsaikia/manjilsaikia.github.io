@@ -42,7 +42,7 @@ My current work is focused on combinatorics (enumerative and algebraic), $q$-ser
 
 27. *Extensions of some results of Jovovic and Dhar*, (with *[Pankaj Jyoti Mahanta](http://pankajjyoti.com/)*), *Journal of the Ramanujan Mathematical Society*, accepted, 2024. ([pdf](https://arxiv.org/pdf/2301.09849))
 
-26. *On near-perfect numbers with five prime factors*, (with *Flora Jeba S and Anirban Roy*), *DeGruyter Proceedings of 2nd ICRTMPCS 2023 "Advances in Mathematical and Computational Sciences"*, to appear, 2024. ([pdf](/publ/papers/fr_1.pdf))
+26. *On near-perfect numbers with five prime factors*, (with *Flora Jeba S and Anirban Roy*), *Advances in Mathematical and Computational Sciences: Proceedings of The ICRTMPCS International Conference 2023*, De Gruyter Proceedings in Mathematics, De Gruyter, 207-220, 2025. ([pdf](/publ/papers/fr_1.pdf))
 
 25. *Further congruences for $(4,8)$-regular bipartition quadruples modulo powers of $2$*, *Journal of the Assam Academy of Mathematics*, 2024, 14, 1-5. ([pdf](https://jaam.aamonline.org.in/ojs/index.php/j/article/view/62/jaam-2024-1))
 
