@@ -16,7 +16,7 @@ My current work is focused on combinatorics (enumerative and algebraic), $q$-ser
 
 8. *Combinatorial Proofs of Some Results of Andrews and El Bachraoui*, (with *[Pankaj Jyoti Mahanta](http://pankajjyoti.com/)*), preprint, 2024. ([pdf](https://arxiv.org/pdf/2410.15852))
 
-7. *Symmetric Domino Tilings of Aztec Diamonds*, (with *[Pravakar Paul](https://ahduni.edu.in/academics/schools-centres/school-of-arts-and-sciences/faculty/pravakar-paul/)*), preprint, 2024.
+7. *Symmetric Domino Tilings of Aztec Diamonds*, (with *[Pravakar Paul](https://ahduni.edu.in/academics/schools-centres/school-of-arts-and-sciences/faculty/pravakar-paul/)*), preprint, 2024. ([pdf](https://arxiv.org/pdf/2410.23324))
 
 6. *A Novel Approach to Counting Perfect Matchings of Graphs*, (with *[Pravakar Paul](https://ahduni.edu.in/academics/schools-centres/school-of-arts-and-sciences/faculty/pravakar-paul/)*), preprint, 2024. ([pdf](https://arxiv.org/abs/2408.10273))
 
