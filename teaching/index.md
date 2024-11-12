@@ -13,9 +13,9 @@ Courses where I was/am the co-instructor are marked with **.
 
 **MAT631 Algebraic Combinatorics** (Masters/PhD, January 2025 - April 2025)
 
-**Foundation Programme: Environment and Climate Change** ** (First Year Undergraduate, March 2024 and August 2023 - September 2023)
+**Foundation Programme: Environment and Climate Change** ** (First Year Undergraduate, March 2024 & August 2023 - September 2023)
 
-**MAT515: Combinatorial Enumeration** (Masters, August 2024 - December 2024 and January 2024 - April 2024)
+**MAT515: Combinatorial Enumeration** (Masters, August 2024 - December 2024 & January 2024 - April 2024)
 
 **MAT315: Combinatorial Enumeration** (Advanced Undergraduate, August 2024 - December 2024)
 
