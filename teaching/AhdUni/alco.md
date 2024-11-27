@@ -4,7 +4,7 @@ title: Algebraic Combinatorics: Interactions with Topology, Geometry, and other 
 description: Seminar Series
 mathjax: true
 background: '/img/teaching.jpg'
-permalink: /teaching/AhdUni/alco-seminar
+permalink: /teaching/AhdUni/alco-seminar/
 ---
 
 # Information
