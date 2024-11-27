@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Algebraic Combinatorics: Interactions with Topology, Geometry, and other topics
+title: Algebraic Combinatorics (Interactions with Topology, Geometry, and other topics)
 description: Seminar Series
 mathjax: true
 background: '/img/teaching.jpg'
