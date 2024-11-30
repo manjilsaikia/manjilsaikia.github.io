@@ -14,18 +14,22 @@ The books which are marked with a ** are the ones that I am either currently rea
 
 >All the books that I read are rated on [Goodreads](https://www.goodreads.com/user/show/36494310-manjil).
 
-1. **The Identity Project: The Unmaking of a Democracy**, *Rahul Bhatia*, Context, 2024.
-2. **Last Days in Old Europe: Trieste ’79, Vienna ’85, Prague ’89**, *Richard Bassett*, Penguin Books, 2020.
-3. **India After 1947: Reflections and Recollections**, *Rajmohan Gandhi*, Aleph Book Company, 2022.
-4. **Why don't you write something I might read?: Reading, Writing & Arrhythmia**, *Suresh Menon*, Context, 2021.
-5. **The Art Thief: A True Story of Love, Crime, and a Dangerous Obsession**, *Michael Finkel*, Simon & Schuster, 2023.
-6. **Provenance: How a Con Man and a Forger Rewrote the History of Modern Art**, *Laney Salisbury and Aly Sujo*, Penguin Books, 2010.
-7. **The Lost Painting: The Quest for a Caravaggio Masterpiece**, *Jonathan Harr*, Random House Trade Paperbacks, 2006.
-8. ** **Backstage: The Story behind India’s High Growth Years**, *Montek Singh Ahluwalia*, Rupa Publications, 2023.
-9. ** **Price of the Modi Years**, *Aakar Patel*, Vintage, 2023.
-10. ** **Calcutta: Two Years in the City**, *Amit Chaudhuri*, Penguin Books, 2013.
-11. ** **The Fever: How Malaria Has Ruled Humankind for 500,000 Years**, *Sonia Shah*, Sarah Crichton Books, 2010.
-12. **A Bookshop of One’s Own: How a group of women set out to change the world**, *Jane Cholmeley*, Mudlark, 2024.
-13. ** **Never Tell Them We Are the Same People: Notes on Pakistan**, *Kesava Menon*, Speaking Tiger Books, 2023.
-14. **Goodnight and God Bless: On life, literature, and a few other things, with footnotes, quotes, and other such literary diversions**, *Anita Nair*,  Penguin Books, 2015.
-15. ** **The Fears of the Rich, The Needs of the Poor: My Years at the CDC**, *William H. Foege*, Johns Hopkins University Press, 2018.  
+1. ** **Old Books in the Old World: Reminiscences of Book Buying Abroad**, *Leona Rostenberg and Madeleine B. Stern*, Oak Knoll Press, 1996.
+2. **Anita gets Bail: What Are Our Courts Doing? What Should We Do About Them?**, *Arun Shourie*, HarperCollins Publishers India, 2018.
+3. **Rare Books Uncovered: True Stories of Fantastic Finds in Unlikely Places**, *Rebecca Rego Barry*, Voyageur Press, 2018.
+4. **Lucy's Legacy: The Quest for Human Origins**, *Donald C. Johanson and Kate Wong*, Three Rivers Press, 2010.
+5. **The Identity Project: The Unmaking of a Democracy**, *Rahul Bhatia*, Context, 2024.
+6. **Last Days in Old Europe: Trieste ’79, Vienna ’85, Prague ’89**, *Richard Bassett*, Penguin Books, 2020.
+7. **India After 1947: Reflections and Recollections**, *Rajmohan Gandhi*, Aleph Book Company, 2022.
+8. **Why don't you write something I might read?: Reading, Writing & Arrhythmia**, *Suresh Menon*, Context, 2021.
+9. **The Art Thief: A True Story of Love, Crime, and a Dangerous Obsession**, *Michael Finkel*, Simon & Schuster, 2023.
+10. **Provenance: How a Con Man and a Forger Rewrote the History of Modern Art**, *Laney Salisbury and Aly Sujo*, Penguin Books, 2010.
+11. **The Lost Painting: The Quest for a Caravaggio Masterpiece**, *Jonathan Harr*, Random House Trade Paperbacks, 2006.
+12. ** **Backstage: The Story behind India’s High Growth Years**, *Montek Singh Ahluwalia*, Rupa Publications, 2023.
+13. ** **Price of the Modi Years**, *Aakar Patel*, Vintage, 2023.
+14. ** **Calcutta: Two Years in the City**, *Amit Chaudhuri*, Penguin Books, 2013.
+15. ** **The Fever: How Malaria Has Ruled Humankind for 500,000 Years**, *Sonia Shah*, Sarah Crichton Books, 2010.
+16. **A Bookshop of One’s Own: How a group of women set out to change the world**, *Jane Cholmeley*, Mudlark, 2024.
+17. ** **Never Tell Them We Are the Same People: Notes on Pakistan**, *Kesava Menon*, Speaking Tiger Books, 2023.
+18. **Goodnight and God Bless: On life, literature, and a few other things, with footnotes, quotes, and other such literary diversions**, *Anita Nair*,  Penguin Books, 2015.
+19. ** **The Fears of the Rich, The Needs of the Poor: My Years at the CDC**, *William H. Foege*, Johns Hopkins University Press, 2018.  
