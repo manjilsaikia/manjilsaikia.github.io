@@ -12,6 +12,8 @@ Some talks (arranged in reverse chronological order) that I have given.
 
 **Cataland: A Romance of Many Bijections**, *Club of Mathematics, IISER Trivandrum*, online, November 2024. ([pdf](/publ/talks/IISER_TVM_Talk.pdf))
 
+**Arithmetic Properties of Overpartition $k$-Tuples with Odd Parts**, *2nd Meru Combinatorics Conference, GEHU, Bhimtal, India*, June 2023. ([pdf](/publ/talks/Meru_Talk.pdf))
+
 **Partitions with fixed differences between largest and smallest parts with fixed multiplicity of the smallest part**, *COmbinatorial Number Theory And Connected Topics - II, India*, online, February 2023. ([slides](/publ/talks/contact2.pdf))
 
 **Talk on Pseudoscience**, *InSCIgnis 2022, Tezpur University, India*, online, February 2022. ([video](https://www.youtube.com/watch?v=p6pmuD87MNE))
