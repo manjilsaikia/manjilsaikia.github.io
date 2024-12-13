@@ -40,7 +40,7 @@ My current work is focused on combinatorics (enumerative and algebraic), $q$-ser
 
 28. *Ramanujan-type Congruences for Partition $k$-Tuples with $5$-Cores*, (with *[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/) and Pranjal Talukdar*), *Indian Journal of Pure and Applied Mathematics*, accepted, 2024. ([pdf](https://arxiv.org/pdf/2302.01750.pdf))
 
-27. *Extensions of some results of Jovovic and Dhar*, (with *[Pankaj Jyoti Mahanta](http://pankajjyoti.com/)*), *Journal of the Ramanujan Mathematical Society*, accepted, 2024. ([pdf](https://arxiv.org/pdf/2301.09849))
+27. *Extensions of some results of Jovovic and Dhar*, (with *[Pankaj Jyoti Mahanta](http://pankajjyoti.com/)*), *Journal of the Ramanujan Mathematical Society*, 2024, 39 (4), 349-358. ([pdf](https://arxiv.org/pdf/2301.09849))
 
 26. *On near-perfect numbers with five prime factors*, (with *Flora Jeba S and Anirban Roy*), *Advances in Mathematical and Computational Sciences: Proceedings of The ICRTMPCS International Conference 2023*, De Gruyter Proceedings in Mathematics, De Gruyter, 207-220, 2025. ([pdf](/publ/papers/fr_1.pdf))
 
