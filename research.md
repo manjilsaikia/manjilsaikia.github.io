@@ -14,6 +14,10 @@ My current work is focused on combinatorics (enumerative and algebraic), $q$-ser
 
 ## Preprints
 
+10. *Some Properties of Overpartitions into nonmultiples of two integers* (with *[Abdulaziz M. Alanazi](https://scholar.google.com/citations?user=NHGt6AEAAAAJ&hl=en)* and *[Agustine O. Munagi](https://orcid.org/0000-0003-0426-1366)*), preprint, 2024.
+
+9. *Arithmetic Properties of $k$-tuple $\ell$-regular Partitions*, (with *[Hemjyoti Nath](https://www.researchgate.net/profile/Hemjyoti-Nath) and [Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/)*), preprint, 2024.
+
 8. *Combinatorial Proofs of Some Results of Andrews and El Bachraoui*, (with *[Pankaj Jyoti Mahanta](http://pankajjyoti.com/)*), preprint, 2024. ([pdf](https://arxiv.org/pdf/2410.15852))
 
 7. *Symmetric Domino Tilings of Aztec Diamonds*, (with *[Pravakar Paul](https://ahduni.edu.in/academics/schools-centres/school-of-arts-and-sciences/faculty/pravakar-paul/)*), preprint, 2024. ([pdf](https://arxiv.org/pdf/2410.23324))
