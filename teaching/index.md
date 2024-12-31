@@ -11,25 +11,25 @@ Courses where I was/am the co-instructor are marked with **.
 
 # Ahmedabad University
 
-**MAT631 Algebraic Combinatorics** (Masters/PhD, January 2025 - April 2025)
+**[MAT631 Algebraic Combinatorics](/teaching/AhdUni/MAT631/)** (Masters/PhD, January 2025 - April 2025)
 
 **Foundation Programme: Environment and Climate Change** ** (First Year Undergraduate, March 2024 & August 2023 - September 2023)
 
-**MAT515: Combinatorial Enumeration** (Masters, August 2024 - December 2024 & January 2024 - April 2024)
+**MAT515 Combinatorial Enumeration** (Masters, August 2024 - December 2024 & January 2024 - April 2024)
 
-**MAT315: Combinatorial Enumeration** (Advanced Undergraduate, August 2024 - December 2024)
+**MAT315 Combinatorial Enumeration** (Advanced Undergraduate, August 2024 - December 2024)
 
-**MAT256: Differential Equations** (Undergraduate, August 2024 - December 2024)
+**MAT256 Differential Equations** (Undergraduate, August 2024 - December 2024)
 
-**MAT000: Mathematics for Business** ** (First Year MBA, July 2024 & July 2023)
+**MAT000 Mathematics for Business** ** (First Year MBA, July 2024 & July 2023)
 
-**MAT248: Applied Linear Algebra** ** (Second Year undergraduates, March 2024 - April 2024)
+**MAT248 Applied Linear Algebra** ** (Second Year undergraduates, March 2024 - April 2024)
 
-**MAT142: Introductory Calculus** (First Year undergraduates, October 2023 - February 2024)
+**MAT142 Introductory Calculus** (First Year undergraduates, October 2023 - February 2024)
 
-**CSC210: Introduction to Data Structures and Algorithms** ** (Second Year BS, October 2023 - December 2023)
+**CSC210 Introduction to Data Structures and Algorithms** ** (Second Year BS, October 2023 - December 2023)
 
-**CSE525: Theory of Computing** (Fourth Year BTech/BS, August 2023 - December 2023)
+**CSE525 Theory of Computing** (Fourth Year BTech/BS, August 2023 - December 2023)
 
 # IIIT Manipur
 
