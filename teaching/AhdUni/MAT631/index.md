@@ -9,7 +9,7 @@ permalink: /teaching/AhdUni/MAT631/
 
 # Information
 
-**Instructor**: Dr Manjil Pratim Saikia
+**Instructor**: Dr Manjil P. Saikia
 
 **Contact**: manjil.saikia@ahduni.edu.in (please only use this email address to send me emails related to this course)
 
