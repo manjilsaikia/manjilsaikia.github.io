@@ -14,4 +14,6 @@ The books which are marked with a ** are the ones that I am either currently rea
 
 >All the books that I read are rated on [Goodreads](https://www.goodreads.com/user/show/36494310-manjil).
 
-1. **The Best of Laxman: The Common Man in the New Millennium**, *R. K. Laxman*, Penguin Books, 2000.
+1. ** **Look, No Feet!**, *Bryan McAllister*, Victor Gollancz Ltd, 1987.
+2. **Soppy**, *Philipa Rice*, Square Peg, 2015.
+3. **The Best of Laxman: The Common Man in the New Millennium**, *R. K. Laxman*, Penguin Books, 2000.
