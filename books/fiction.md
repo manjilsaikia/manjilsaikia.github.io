@@ -14,7 +14,9 @@ The books which are marked with a ** are the ones that I am either currently rea
 
 >All the books that I read are rated on [Goodreads](https://www.goodreads.com/user/show/36494310-manjil).
 
-1. **My Poems Are Not for Your Ad Campaign**, *Anuradha Sarma Pujari (Translated by Aruni Kashyap)*, Viking, 2023.
-2. ** **The Mammaries of the Welfare State**, *Upamanyu Chatterjee*, Viking, 2000.
-3. **Girl in Hyacinth Blue: A Novel**, *Susan Vreeland*, Penguin Books, 2000.
-4. **The Living Mountain: A Fable of Our Times**, *Amitav Ghosh*, Fourth Estate, 2022.  
+1. **The Bookshop**, *Penelope Fitzgerald*, 4th Estate, 2018.
+2. **Parliamental**, *Meghnad S.*, HarperCollins Publishers, 2019.
+3. **My Poems Are Not for Your Ad Campaign**, *Anuradha Sarma Pujari (Translated by Aruni Kashyap)*, Viking, 2023.
+4. ** **The Mammaries of the Welfare State**, *Upamanyu Chatterjee*, Viking, 2000.
+5. **Girl in Hyacinth Blue: A Novel**, *Susan Vreeland*, Penguin Books, 2000.
+6. **The Living Mountain: A Fable of Our Times**, *Amitav Ghosh*, Fourth Estate, 2022.  
