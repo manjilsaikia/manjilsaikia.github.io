@@ -13,11 +13,11 @@ permalink: /teaching/AhdUni/MAT631/
 
 **Contact**: manjil.saikia@ahduni.edu.in (please only use this email address to send me emails related to this course)
 
-**Lecture Time & Place**: to be decided
+**Lecture Time & Place**: Wednesdays 1300 to 1430 (Room 400, SAS)
 
 **Office Hours**: to be decided
 
-**Attendance Policy**: Attendance is mandatory, institute policy is minimum 80% continous attendance failing which the student gets a grade drop. If you are low on attendance then you should talk to me (at least 3 weeks before the end-semester examination).
+**Attendance Policy**: Attendance is mandatory, check institute's attendance policy on AURIS (please note, we have a new policy from this semester). If you are low on attendance then you should talk to me (at least 3 weeks before the end-semester examination).
 
 # Course Details
 
