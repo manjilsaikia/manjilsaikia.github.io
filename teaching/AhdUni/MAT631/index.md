@@ -21,7 +21,7 @@ permalink: /teaching/AhdUni/MAT631/
 
 # Course Details
 
-Available on AURIS, we will follow the syllabus more or less, but *there will be lot of digressions*. This course is philosophically a sequel to MAT315/515 Combinatorial Enumeration, but do not if you have not taken that course as we will recall all the basic objects required for the present course. We will start with some basic combinatorial objects that will appear throughout the course, then move on to some tableau combinatorics. In particular, we will see a proof of the famed RSK correspondence and the hook length formula (two gems of modern combinatorics). The next portion of the course will cover symmetric functions in quite a lot of detail, and then if time permits we will do little bit of representation theory and commutative algebra.
+Available on AURIS, we will follow the syllabus more or less, but *there will be lot of digressions*. This course is philosophically a sequel to MAT315/515 Combinatorial Enumeration, but do not worry if you have not taken that course as we will recall all the basic objects required for the present course. We will start with some basic combinatorial objects that will appear throughout the course, then move on to some tableau combinatorics. In particular, we will see a proof of the famed RSK correspondence and the hook length formula (two gems of modern combinatorics). The next portion of the course will cover symmetric functions in quite a lot of detail, and then if time permits we will do little bit of representation theory and commutative algebra.
 
 # Reading Materials
 
