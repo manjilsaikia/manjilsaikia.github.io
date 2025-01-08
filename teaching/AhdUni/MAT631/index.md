@@ -13,9 +13,9 @@ permalink: /teaching/AhdUni/MAT631/
 
 **Contact**: manjil.saikia@ahduni.edu.in (please only use this email address to send me emails related to this course)
 
-**Lecture Time & Place**: Wednesdays 1300 to 1430 (Room 400, SAS)
+**Lecture Time & Place**: Wednesdays 1315 to 1430 (Room 400, SAS)
 
-**Office Hours**: to be decided
+**Office Hours**: Tuesdays 1715 to 1745 & Wednesdays 1430 to 1500
 
 **Attendance Policy**: Attendance is mandatory, check institute's attendance policy on AURIS (please note, we have a new policy from this semester). If you are low on attendance then you should talk to me (at least 3 weeks before the end-semester examination).
 
