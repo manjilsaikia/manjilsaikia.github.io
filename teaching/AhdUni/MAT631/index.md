@@ -38,7 +38,7 @@ Grades of A and A- will be awarded based on the discretion of the instructor. If
 
 # Lectures
 
-W 06/01: Introduction to the course, permutation statistics
+W 06/01: Introduction to the course, permutation statistics  
 W 15/01: Monomials, Diagrams, Orders
 
 # Problem Sets
