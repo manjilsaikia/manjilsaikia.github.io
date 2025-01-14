@@ -13,7 +13,7 @@ permalink: /teaching/AhdUni/MAT631/
 
 **Contact**: manjil.saikia@ahduni.edu.in (please only use this email address to send me emails related to this course)
 
-**Lecture Time & Place**: Wednesdays 1315 to 1430 (Room 400, SAS)
+**Lecture Time & Place**: Tuesdays 1600 to 1715 (Room , SAS) and Wednesdays 1315 to 1430 (Room 400, SAS)
 
 **Office Hours**: Tuesdays 1715 to 1745 & Wednesdays 1430 to 1500 (both days in my office)
 
