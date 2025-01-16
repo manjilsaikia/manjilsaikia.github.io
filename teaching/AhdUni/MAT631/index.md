@@ -47,7 +47,7 @@ W 15/01: Monomials, Diagrams, Orders
 - You should only submit the designated problem(s), but are encouraged to try the rest as well.
 - To get the most out of this course, you are expected to spend atleast twice the amount of lecture hours on your own.
 
-Problem Set 1 (not yet uploaded)
+[Problem Set 1](/teaching/AhdUni/MAT631/ps1.pdf)
 
 ## Submissions
 
