@@ -40,13 +40,13 @@ My current work is focused on combinatorics (enumerative and algebraic), $q$-ser
 
 30. *Arithmetic Properties Modulo Powers of $2$ for Overpartition $k$-Tuples with Odd Parts*, (with *[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/) and [James A. Sellers](https://www.d.umn.edu/~jsellers/)*), *Journal of the Ramanujan Mathematical Society*, accepted, 2024. ([pdf](https://arxiv.org/pdf/2312.12011.pdf))
 
-29. *On $k$-Facile Perfect Numbers*, (with *Flora S. Jeba and Anirban Roy*), *Springer Proceedings of International Conference on Algebra and its Applications 2023, Fez, Morocco*, to appear, 2024. ([pdf](/publ/papers/fr_2.pdf))
+29. *Ramanujan-type Congruences for Partition $k$-Tuples with $5$-Cores*, (with *[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/) and Pranjal Talukdar*), *Indian Journal of Pure and Applied Mathematics*, accepted, 2024. ([pdf](https://arxiv.org/pdf/2302.01750.pdf))
 
-28. *Ramanujan-type Congruences for Partition $k$-Tuples with $5$-Cores*, (with *[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/) and Pranjal Talukdar*), *Indian Journal of Pure and Applied Mathematics*, accepted, 2024. ([pdf](https://arxiv.org/pdf/2302.01750.pdf))
+28. *On $k$-Facile Perfect Numbers*, (with *Flora S. Jeba and Anirban Roy*), *Algebra and Its Applications, ICAA 2023*, Springer Proceedings in Mathematics & Statistics, vol 474., Springer, 111-121, 2025. ([pdf](/publ/papers/fr_2.pdf))
 
-27. *Extensions of some results of Jovovic and Dhar*, (with *[Pankaj Jyoti Mahanta](http://pankajjyoti.com/)*), *Journal of the Ramanujan Mathematical Society*, 2024, 39 (4), 349-358. ([pdf](https://arxiv.org/pdf/2301.09849))
+27. *On near-perfect numbers with five prime factors*, (with *Flora Jeba S and Anirban Roy*), *Advances in Mathematical and Computational Sciences: Proceedings of The ICRTMPCS International Conference 2023*, De Gruyter Proceedings in Mathematics, De Gruyter, 207-220, 2025. ([pdf](/publ/papers/fr_1.pdf))
 
-26. *On near-perfect numbers with five prime factors*, (with *Flora Jeba S and Anirban Roy*), *Advances in Mathematical and Computational Sciences: Proceedings of The ICRTMPCS International Conference 2023*, De Gruyter Proceedings in Mathematics, De Gruyter, 207-220, 2025. ([pdf](/publ/papers/fr_1.pdf))
+26. *Extensions of some results of Jovovic and Dhar*, (with *[Pankaj Jyoti Mahanta](http://pankajjyoti.com/)*), *Journal of the Ramanujan Mathematical Society*, 2024, 39 (4), 349-358. ([pdf](https://arxiv.org/pdf/2301.09849))
 
 25. *Further congruences for $(4,8)$-regular bipartition quadruples modulo powers of $2$*, *Journal of the Assam Academy of Mathematics*, 2024, 14, 1-5. ([pdf](https://jaam.aamonline.org.in/ojs/index.php/j/article/view/62/jaam-2024-1))
 
