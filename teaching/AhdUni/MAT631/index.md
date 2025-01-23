@@ -42,7 +42,8 @@ Grades of A and A- will be awarded based on the discretion of the instructor. If
 
 W 06/01: Introduction to the course, permutation statistics  
 W 15/01: Monomials, Diagrams, Orders  
-T 21/01: Yound Diagrams, Partitions
+T 21/01: Yound Diagrams, Partitions  
+W 22/01: Euler's pentagonal number theorem, lattice paths
 
 # Problem Sets
 
