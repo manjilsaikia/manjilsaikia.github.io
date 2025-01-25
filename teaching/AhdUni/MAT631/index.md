@@ -52,7 +52,8 @@ W 22/01: Euler's pentagonal number theorem, lattice paths
 - To get the most out of this course, you are expected to spend atleast twice the amount of lecture hours on your own.
 
 [Problem Set 1](/teaching/AhdUni/MAT631/ps1.pdf)  
-[Problem Set 2](/teaching/AhdUni/MAT631/ps2.pdf)
+[Problem Set 2](/teaching/AhdUni/MAT631/ps2.pdf)  
+[Problem Set 3](/teaching/AhdUni/MAT631/ps3.pdf)
 
 ## Submissions
 
