@@ -31,6 +31,7 @@ Available on AURIS, we will follow the syllabus more or less, but *there will be
 - For the combinatorial proof of the generating function of major index, you can consult page 17 of **The Art of Computer Programming, Volume 3** by *Donald E. Knuth* (Addison-Wesley, 1998).
 - For an introduction to posets, you can consult Chapter 3 of **Enumerative Combinatorics, Vol. 1, 2nd. ed.** by *Richard P. Stanley* (Cambridge University Press, 2011).
 - The tiling proof of Euler's Pentagonal Number Theorem is due to Eichhorn, Nam, and Sohn (see [this paper](https://doi.org/10.1007/s11139-019-00189-2)).
+- The proof of the hook-length formula discussed in the lecture is due to Greene, Nijenhuis, and Wilf (see [this paper](https://doi.org/10.1016/0001-8708(79)90023-9)).
 
 # Grading
 
@@ -43,7 +44,10 @@ Grades of A and A- will be awarded based on the discretion of the instructor. If
 W 06/01: Introduction to the course, permutation statistics  
 W 15/01: Monomials, Diagrams, Orders  
 T 21/01: Yound Diagrams, Partitions  
-W 22/01: Euler's pentagonal number theorem, lattice paths
+W 22/01: Euler's pentagonal number theorem, lattice paths  
+T 28/01: Young Lattice, $q$-binomial coefficients  
+W 29/01: $q$-Catalan numbers, Skew Partitions, Compositions  
+T 04/02: Words
 
 # Problem Sets
 
