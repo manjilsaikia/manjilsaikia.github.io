@@ -57,7 +57,8 @@ T 04/02: Words
 
 [Problem Set 1](/teaching/AhdUni/MAT631/ps1.pdf)  
 [Problem Set 2](/teaching/AhdUni/MAT631/ps2.pdf)  
-[Problem Set 3](/teaching/AhdUni/MAT631/ps3.pdf)
+[Problem Set 3](/teaching/AhdUni/MAT631/ps3.pdf)  
+[Problem Set 4](/teaching/AhdUni/MAT631/ps4.pdf)
 
 ## Submissions
 
