@@ -14,11 +14,9 @@ My current work is focused on combinatorics (enumerative and algebraic), $q$-ser
 
 ## Preprints
 
-10. *Some Properties of Overpartitions into nonmultiples of two integers* (with *[Abdulaziz M. Alanazi](https://scholar.google.com/citations?user=NHGt6AEAAAAJ&hl=en)* and *[Agustine O. Munagi](https://orcid.org/0000-0003-0426-1366)*), preprint, 2024. ([pdf](https://arxiv.org/pdf/2412.18938))
+9. *Some Properties of Overpartitions into nonmultiples of two integers* (with *[Abdulaziz M. Alanazi](https://scholar.google.com/citations?user=NHGt6AEAAAAJ&hl=en)* and *[Agustine O. Munagi](https://orcid.org/0000-0003-0426-1366)*), preprint, 2024. ([pdf](https://arxiv.org/pdf/2412.18938))
 
-9. *Arithmetic Properties of $k$-tuple $\ell$-regular Partitions*, (with *[Hemjyoti Nath](https://www.researchgate.net/profile/Hemjyoti-Nath) and [Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/)*), preprint, 2024. ([pdf](https://arxiv.org/pdf/2412.16193))
-
-8. *Combinatorial Proofs of Some Results of Andrews and El Bachraoui*, (with *[Pankaj Jyoti Mahanta](http://pankajjyoti.com/)*), preprint, 2024. ([pdf](https://arxiv.org/pdf/2410.15852))
+8. *Arithmetic Properties of $k$-tuple $\ell$-regular Partitions*, (with *[Hemjyoti Nath](https://www.researchgate.net/profile/Hemjyoti-Nath) and [Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/)*), preprint, 2024. ([pdf](https://arxiv.org/pdf/2412.16193))
 
 7. *Symmetric Domino Tilings of Aztec Diamonds*, (with *[Pravakar Paul](https://ahduni.edu.in/academics/schools-centres/school-of-arts-and-sciences/faculty/pravakar-paul/)*), preprint, 2024. ([pdf](https://arxiv.org/pdf/2410.23324))
 
@@ -36,7 +34,9 @@ My current work is focused on combinatorics (enumerative and algebraic), $q$-ser
 
 ## Peer Reviewed Papers
 
-31. *Further Arithmetic Properties of Overcubic Partition Triples*, (with *[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/)*), *Bulletin of the Australian Mathematical Society*, accepted, 2024. ([pdf](https://arxiv.org/pdf/2411.00013))
+32. *Combinatorial Proofs of Some Results of Andrews and El Bachraoui*, (with *[Pankaj Jyoti Mahanta](http://pankajjyoti.com/)*), *The Ramanujan Journal*, accepted, 2025. ([pdf](https://arxiv.org/pdf/2410.15852))
+
+31. *Further Arithmetic Properties of Overcubic Partition Triples*, (with *[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/)*), *Bulletin of the Australian Mathematical Society*, to appear, 2025. ([pdf](https://arxiv.org/pdf/2411.00013))
 
 30. *Arithmetic Properties Modulo Powers of $2$ for Overpartition $k$-Tuples with Odd Parts*, (with *[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/) and [James A. Sellers](https://www.d.umn.edu/~jsellers/)*), *Journal of the Ramanujan Mathematical Society*, accepted, 2024. ([pdf](https://arxiv.org/pdf/2312.12011.pdf))
 
