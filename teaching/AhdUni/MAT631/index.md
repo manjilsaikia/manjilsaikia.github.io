@@ -47,7 +47,10 @@ T 21/01: Yound Diagrams, Partitions
 W 22/01: Euler's pentagonal number theorem, lattice paths  
 T 28/01: Young Lattice, $q$-binomial coefficients  
 W 29/01: $q$-Catalan numbers, Skew Partitions, Compositions  
-T 04/02: Words
+T 04/02: Words, Tableaux  
+T 11/02: Hook-length formula  
+W 12/02: Jeu de taquin, RSK correspondence  
+T 18/02: Viennot's shadows
 
 # Problem Sets
 
