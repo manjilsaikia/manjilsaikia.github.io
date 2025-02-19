@@ -62,7 +62,8 @@ W 19/02: Symmetric functions, Monomial basis
 [Problem Set 1](/teaching/AhdUni/MAT631/ps1.pdf)  
 [Problem Set 2](/teaching/AhdUni/MAT631/ps2.pdf)  
 [Problem Set 3](/teaching/AhdUni/MAT631/ps3.pdf)  
-[Problem Set 4](/teaching/AhdUni/MAT631/ps4.pdf)
+[Problem Set 4](/teaching/AhdUni/MAT631/ps4.pdf)  
+[Problem Set 5](/teaching/AhdUni/MAT631/ps5.pdf)
 
 ## Submissions
 
@@ -94,4 +95,3 @@ It is required to acknowledge your sources (even if you worked independently).
 Intentional violations of the above policies may be considered academic dishonesty/misconduct.
 
 (Thanks to [Professor Yufei Zhao](https://yufeizhao.com) for his extensive course policy page, from which I have created my own policies.)
-
