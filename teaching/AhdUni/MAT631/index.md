@@ -50,7 +50,8 @@ W 29/01: $q$-Catalan numbers, Skew Partitions, Compositions
 T 04/02: Words, Tableaux  
 T 11/02: Hook-length formula  
 W 12/02: Jeu de taquin, RSK correspondence  
-T 18/02: Viennot's shadows
+T 18/02: Reverse insertion, Viennot's shadows  
+W 19/02: Symmetric functions, Monomial basis
 
 # Problem Sets
 
