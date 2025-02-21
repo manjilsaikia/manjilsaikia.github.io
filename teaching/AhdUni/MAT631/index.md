@@ -25,7 +25,7 @@ Available on AURIS, we will follow the syllabus more or less, but *there will be
 
 # Reading Materials
 
-**Textbook**: The textbook that I will use is **Algebraic Combinatorics and Coinvariant Spaces** by *Francois Bergeron* (CRC Press, 2019). There is also a coursepack which will be distributed to the registered students, containing some other materials taken from standard textbooks. In addition, I will use material from other textbooks which I will list below as the course progresses.
+**Textbook**: The textbook that I will use is **Algebraic Combinatorics and Coinvariant Spaces** by *Francois Bergeron* (CRC Press, 2019). There is also a coursepack which will be distributed to the registered students, containing some other materials taken from standard textbooks. In addition, I will use material from other sources which I will list below as the course progresses.
 
 - For a nice proof of the generating function of major index, you can consult Chapter 1 of **[The $q,t$-Catalan Numbers and the Space of Diagonal Harmonics](https://www2.math.upenn.edu/~jhaglund/books/qtcat.pdf)** by *James Haglund* (American Mathematical Society, 2008).
 - For the combinatorial proof of the generating function of major index, you can consult page 17 of **The Art of Computer Programming, Volume 3** by *Donald E. Knuth* (Addison-Wesley, 1998).
