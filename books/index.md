@@ -19,3 +19,4 @@ For the books that I have read since August 2024 please click on the links below
 [Non-Fiction](/books/non-fiction/)  
 [Fiction](/books/fiction/)  
 [Graphic Books](/books/graphic/)  
+[Mixed Books](/books/mixed/)
