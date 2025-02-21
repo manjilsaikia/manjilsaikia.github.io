@@ -32,6 +32,7 @@ Available on AURIS, we will follow the syllabus more or less, but *there will be
 - For an introduction to posets, you can consult Chapter 3 of **Enumerative Combinatorics, Vol. 1, 2nd. ed.** by *Richard P. Stanley* (Cambridge University Press, 2011).
 - The tiling proof of Euler's Pentagonal Number Theorem is due to Eichhorn, Nam, and Sohn (see [this paper](https://doi.org/10.1007/s11139-019-00189-2)).
 - The proof of the hook-length formula discussed in the lecture is due to Greene, Nijenhuis, and Wilf (see [this paper](https://doi.org/10.1016/0001-8708(79)90023-9)).
+- The proof of Krattenthaler's formula is taken from Chapter 2 of **Proofs and Confirmations: The Story of the Alternating-Sign Matrix Conjecture** by *David M. Bressoud* (MAA Press, 1999).
 
 # Grading
 
