@@ -52,7 +52,9 @@ T 04/02: Words, Tableaux
 T 11/02: Hook-length formula  
 W 12/02: Jeu de taquin, RSK correspondence  
 T 18/02: Reverse insertion, Viennot's shadows  
-W 19/02: Symmetric functions, Monomial basis
+W 19/02: Symmetric functions, Monomial basis  
+T 25/02: Antisymmetric functions, Schur functions  
+W 26/02: (Interlude) Fomin's Growth Diagrams, ASMs and symmetric functions
 
 # Problem Sets
 
@@ -64,7 +66,8 @@ W 19/02: Symmetric functions, Monomial basis
 [Problem Set 2](/teaching/AhdUni/MAT631/ps2.pdf)  
 [Problem Set 3](/teaching/AhdUni/MAT631/ps3.pdf)  
 [Problem Set 4](/teaching/AhdUni/MAT631/ps4.pdf)  
-[Problem Set 5](/teaching/AhdUni/MAT631/ps5.pdf)
+[Problem Set 5](/teaching/AhdUni/MAT631/ps5.pdf)  
+[Problem Set 6](/teaching/AhdUni/MAT631/ps6.pdf)
 
 ## Submissions
 
