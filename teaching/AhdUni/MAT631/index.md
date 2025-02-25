@@ -54,7 +54,7 @@ W 12/02: Jeu de taquin, RSK correspondence
 T 18/02: Reverse insertion, Viennot's shadows  
 W 19/02: Symmetric functions, Monomial basis  
 T 25/02: Antisymmetric functions, Schur functions  
-W 26/02: (Interlude) Fomin's Growth Diagrams, ASMs and symmetric functions
+W 26/02: Fomin's Growth Diagrams
 
 # Problem Sets
 
