@@ -36,13 +36,13 @@ My current work is focused on combinatorics (enumerative and algebraic), $q$-ser
 
 ## Peer Reviewed Papers
 
-32. *Combinatorial Proofs of Some Results of Andrews and El Bachraoui*, (with *[Pankaj Jyoti Mahanta](http://pankajjyoti.com/)*), *The Ramanujan Journal*, accepted, 2025. ([pdf](https://arxiv.org/pdf/2410.15852))
+32. *Further Arithmetic Properties of Overcubic Partition Triples*, (with *[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/)*), *Bulletin of the Australian Mathematical Society*, to appear, 2025. ([pdf](https://arxiv.org/pdf/2411.00013))
 
-31. *Further Arithmetic Properties of Overcubic Partition Triples*, (with *[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/)*), *Bulletin of the Australian Mathematical Society*, to appear, 2025. ([pdf](https://arxiv.org/pdf/2411.00013))
+31. *Arithmetic Properties Modulo Powers of $2$ for Overpartition $k$-Tuples with Odd Parts*, (with *[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/) and [James A. Sellers](https://www.d.umn.edu/~jsellers/)*), *Journal of the Ramanujan Mathematical Society*, accepted, 2024. ([pdf](https://arxiv.org/pdf/2312.12011.pdf))
 
-30. *Arithmetic Properties Modulo Powers of $2$ for Overpartition $k$-Tuples with Odd Parts*, (with *[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/) and [James A. Sellers](https://www.d.umn.edu/~jsellers/)*), *Journal of the Ramanujan Mathematical Society*, accepted, 2024. ([pdf](https://arxiv.org/pdf/2312.12011.pdf))
+30. *Ramanujan-type Congruences for Partition $k$-Tuples with $5$-Cores*, (with *[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/) and Pranjal Talukdar*), *Indian Journal of Pure and Applied Mathematics*, accepted, 2024. ([pdf](https://arxiv.org/pdf/2302.01750.pdf))
 
-29. *Ramanujan-type Congruences for Partition $k$-Tuples with $5$-Cores*, (with *[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/) and Pranjal Talukdar*), *Indian Journal of Pure and Applied Mathematics*, accepted, 2024. ([pdf](https://arxiv.org/pdf/2302.01750.pdf))
+29. *Combinatorial Proofs of Some Results of Andrews and El Bachraoui*, (with *[Pankaj Jyoti Mahanta](http://pankajjyoti.com/)*), *The Ramanujan Journal*, 2025, 66:77. ([pdf](https://arxiv.org/pdf/2410.15852))
 
 28. *On $k$-Facile Perfect Numbers*, (with *Flora S. Jeba and Anirban Roy*), *Algebra and Its Applications, ICAA 2023*, Springer Proceedings in Mathematics & Statistics, vol 474., Springer, 111-121, 2025. ([pdf](/publ/papers/fr_2.pdf))
 
