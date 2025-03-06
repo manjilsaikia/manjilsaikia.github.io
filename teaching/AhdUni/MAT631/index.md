@@ -34,6 +34,8 @@ Available on AURIS, we will follow the syllabus more or less, but *there will be
 - The proof of the hook-length formula discussed in the lecture is due to Greene, Nijenhuis, and Wilf (see [this paper](https://doi.org/10.1016/0001-8708(79)90023-9)).
 - The proof of Krattenthaler's formula is taken from Chapter 2 of **Proofs and Confirmations: The Story of the Alternating-Sign Matrix Conjecture** by *David M. Bressoud* (MAA Press, 1999).
 - Fomin's growth diagrams can be found in Chapter 8 of **An Introduction to Symmetric Functions and Their Combinatorics** by *Eric S. Egge* (AMS, 2019).
+- The Pieri rules can be found in Chapter 9 of **An Introduction to Symmetric Functions and Their Combinatorics** by *Eric S. Egge* (AMS, 2019).
+- The discussion on the Littlewood-Richardson rule can be found in Chapter 10 of **An Introduction to Symmetric Functions and Their Combinatorics** by *Eric S. Egge* (AMS, 2019).
 
 # Grading
 
