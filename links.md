@@ -10,8 +10,12 @@ permalink: /links/
 
 ## Journals
 
+[Advances in Applied Mathematics](https://www.sciencedirect.com/journal/advances-in-applied-mathematics)  
+[Advances in Mathematics](https://www.sciencedirect.com/journal/advances-in-mathematics)  
+[Algebraic Combinatorics](https://alco.centre-mersenne.org)  
 [Annals of Combinatorics](http://www.springer.com/new+%26+forthcoming+titles+%28default%29/journal/26)  
 [Bulletin of the Australian Mathematical Society](https://www.cambridge.org/core/journals/bulletin-of-the-australian-mathematical-society/firstview)  
+[Combinatorial Theory](https://escholarship.org/uc/combinatorial_theory)  
 [Discrete Applied Mathematics](https://www.sciencedirect.com/journal/discrete-applied-mathematics)  
 [Discrete Mathematics](http://www.sciencedirect.com/science/journal/0012365X)  
 [European Journal of Combinatorics](http://www.sciencedirect.com/science/journal/01956698)  
@@ -19,6 +23,8 @@ permalink: /links/
 [Forum of Mathematics, Sigma](https://www.cambridge.org/core/journals/forum-of-mathematics-sigma)  
 [Indian Journal of Pure and Applied Mathematics](https://link.springer.com/journal/13226)  
 [Integers](http://www.integers-ejcnt.org/)  
+[Journal of Algebraic Combinatorics](https://link.springer.com/journal/10801)  
+[Journal of Combinatorial Theory, Series A](https://www.sciencedirect.com/journal/journal-of-combinatorial-theory-series-a)  
 [Journal of Integer Sequences](https://cs.uwaterloo.ca/journals/JIS/)  
 [Journal of Symbolic Computation](https://www.sciencedirect.com/journal/journal-of-symbolic-computation)  
 [Journal of Mathematical Analysis and its Applications](https://www.sciencedirect.com/journal/journal-of-mathematical-analysis-and-applications)  
