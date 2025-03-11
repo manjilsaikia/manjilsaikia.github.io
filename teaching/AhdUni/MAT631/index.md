@@ -57,7 +57,9 @@ W 12/02: Jeu de taquin, RSK correspondence
 T 18/02: Reverse insertion, Viennot's shadows  
 W 19/02: Symmetric functions, Monomial basis  
 T 25/02: Antisymmetric functions, Schur functions  
-W 26/02: Fomin's Growth Diagrams, Bender-Knuth involution
+W 26/02: Fomin's Growth Diagrams, Bender-Knuth involution  
+T 11/03: Pieri Rules, Cauchy identity  
+W 12/03: Jacobi-Trudi identities
 
 # Problem Sets
 
