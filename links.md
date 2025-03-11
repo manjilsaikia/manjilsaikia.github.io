@@ -10,18 +10,23 @@ permalink: /links/
 
 ## Journals
 
-[Integers](http://www.integers-ejcnt.org/)  
-[Bulletin of the Australian Mathematical Society](https://www.cambridge.org/core/journals/bulletin-of-the-australian-mathematical-society/firstview)  
-[IJPAM](https://link.springer.com/journal/13226)  
-[JMAA](https://www.sciencedirect.com/journal/journal-of-mathematical-analysis-and-applications)  
-[RACSAM](https://link.springer.com/journal/13398)  
-[The Electronic Journal of Combinatorics](http://www.combinatorics.org/)  
-[Journal of Integer Sequences](https://cs.uwaterloo.ca/journals/JIS/)  
-[The Ramanujan Journal](http://www.springer.com/mathematics/numbers/journal/11139)  
-[The Mathematical Intelligencer](http://www.springer.com/mathematics/journal/283)  
 [Annals of Combinatorics](http://www.springer.com/new+%26+forthcoming+titles+%28default%29/journal/26)  
+[Bulletin of the Australian Mathematical Society](https://www.cambridge.org/core/journals/bulletin-of-the-australian-mathematical-society/firstview)  
+[Discrete Applied Mathematics](https://www.sciencedirect.com/journal/discrete-applied-mathematics)  
 [Discrete Mathematics](http://www.sciencedirect.com/science/journal/0012365X)  
-[European Journal of Combinatorics](http://www.sciencedirect.com/science/journal/01956698)
+[European Journal of Combinatorics](http://www.sciencedirect.com/science/journal/01956698)  
+[Forum of Mathematics, Pi](https://www.cambridge.org/core/journals/forum-of-mathematics-pi)  
+[Forum of Mathematics, Sigma](https://www.cambridge.org/core/journals/forum-of-mathematics-sigma)  
+[Indian Journal of Pure and Applied Mathematics](https://link.springer.com/journal/13226)  
+[Integers](http://www.integers-ejcnt.org/)  
+[Journal of Integer Sequences](https://cs.uwaterloo.ca/journals/JIS/)  
+[Journal of Symbolic Computation](https://www.sciencedirect.com/journal/journal-of-symbolic-computation)  
+[Journal of Mathematical Analysis and its Applications](https://www.sciencedirect.com/journal/journal-of-mathematical-analysis-and-applications)  
+[Revista de la Real Academia de Ciencias Exactas, Físicas y Naturales, Series A Matemáticas](https://link.springer.com/journal/13398)  
+[The Electronic Journal of Combinatorics](http://www.combinatorics.org/)  
+[The Mathematical Intelligencer](http://www.springer.com/mathematics/journal/283)  
+[The Ramanujan Journal](http://www.springer.com/mathematics/numbers/journal/11139)  
+[Theoretical Computer Science](https://www.sciencedirect.com/journal/theoretical-computer-science)
 
 ## Institutions
 
