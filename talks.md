@@ -37,3 +37,7 @@ Some talks (arranged in reverse chronological order) that I have given.
 **Hard and Easy Instances of L-Tromino Tilings**, *International Conference on Mathematical Modelling in Applied Sciences (online), Dibrugarh University, India*, June 2020. ([pdf](/publ/talks/Dibru_Talk.pdf))
 
 **The Story of Alternating Sign Matrices ... so far**, *Mathematics Seminar, The Abdus Salam International Centre for Theoretical Physics, Trieste, Italy*, July 2019. ([pdf](/publ/talks/ICTP_Talk.pdf))
+
+**Tiling Problems and Perfect Matchings**, *Vienna Doctoral School Colloquiuim, University of Vienna, Austria*, March 2018. ([pdf](/publ/talks/VDS_PhD_Talk.pdf))
+
+**Graphical Condensation and Aztec Rectangles**, *Tezpur University, Assam, India*, May 2016. ([pdf](/publ/talks/Aztec_Talk.pdf))
