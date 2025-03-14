@@ -42,7 +42,7 @@ My current work is focused on combinatorics (enumerative and algebraic), $q$-ser
 
 30. *Ramanujan-type Congruences for Partition $k$-Tuples with $5$-Cores*, (with *[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/) and Pranjal Talukdar*), *Indian Journal of Pure and Applied Mathematics*, accepted, 2024. ([pdf](https://arxiv.org/pdf/2302.01750.pdf))
 
-29. *Combinatorial Proofs of Some Results of Andrews and El Bachraoui*, (with *[Pankaj Jyoti Mahanta](http://pankajjyoti.com/)*), *The Ramanujan Journal*, 2025, 66:77. ([pdf](https://arxiv.org/pdf/2410.15852))
+29. *Combinatorial Proofs of Some Results of Andrews and El Bachraoui*, (with *[Pankaj Jyoti Mahanta](http://pankajjyoti.com/)*), *The Ramanujan Journal*, 2025, 66 (4), 77. ([pdf](https://arxiv.org/pdf/2410.15852))
 
 28. *On $k$-Facile Perfect Numbers*, (with *Flora S. Jeba and Anirban Roy*), *Algebra and Its Applications, ICAA 2023*, Springer Proceedings in Mathematics & Statistics, vol 474., Springer, 111-121, 2025. ([pdf](/publ/papers/fr_2.pdf))
 
