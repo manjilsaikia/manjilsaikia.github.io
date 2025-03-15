@@ -72,7 +72,8 @@ W 12/03: Jacobi-Trudi identities
 [Problem Set 3](/teaching/AhdUni/MAT631/ps3.pdf)  
 [Problem Set 4](/teaching/AhdUni/MAT631/ps4.pdf)  
 [Problem Set 5](/teaching/AhdUni/MAT631/ps5.pdf)  
-[Problem Set 6](/teaching/AhdUni/MAT631/ps6.pdf)
+[Problem Set 6](/teaching/AhdUni/MAT631/ps6.pdf)  
+[Problem Set 7](/teaching/AhdUni/MAT631/ps7.pdf)
 
 ## Submissions
 
