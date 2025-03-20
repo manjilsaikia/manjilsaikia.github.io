@@ -59,7 +59,11 @@ W 19/02: Symmetric functions, Monomial basis
 T 25/02: Antisymmetric functions, Schur functions  
 W 26/02: Fomin's Growth Diagrams, Bender-Knuth involution  
 T 11/03: Pieri Rules, Cauchy identity  
-W 12/03: Jacobi-Trudi identities
+W 12/03: Jacobi-Trudi identities, Hook-length formula revisited  
+T 18/03: Knuth equivalence  
+W 19/03: Littlewood-Richardson Rule  
+T 25/03: *Student presentations*  
+W 26/03: *Student presentations*
 
 # Problem Sets
 
