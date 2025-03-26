@@ -14,7 +14,7 @@ My current work is focused on combinatorics (enumerative and algebraic), $q$-ser
 
 ## Preprints
 
-10. *Arithmetic Properties of Generalized Cubic and Overcubic Partitions*, (with *[Hirakjyoti Das](https://sites.google.com/view/hirakjyotidas/home?authuser=0) and [Saikat Maity](https://sites.google.com/view/saikat-maity/)*), preprint, 2025.
+10. *Arithmetic Properties of Generalized Cubic and Overcubic Partitions*, (with *[Hirakjyoti Das](https://sites.google.com/view/hirakjyotidas/home?authuser=0) and [Saikat Maity](https://sites.google.com/view/saikat-maity/)*), preprint, 2025. ([pdf](https://arxiv.org/pdf/2503.19399))
 
 9. *Some Properties of Overpartitions into nonmultiples of two integers* (with *[Abdulaziz M. Alanazi](https://scholar.google.com/citations?user=NHGt6AEAAAAJ&hl=en)* and *[Agustine O. Munagi](https://orcid.org/0000-0003-0426-1366)*), preprint, 2024. ([pdf](https://arxiv.org/pdf/2412.18938))
 
