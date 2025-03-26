@@ -17,18 +17,18 @@ permalink: /teaching/AhdUni/MAT631/
 
 **Office Hours**: Tuesdays 1715 to 1745 & Wednesdays 1430 to 1500 (both days in my office)
 
-**Attendance Policy**: Attendance is mandatory, check institute's attendance policy on AURIS (please note, we have a new policy from this semester). If you are low on attendance then you should talk to me (at least 3 weeks before the end-semester examination).
+**Attendance Policy**: Attendance is mandatory, check the institute's attendance policy on AURIS (please note, we have a new policy from this semester). If you are low on attendance then you should talk to me (at least 3 weeks before the end-semester examination).
 
 # Course Details
 
-Available on AURIS, we will follow the syllabus more or less, but *there will be lot of digressions*. This course is philosophically a sequel to MAT315/515 Combinatorial Enumeration, but do not worry if you have not taken that course as we will recall all the basic objects required for the present course. We will start with some basic combinatorial objects that will appear throughout the course, then move on to some tableau combinatorics. In particular, we will see a proof of the famed RSK correspondence and the hook length formula (two gems of modern combinatorics). The next portion of the course will cover symmetric functions in quite a lot of detail, and then if time permits we will do little bit of representation theory and commutative algebra.
+Available on AURIS, we will follow the syllabus more or less, but *there will be a lot of digressions*. This course is philosophically a sequel to MAT315/515 Combinatorial Enumeration, but do not worry if you have not taken that course as we will recall all the basic objects required for the present course. We will start with some basic combinatorial objects that will appear throughout the course, then move on to some tableau combinatorics. In particular, we will see a proof of the famed RSK correspondence and the hook length formula (two gems of modern combinatorics). The next portion of the course will cover symmetric functions in quite a lot of detail.
 
 # Reading Materials
 
-**Textbook**: The textbook that I will use is **Algebraic Combinatorics and Coinvariant Spaces** by *Francois Bergeron* (CRC Press, 2019). There is also a coursepack which will be distributed to the registered students, containing some other materials taken from standard textbooks. In addition, I will use material from other sources which I will list below as the course progresses.
+**Textbook**: The textbook that I will use is **Algebraic Combinatorics and Coinvariant Spaces** by *Francois Bergeron* (CRC Press, 2019). There is also a course pack which will be distributed to the registered students, containing some other materials taken from standard textbooks. In addition, I will use material from other sources which I will list below as the course progresses.
 
-- For a nice proof of the generating function of major index, you can consult Chapter 1 of **[The $q,t$-Catalan Numbers and the Space of Diagonal Harmonics](https://www2.math.upenn.edu/~jhaglund/books/qtcat.pdf)** by *James Haglund* (American Mathematical Society, 2008).
-- For the combinatorial proof of the generating function of major index, you can consult page 17 of **The Art of Computer Programming, Volume 3** by *Donald E. Knuth* (Addison-Wesley, 1998).
+- For a nice proof of the generating function of the major index, you can consult Chapter 1 of **[The $q,t$-Catalan Numbers and the Space of Diagonal Harmonics](https://www2.math.upenn.edu/~jhaglund/books/qtcat.pdf)** by *James Haglund* (American Mathematical Society, 2008).
+- For the combinatorial proof of the generating function of the major index, you can consult page 17 of **The Art of Computer Programming, Volume 3** by *Donald E. Knuth* (Addison-Wesley, 1998).
 - For an introduction to posets, you can consult Chapter 3 of **Enumerative Combinatorics, Vol. 1, 2nd. ed.** by *Richard P. Stanley* (Cambridge University Press, 2011).
 - The tiling proof of Euler's Pentagonal Number Theorem is due to Eichhorn, Nam, and Sohn (see [this paper](https://doi.org/10.1007/s11139-019-00189-2)).
 - The proof of the hook-length formula discussed in the lecture is due to Greene, Nijenhuis, and Wilf (see [this paper](https://doi.org/10.1016/0001-8708(79)90023-9)).
@@ -39,7 +39,7 @@ Available on AURIS, we will follow the syllabus more or less, but *there will be
 
 # Grading
 
-There will be regular problem sets assigned, which will contribute 60% of the total score. The problem sheets will be shared below. The end-semester examination will be 3 hour long written exam which will contribute 40% to the total score.
+There will be regular problem sets assigned, which will contribute 60% of the total score. The problem sheets will be shared below. The end-semester examination will be a 3 3-hour long written exam which will contribute 40% to the total score.
 
 Grades of A and A- will be awarded based on the discretion of the instructor. If you solve all problems in the assignments and participate in the class then your grades will positively reflect that.
 
@@ -62,14 +62,15 @@ T 11/03: Pieri Rules, Cauchy identity
 W 12/03: Jacobi-Trudi identities, Hook-length formula revisited  
 T 18/03: Knuth equivalence  
 W 19/03: Littlewood-Richardson Rule  
-T 25/03: *Student presentations*  
-W 26/03: *Student presentations*
+T 25/03: *Student presentations*: Equivalence of definitions of Schur functions, Determinant Evaluations  
+W 26/03: *Student presentations*: Murnaghan-Nakayama Rule  
+T 01/04: *Student presentations*: Plane Partitions (RSK & generating functions)
 
 # Problem Sets
 
-- The problem set will be updated over the course of the semester. I will announce in class when I post a set here.
-- You should only submit the designated problem(s), but are encouraged to try the rest as well.
-- To get the most out of this course, you are expected to spend atleast twice the amount of lecture hours on your own.
+- The problem set will be updated over the semester. I will announce this in class when I post a set here.
+- You should only submit the designated problem(s) but are encouraged to try the rest as well.
+- To get the most out of this course, you are expected to spend at least twice the amount of lecture hours on your own.
 
 [Problem Set 1](/teaching/AhdUni/MAT631/ps1.pdf)  
 [Problem Set 2](/teaching/AhdUni/MAT631/ps2.pdf)  
@@ -81,7 +82,7 @@ W 26/03: *Student presentations*
 
 ## Submissions
 
-- Due time: 11:59pm of each due date
+- Due time: 11:59 pm of each due date
 - Must be typed in LaTeX and submitted as PDF or printed
 - Begin each solution on a new page
 - State your sources at the top of each problem (even if you worked independently)
@@ -95,7 +96,7 @@ W 26/03: *Student presentations*
 
 - You are encouraged to first work on the problems independently before seeking collaboration.
 - Meaningful collaboration is allowed and is encouraged for this course.
-- You must write up your own solutions.
+- You must write up your solutions.
 
 ## Acknowledging collaborators and sources
 
@@ -108,4 +109,4 @@ It is required to acknowledge your sources (even if you worked independently).
 
 Intentional violations of the above policies may be considered academic dishonesty/misconduct.
 
-(Thanks to [Professor Yufei Zhao](https://yufeizhao.com) for his extensive course policy page, from which I have created my own policies.)
+(Thanks to [Professor Yufei Zhao](https://yufeizhao.com) for his extensive course policy page, from which I have created my policies.)
