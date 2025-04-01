@@ -31,6 +31,7 @@ permalink: /links/
 [Forum of Mathematics, Sigma](https://www.cambridge.org/core/journals/forum-of-mathematics-sigma)  
 [Indian Journal of Pure and Applied Mathematics](https://link.springer.com/journal/13226)  
 [Integers](http://www.integers-ejcnt.org/)  
+[International Journal of Number Theory](https://www.worldscientific.com/worldscinet/ijnt)  
 [Journal of Algebraic Combinatorics](https://link.springer.com/journal/10801)  
 [Journal of Combinatorial Theory, Series A](https://www.sciencedirect.com/journal/journal-of-combinatorial-theory-series-a)  
 [Journal of Integer Sequences](https://cs.uwaterloo.ca/journals/JIS/)  
@@ -48,8 +49,8 @@ permalink: /links/
 [IIIT Manipur](http://iiitmanipur.ac.in)  
 [Cardiff University](https://cardiff.ac.uk/)  
 [University of Vienna](http://www.univie.ac.at/)  
-[Tezpur University](http://www.tezu.ernet.in/)  
 [The Abdus Salam International Centre for Theoretical Physics](http://www.ictp.it/)  
+[Tezpur University](http://www.tezu.ernet.in/)  
 
 ## Mathematics
 
