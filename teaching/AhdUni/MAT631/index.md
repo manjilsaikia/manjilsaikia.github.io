@@ -64,7 +64,10 @@ T 18/03: Knuth equivalence
 W 19/03: Littlewood-Richardson Rule  
 T 25/03: *Student presentations*: Equivalence of definitions of Schur functions, Determinant Evaluations  
 W 26/03: *Student presentations*: Murnaghan-Nakayama Rule  
-T 01/04: *Student presentations*: Plane Partitions (RSK & generating functions)
+T 01/04: *Student presentations*: Plane Partitions (RSK & generating functions)  
+W 02/04: *Student presentations*: Plane Partitions (non-intersecting lattice paths)  
+T 08/04: Other classes of symmetric functions, quasi-symmetric functions  
+W 09/04: Guest Lecture by [Dr Bishal Deb](https://bishaldeb.com)
 
 # Problem Sets
 
@@ -78,7 +81,8 @@ T 01/04: *Student presentations*: Plane Partitions (RSK & generating functions)
 [Problem Set 4](/teaching/AhdUni/MAT631/ps4.pdf)  
 [Problem Set 5](/teaching/AhdUni/MAT631/ps5.pdf)  
 [Problem Set 6](/teaching/AhdUni/MAT631/ps6.pdf)  
-[Problem Set 7](/teaching/AhdUni/MAT631/ps7.pdf)
+[Problem Set 7](/teaching/AhdUni/MAT631/ps7.pdf)  
+[Problem Set 8](/teaching/AhdUni/MAT631/ps8.pdf)
 
 ## Submissions
 
