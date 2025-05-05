@@ -14,17 +14,19 @@ The books which are marked with a ** are the ones that I am either currently rea
 
 >All the books that I read are rated on [Goodreads](https://www.goodreads.com/user/show/36494310-manjil).
 
-1. **Qabar**, *K. R. Meena (Translated by Nisha Susan)*, Eka, 2022.
-2. ** **Murder at the Bookstore**, *Sue Minix*, Avon, 2023.
-3. **Dangerlok**, *Eunice de Souza*, Penguin Books, 2008.
-4. **The Gospel of Yudas**, *K. R. Meena (Translated by Rajesh Rajamohan)*, Hamish Hamilton, 2016.
-5. **Room No. 312 and other stories**, Walking BookFairs, 2021.
-6. **Chikkamma Tours (Pvt.) Ltd: A Bibliomystery**, *Unmana*, Tranquebar, 2024.
-7. **Prelude to a Riot: A Novel**, *Annie Zaidi*, Aleph Book Company, 2019.
-8. **Mother India: A Novel**, *Prayaag Akbar*, Fourth Estate, 2024.
-9. **The Bookshop**, *Penelope Fitzgerald*, 4th Estate, 2018.
-10. **Parliamental**, *Meghnad S.*, HarperCollins Publishers, 2019.
-11. **My Poems Are Not for Your Ad Campaign**, *Anuradha Sarma Pujari (Translated by Aruni Kashyap)*, Viking, 2023.
-12. ** **The Mammaries of the Welfare State**, *Upamanyu Chatterjee*, Viking, 2000.
-13. **Girl in Hyacinth Blue: A Novel**, *Susan Vreeland*, Penguin Books, 2000.
-14. **The Living Mountain: A Fable of Our Times**, *Amitav Ghosh*, Fourth Estate, 2022.  
+1. **My Friend Sancho**, *Amit Varma*, Hachette India, 2009.
+2. **The Avenue of Kings**, *Sudeep Chakravarti*, HarperCollins Publishers India, 2010.
+3. **Qabar**, *K. R. Meena (Translated by Nisha Susan)*, Eka, 2022.
+4. ** **Murder at the Bookstore**, *Sue Minix*, Avon, 2023.
+5. **Dangerlok**, *Eunice de Souza*, Penguin Books, 2008.
+6. **The Gospel of Yudas**, *K. R. Meena (Translated by Rajesh Rajamohan)*, Hamish Hamilton, 2016.
+7. **Room No. 312 and other stories**, Walking BookFairs, 2021.
+8. **Chikkamma Tours (Pvt.) Ltd: A Bibliomystery**, *Unmana*, Tranquebar, 2024.
+9. **Prelude to a Riot: A Novel**, *Annie Zaidi*, Aleph Book Company, 2019.
+10. **Mother India: A Novel**, *Prayaag Akbar*, Fourth Estate, 2024.
+11. **The Bookshop**, *Penelope Fitzgerald*, 4th Estate, 2018.
+12. **Parliamental**, *Meghnad S.*, HarperCollins Publishers, 2019.
+13. **My Poems Are Not for Your Ad Campaign**, *Anuradha Sarma Pujari (Translated by Aruni Kashyap)*, Viking, 2023.
+14. ** **The Mammaries of the Welfare State**, *Upamanyu Chatterjee*, Viking, 2000.
+15. **Girl in Hyacinth Blue: A Novel**, *Susan Vreeland*, Penguin Books, 2000.
+16. **The Living Mountain: A Fable of Our Times**, *Amitav Ghosh*, Fourth Estate, 2022.  
