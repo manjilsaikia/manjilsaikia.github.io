@@ -14,8 +14,9 @@ The books which are marked with a ** are the ones that I am either currently rea
 
 >All the books that I read are rated on [Goodreads](https://www.goodreads.com/user/show/36494310-manjil).
 
-1. **Love and Lust: Stories and Essays**,  Aleph Book Company, 2019.
-2. **The Essence of Delhi: Stories and Essays**, *Aleph Book Company, 2019.
-3. **Notes From The Hinterland: Stories and Essays**, Aleph Book Company, 2019.
-4. **On Love and Sex: Selected Writings**, *Khushwant Singh and Humra Quraishi**, Rupa Publications India, 2023.
-5. **Absolute Khushwant: The Low-Down on Life, Death and Most Things In-Between**, *Khushwant Singh and Humra Quraishi*, Penguin Books India, 2010.
+1. **In a Violent Land: Stories & Essays**, Aleph Book Company, 2019.
+2. **Love and Lust: Stories and Essays**,  Aleph Book Company, 2019.
+3. **The Essence of Delhi: Stories and Essays**, Aleph Book Company, 2019.
+4. **Notes From The Hinterland: Stories and Essays**, Aleph Book Company, 2019.
+5. **On Love and Sex: Selected Writings**, *Khushwant Singh and Humra Quraishi**, Rupa Publications India, 2023.
+6. **Absolute Khushwant: The Low-Down on Life, Death and Most Things In-Between**, *Khushwant Singh and Humra Quraishi*, Penguin Books India, 2010.
