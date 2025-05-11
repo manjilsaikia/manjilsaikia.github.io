@@ -14,13 +14,11 @@ My current work is focused on combinatorics (enumerative and algebraic), $q$-ser
 
 ## Preprints
 
-10. *Generalizing recent results of Kathiravan, Majumdar,  Sangalae, and Srinivas on $(\ell, k)$-regular partitions*, (with *[James A. Sellers](https://www.d.umn.edu/~jsellers/)*), preprint, 2025.
+9. *Generalizing recent results of Kathiravan, Majumdar,  Sangalae, and Srinivas on $(\ell, k)$-regular partitions*, (with *[James A. Sellers](https://www.d.umn.edu/~jsellers/)*), preprint, 2025.
 
-9. *Arithmetic Properties of Generalized Cubic and Overcubic Partitions*, (with *[Hirakjyoti Das](https://sites.google.com/view/hirakjyotidas/home?authuser=0) and [Saikat Maity](https://sites.google.com/view/saikat-maity/)*), preprint, 2025. ([pdf](https://arxiv.org/pdf/2503.19399))
+8. *Arithmetic Properties of Generalized Cubic and Overcubic Partitions*, (with *[Hirakjyoti Das](https://sites.google.com/view/hirakjyotidas/home?authuser=0) and [Saikat Maity](https://sites.google.com/view/saikat-maity/)*), preprint, 2025. ([pdf](https://arxiv.org/pdf/2503.19399))
 
-8. *Some Properties of Overpartitions into nonmultiples of two integers* (with *[Abdulaziz M. Alanazi](https://scholar.google.com/citations?user=NHGt6AEAAAAJ&hl=en)* and *[Agustine O. Munagi](https://orcid.org/0000-0003-0426-1366)*), preprint, 2024. ([pdf](https://arxiv.org/pdf/2412.18938))
-
-7. *Arithmetic Properties of $k$-tuple $\ell$-regular Partitions*, (with *[Hemjyoti Nath](https://www.researchgate.net/profile/Hemjyoti-Nath) and [Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/)*), preprint, 2024. ([pdf](https://arxiv.org/pdf/2412.16193))
+7. *Some Properties of Overpartitions into nonmultiples of two integers* (with *[Abdulaziz M. Alanazi](https://scholar.google.com/citations?user=NHGt6AEAAAAJ&hl=en)* and *[Agustine O. Munagi](https://orcid.org/0000-0003-0426-1366)*), preprint, 2024. ([pdf](https://arxiv.org/pdf/2412.18938))
 
 6. *Symmetric Domino Tilings of Aztec Diamonds*, (with *[Pravakar Paul](https://ahduni.edu.in/academics/schools-centres/school-of-arts-and-sciences/faculty/pravakar-paul/)*), preprint, 2024. ([pdf](https://arxiv.org/pdf/2410.23324))
 
@@ -35,6 +33,8 @@ My current work is focused on combinatorics (enumerative and algebraic), $q$-ser
 1. *Biases in Non-Unitary Partitions*, (with *[Pankaj Jyoti Mahanta](http://pankajjyoti.com/) and [Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/)*), preprint, 2022. ([pdf](/publ/papers/bisa_new.pdf))
 
 ## Peer Reviewed Papers
+
+34. *Arithmetic Properties of $k$-tuple $\ell$-regular Partitions*, (with *[Hemjyoti Nath](https://www.researchgate.net/profile/Hemjyoti-Nath) and [Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/)*), *Journal of Mathematical Analysis and Applications*, accepted, 2025. ([pdf](https://arxiv.org/pdf/2412.16193))
 
 33. *On near $F_k$-perfect and deficient $F_k$-perfect numbers*, (with *Flora S. Jeba, [Pankaj Jyoti Mahanta](http://pankajjyoti.com/) and Anirban Roy*), *Integers*, accepted, 2025.
 
