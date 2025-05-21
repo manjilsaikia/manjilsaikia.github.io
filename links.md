@@ -36,7 +36,7 @@ permalink: /links/
 [Journal of Combinatorial Theory, Series A](https://www.sciencedirect.com/journal/journal-of-combinatorial-theory-series-a)  
 [Journal of Integer Sequences](https://cs.uwaterloo.ca/journals/JIS/)  
 [Journal of Symbolic Computation](https://www-sciencedirect-com.ahdunielib.remotexs.in/journal/journal-of-symbolic-computation)  
-[Journal of Mathematical Analysis and its Applications](https://www.sciencedirect.com/journal/journal-of-mathematical-analysis-and-applications)  
+[Journal of Mathematical Analysis and Applications](https://www.sciencedirect.com/journal/journal-of-mathematical-analysis-and-applications)  
 [Revista de la Real Academia de Ciencias Exactas, Físicas y Naturales, Series A Matemáticas](https://link.springer.com/journal/13398)  
 [The Electronic Journal of Combinatorics](http://www.combinatorics.org/)  
 [The Mathematical Intelligencer](http://www.springer.com/mathematics/journal/283)  
@@ -108,3 +108,5 @@ permalink: /links/
 
 [How to do Math and TCS](http://www.cs.cmu.edu/~odonnell/toolkit13/how-to-do-math-and-tcs.pdf)  
 [Tips for Giving Clear Talks](http://graphics.stanford.edu/~kayvonf/misc/cleartalktips.pdf)  
+[How to referee a math paper?](https://ericrowland.github.io/papers/How_to_referee_a_math_paper.pdf)  
+[Writing mathematics effectively](https://ericrowland.github.io/papers/Writing_mathematics_effectively.pdf)  
