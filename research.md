@@ -34,13 +34,13 @@ My current work is focused on combinatorics (enumerative and algebraic), $q$-ser
 
 ## Peer Reviewed Papers
 
-34. *Arithmetic Properties of $k$-tuple $\ell$-regular Partitions*, (with *[Hemjyoti Nath](https://www.researchgate.net/profile/Hemjyoti-Nath) and [Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/)*), *Journal of Mathematical Analysis and Applications*, accepted, 2025. ([pdf](https://arxiv.org/pdf/2412.16193))
+34. *On near $F_k$-perfect and deficient $F_k$-perfect numbers*, (with *Flora S. Jeba, [Pankaj Jyoti Mahanta](http://pankajjyoti.com/) and Anirban Roy*), *Integers*, accepted, 2025.
 
-33. *On near $F_k$-perfect and deficient $F_k$-perfect numbers*, (with *Flora S. Jeba, [Pankaj Jyoti Mahanta](http://pankajjyoti.com/) and Anirban Roy*), *Integers*, accepted, 2025.
+33. *Further Arithmetic Properties of Overcubic Partition Triples*, (with *[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/)*), *Bulletin of the Australian Mathematical Society*, to appear, 2025. ([pdf](https://arxiv.org/pdf/2411.00013))
 
-32. *Further Arithmetic Properties of Overcubic Partition Triples*, (with *[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/)*), *Bulletin of the Australian Mathematical Society*, to appear, 2025. ([pdf](https://arxiv.org/pdf/2411.00013))
+32. *Ramanujan-type Congruences for Partition $k$-Tuples with $5$-Cores*, (with *[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/) and Pranjal Talukdar*), *Indian Journal of Pure and Applied Mathematics*, accepted, 2024. ([pdf](https://arxiv.org/pdf/2302.01750.pdf))
 
-31. *Ramanujan-type Congruences for Partition $k$-Tuples with $5$-Cores*, (with *[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/) and Pranjal Talukdar*), *Indian Journal of Pure and Applied Mathematics*, accepted, 2024. ([pdf](https://arxiv.org/pdf/2302.01750.pdf))
+31. *Arithmetic Properties of $k$-tuple $\ell$-regular Partitions*, (with *[Hemjyoti Nath](https://www.researchgate.net/profile/Hemjyoti-Nath) and [Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/)*), *Journal of Mathematical Analysis and Applications*, 2025, 551 (2), 129688. ([pdf](https://arxiv.org/pdf/2412.16193))
 
 30. *Arithmetic Properties Modulo Powers of $2$ for Overpartition $k$-Tuples with Odd Parts*, (with *[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/) and [James A. Sellers](https://www.d.umn.edu/~jsellers/)*), *Journal of the Ramanujan Mathematical Society*, 2025, 40 (2), 107-123. ([pdf](https://arxiv.org/pdf/2312.12011.pdf))
 
