@@ -34,10 +34,10 @@ In addition, I will use material from other sources which I will list below as t
 
 # Grading
 
-- *Assignments*: There will be biweekly assignments. This will contribute 30% to the total score.
-- *Project*: Students will have to read and write a summary of a research paper of contemporary interest involving some of the material discussed in the course. This will contribute 20% to their total score and will be done before the end-semester examination.
-- *Presentation*: Students will have to give a presentation (approximately 45 minutes to an hour) on the project topic assigned to them. This will contribute 20% to their total score and will be done before the end-semester examination.
-- *End-Semester Examination*: There will be a 180-minute written examination, this will contribute 30% to the total score.
+- **Assignments**: There will be biweekly assignments. This will contribute 30% to the total score.
+- **Project**: Students will have to read and write a summary of a research paper of contemporary interest involving some of the material discussed in the course. This will contribute 20% to their total score and will be done before the end-semester examination.
+- **Presentation**: Students will have to give a presentation (approximately 45 minutes to an hour) on the project topic assigned to them. This will contribute 20% to their total score and will be done before the end-semester examination.
+- **End-Semester Examination**: There will be a 180-minute written examination, this will contribute 30% to the total score.
 
 # Lectures
 
