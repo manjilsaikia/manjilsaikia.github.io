@@ -32,8 +32,8 @@ Available on AURIS, we will follow the syllabus (more or less), but *there will 
 
 I will use other resources from time to time, which I will list below as the course progresses. If you wish to get a high-level introduction to the topics that will be discussed then you can read the following short introductory books:
 
-- *Number Theory: A very short introduction*, Robin Wilson, Oxford University Press, 2020.
-- *Cryptography: A very short introduction*, Fred Piper and Sean Murphy, Oxford University Press, 2002.
+- *Number Theory: A Very Short Introduction*, Robin Wilson, Oxford University Press, 2020.
+- *Cryptography: A Very Short Introduction*, Fred Piper and Sean Murphy, Oxford University Press, 2002.
 
 # Grading
 
