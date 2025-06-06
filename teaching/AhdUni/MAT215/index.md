@@ -3,7 +3,7 @@ layout: page
 title: MAT215
 description: Elementary Number Theory & Cryptography
 mathjax: true
-background: '/img/teaching.jpg'
+background: '/img/crypto.jpg'
 permalink: /teaching/AhdUni/MAT215/
 ---
 
@@ -21,39 +21,52 @@ permalink: /teaching/AhdUni/MAT215/
 
 # Course Details
 
-Available on AURIS, we will follow the syllabus more or less, but *there will be a few digressions*.
+Available on AURIS, we will follow the syllabus (more or less), but *there will be a few digressions*. So, I encourage you to keep notes.
 
 # Reading Materials
 
-**Textbook**: The textbook that I will use is **Algebraic Combinatorics and Coinvariant Spaces** by *Francois Bergeron* (CRC Press, 2019). There is also a course pack which will be distributed to the registered students, containing some other materials taken from standard textbooks. In addition, I will use material from other sources which I will list below as the course progresses.
+**Textbook**: I will cover a majority of the material from the following textbooks:
+
+- *Elementary Number Theory*, David M. Burton, 7th Edition, McGraw Hill India, 2023.
+- *The Mathematics of Encryption: An Elementary Introduction*, Margaret Cozzens and Steven J. Miller, American Mathematical Society, 2013.
+
+I will use other resources from time to time, which I will list below as the course progresses. If you wish to get a high-level introduction to the topics that will be discussed then you can read the following short introductory books:
+
+- *Number Theory: A very short introduction*, Robin Wilson, Oxford University Press, 2020.
+- *Cryptography: A very short introduction*, Fred Piper and Sean Murphy, Oxford University Press, 2002.
 
 # Grading
 
-There will be regular problem sets assigned, which will contribute 60% of the total score. The problem sheets will be shared below. The end-semester examination will be a 3 3-hour long written exam which will contribute 40% to the total score.
+- **Assignments**: Regular homework assignments will be given, which will count towards 20% of the total score. Approximately one assignment will be given for every 3 lecture sessions. At least some of them will use WebWork (details about this will be shared via email).
+- **Quiz**: There will be two 20-minute quizzes, which will count towards 20% of the total score.
+- **Project**: A group project will be assigned to students in groups of 2 - 3 students; they will have to submit a written report. This will count towards 10% of the total score.
+- **Presentation**: A presentation on the project component above will have to be made by the students. This will count towards 10% of the total score.
+- **Mid-Semester Examination**: We will have a 60-minute written exam (closed book), this will count towards 20% of the total score.
+- **End-Semester Examination**: We will have a 120-minute written exam (with one cheat sheet allowed), this will count towards 20% of the total score.
 
-Grades of A and A- will be awarded based on the discretion of the instructor. If you solve all problems in the assignments and participate in the class then your grades will positively reflect that.
+*To get an A grade, you must score atleast 80% overall. However, this doesn't automatically guarantee an A.*
 
 # Lectures
 
 W 04/08: Introduction to the course, historical overview of number theory & cryptography
 
-# Problem Sets
+# Assignments
 
 - The problem set will be updated over the semester. I will announce this in class when I post a set here.
-- You should only submit the designated problem(s) but are encouraged to try the rest as well.
 - To get the most out of this course, you are expected to spend at least twice the amount of lecture hours on your own.
 
 ## Submissions
 
-- Due time: 11:59 pm of each due date
-- Must be typed in LaTeX and submitted as PDF or printed
-- Begin each solution on a new page
+- Due time: 11:59 am of each due date
+- Must be submitted as PDF (via email) or printed/written (slide under my office door)
+- Begin each solution on a new page, and use only blank or dotted pages (not ruled)
+- Staple the submission, if submitting a paper version
 - State your sources at the top of each problem (even if you worked independently)
 
 ## Late Policy
 
-- **Penalty**: Late submissions will be penalized by 20% per each late day
-- **Extensions**: There will be no extensions given (unless you have a medical leave approved for the day before the due date and the day of the due date)
+- **Penalty**: Late submissions will be penalized by 25% per each late day
+- **Extensions**: There will be no extensions given
 
 ## Collaborations
 
