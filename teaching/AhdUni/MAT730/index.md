@@ -21,15 +21,23 @@ permalink: /teaching/AhdUni/MAT730/
 
 # Course Details
 
-This course is a sequel to [MAT631 Algebraic Combinatorics](/teaching/AhdUni/MAT631), but we will recall some of the basic objects studied in that course when the time comes. 
+This course is a sequel to [MAT631 Algebraic Combinatorics](/teaching/AhdUni/MAT631), but we will recall some of the basic objects studied in that course when the time comes. The goal of the present course is to understand the representations of the Symmetric Group. Along the way, we will look at some beautiful combinatorics (and a decent amount of algebra).
 
 # Reading Materials
 
-**Textbook**: The textbook that I will use is **Algebraic Combinatorics and Coinvariant Spaces** by *Francois Bergeron* (CRC Press, 2019). There is also a course pack which will be distributed to the registered students, containing some other materials taken from standard textbooks. In addition, I will use material from other sources which I will list below as the course progresses.
+**Textbook**: We plan to cover the following books:
 
+- *The Symmetric Group: Representations, Combinatorial Algorithms and Symmetric Functions*, Bruce E. Sagan, 2nd. ed., Springer, 2001.
+- *Symmetric Functions, Schubert Polynomials and Degeneracy Loci*, Laurent Manivel, American Mathematical Society, 2001.
+
+In addition, I will use material from other sources which I will list below as the course progresses.
 
 # Grading
 
+- *Assignments*: There will be biweekly assignments. This will contribute 30% to the total score.
+- *Project*: Students will have to read and write a summary of a research paper of contemporary interest involving some of the material discussed in the course. This will contribute 20% to their total score and will be done before the end-semester examination.
+- *Presentation*: Students will have to give a presentation (approximately 45 minutes to an hour) on the project topic assigned to them. This will contribute 20% to their total score and will be done before the end-semester examination.
+- *End-Semester Examination*: There will be a 180-minute written examination, this will contribute 30% to the total score.
 
 # Lectures
 
@@ -37,9 +45,9 @@ W 06/01: Introduction to the course, basics of abstract algebra
 
 # Problem Sets
 
-- The problem set will be updated over the semester. I will announce this in class when I post a set here.
+- The problem set will be updated over the semester. I will announce in the class or via email when I post a set here.
 - You should only submit the designated problem(s) but are encouraged to try the rest as well.
-- To get the most out of this course, you are expected to spend at least twice the amount of lecture hours on your own.
+- To get the most out of this course, you are expected to spend at least thrice the amount of lecture hours on your own.
 
 ## Submissions
 
