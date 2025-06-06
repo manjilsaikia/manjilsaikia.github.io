@@ -11,6 +11,12 @@ Courses where I was/am the co-instructor are marked with **.
 
 # Ahmedabad University
 
+**[MAT165 Gateway to Abstract Reasoning](/teaching/AhdUni/MAT165/)** (First year UG, October 2025 - February 2026)
+
+**[MAT730 Combinatorial Representation Theory](/teaching/AhdUni/MAT730/)** (Masters/PhD, August 2025 - December 2025)
+
+**[MAT215 Elementary Number Theory & Cryptography](/teaching/AhdUni/MAT215/)** (UG, August 2025 - December 2025)
+
 **[MAT631 Algebraic Combinatorics](/teaching/AhdUni/MAT631/)** (Masters/PhD, January 2025 - April 2025)
 
 **Foundation Programme: Environment and Climate Change** ** (First Year Undergraduate, March 2024 & August 2023 - September 2023)
