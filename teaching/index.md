@@ -59,12 +59,12 @@ Courses where I was/am the co-instructor are marked with **.
 
 **Rogers-Ramanujan Identities** (Graduate, Summer 2024)
 
-**Rogers-Ramanujan Identities: Analytic and Combinatorial Aspects** (Undergraduate, Fall 2022)
+**Rogers-Ramanujan Identities: Analytic and Combinatorial Aspects** (UG, Fall 2022)
 
 **$q$-Series and Partitions** (Graduate, Spring 2022; few lectures are [available online](https://tinyurl.com/q-series-partitions))
 
 **Perfect Numbers and its Generalizations** (Graduate, Spring 2022; few lectures are [available online](https://tinyurl.com/perfect-numbers))
 
-**Topics on Alternating Sign Matrices** (Undergraduate, Summer 2021; discussed the book [Proofs and Confirmations](https://www.cambridge.org/core/books/proofs-and-confirmations/5D2040AF535073D4EA79FD5B56587858) by David Bressoud)
+**Topics on Alternating Sign Matrices** (UG, Summer 2021; discussed the book [Proofs and Confirmations](https://www.cambridge.org/core/books/proofs-and-confirmations/5D2040AF535073D4EA79FD5B56587858) by David Bressoud)
 
-**Generating Functions in Combinatorics** (Undergraduate, Spring 2021; discussed the book [generatingfunctionology](https://www2.math.upenn.edu/~wilf/DownldGF.html) by H. Wilf)
+**Generating Functions in Combinatorics** (UG, Spring 2021; discussed the book [generatingfunctionology](https://www2.math.upenn.edu/~wilf/DownldGF.html) by H. Wilf)
