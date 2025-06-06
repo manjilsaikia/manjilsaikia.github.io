@@ -25,26 +25,27 @@ Available on AURIS, we will follow the syllabus (more or less), but *there will 
 
 # Reading Materials
 
-There is no fixed textbook for this course. I will try to provide the materials to be discussed before each lecture. Students are expected to read up on the shared material.
+There is no fixed textbook for this course. I will try to provide the materials to be discussed before each lecture. Students are expected to read up on the shared material. In addition, I will share resources below after every lecture.
+
+To get a high-level overview of mathematics, I recommend **Mathematics: A Very Short Introduction** by *Timothy Gowers* (Oxford University Press, 2002).
 
 # Grading
 
-- **Assignments**: Regular homework assignments will be given, which will count towards 20% of the total score. Approximately one assignment will be given for every 3 lecture sessions. At least some of them will use WebWork (details about this will be shared via email).
-- **Quiz**: There will be two 20-minute quizzes, which will count towards 20% of the total score.
-- **Project**: A group project will be assigned to students in groups of 2 - 3 students; they will have to submit a written report. This will count towards 10% of the total score.
-- **Presentation**: A presentation on the project component above will have to be made by the students. This will count towards 10% of the total score.
-- **Mid-Semester Examination**: We will have a 60-minute written exam (closed book), this will count towards 20% of the total score.
-- **End-Semester Examination**: We will have a 120-minute written exam (with one cheat sheet allowed), this will count towards 20% of the total score.
+- **Assignment**: There will be a weekly assignment based on the materials covered in the respective week. This will contribute 20% to the total score.
+- **Presentation**: Students are expected to learn a mathematically rigorous proof of their favourite result and present it. This will contribute 20% to the total score.
+- **Written Report**: Students will have to write the content of their presentation in an article format, and submit at least 2 days before their presentation. This will contribute 20% to the total score.
+- **Mid-Semester Examination**: We will have a 120-minute written exam (closed book), this will count towards 20% of the total score.
+- **End-Semester Examination**: We will have a 120-minute written exam (closed book), this will count towards 20% of the total score.
 
 *To get an A grade, you must score atleast 80% overall. However, this doesn't automatically guarantee an A.*
 
 # Lectures
 
-W 04/08: Introduction to the course, historical overview of number theory & cryptography
+W 08/10: Introduction to the course, historical overview of mathematical thought
 
 # Assignments
 
-- The problem set will be updated over the semester. I will announce this in class when I post a set here.
+- The problem sets will be updated over the semester. I will announce this in class when I post a set here.
 - To get the most out of this course, you are expected to spend at least twice the amount of lecture hours on your own.
 
 ## Submissions
