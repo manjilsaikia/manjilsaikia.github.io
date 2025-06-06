@@ -80,7 +80,7 @@ It is required to acknowledge your sources (even if you worked independently).
 
 - At the beginning of the submission for each problem, write Collaborators and sources: followed by a list of collaborators and sources consulted (people, books, papers, websites, software, etc.), or write none if you did not use any such resources.
 - Failure to acknowledge will result in an automatic 20% penalty per problem.
-- Acceptable uses of resources include: looking up a standard theorem/formula/technique; using Wolfram Alpha/Mathematica/Python for a calculation (no need to mention lectures or book draft)
+- Acceptable uses of resources include: looking up a standard theorem/formula/technique; using Wolfram Alpha/Mathematica/Python for a calculation (no need to mention lectures)
 - Unacceptable uses of resources include: directly looking up the problem online or in the research literature for a solution. (Once you have solved a problem, it is fine to seek and learn alternate solutions.)
 
 Intentional violations of the above policies may be considered academic dishonesty/misconduct.
