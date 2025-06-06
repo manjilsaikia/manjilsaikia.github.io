@@ -39,6 +39,8 @@ In addition, I will use material from other sources which I will list below as t
 - **Presentation**: Students will have to give a presentation (approximately 45 minutes to an hour) on the project topic assigned to them. This will contribute 20% to their total score and will be done before the end-semester examination.
 - **End-Semester Examination**: There will be a 180-minute written examination, this will contribute 30% to the total score.
 
+*To get an A grade, you must score atleast 80% overall. However, this doesn't automatically guarantee an A.*
+
 # Lectures
 
 W 06/01: Introduction to the course, basics of abstract algebra  
