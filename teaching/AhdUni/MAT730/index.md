@@ -43,7 +43,7 @@ In addition, I will use material from other sources which I will list below as t
 
 # Lectures
 
-W 06/01: Introduction to the course, basics of abstract algebra  
+M 06/01: Introduction to the course, basics of abstract algebra  
 
 # Problem Sets
 
