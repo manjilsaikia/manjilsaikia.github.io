@@ -79,7 +79,9 @@ Jaipur (January 2018)
 Hill Forts of Rajasthan: Chittorgarh Fort (November 2023)  
 Historic City of Ahmadabad (November 2023)  
 Western Ghats (June 2024)  
-Rani-ki-Vav (the Queen’s Stepwell) at Patan, Gujarat (October 2024)
+Rani-ki-Vav (the Queen’s Stepwell) at Patan, Gujarat (October 2024)  
+Victorian Gothic and Art Deco Ensembles of Mumbai (July 2025)  
+Chhatrapati Shivaji Terminus (formerly Victoria Terminus) (July 2025)
 
 **Italy**
 
