@@ -15,7 +15,7 @@ permalink: /teaching/AhdUni/MAT730/
 
 **Lecture Time & Place**: Mondays & Fridays 1600 to 1715 (Room 330, SAS)
 
-**Office Hours**: Mondays & Fridays 1100 to 1200 (Room 325, SAS)
+**Office Hours**: Mondays 1100 to 1200 & Fridays 0930 to 1030 (Room 325, SAS)
 
 **Attendance Policy**: Attendance is mandatory, check the institute's attendance policy on AURIS (please note, we have a new policy from last semester). If you are low on attendance then you should talk to me (at least 3 weeks before the end-semester examination).
 
