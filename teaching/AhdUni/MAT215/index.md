@@ -13,9 +13,9 @@ permalink: /teaching/AhdUni/MAT215/
 
 **Contact**: manjil.saikia@ahduni.edu.in (please only use this email address to send me emails related to this course)
 
-**Lecture Time & Place**: Mondays & Fridays 1430 to 1545 (Room XXX, SAS)
+**Lecture Time & Place**: Mondays & Fridays 1430 to 1545 (Room 209, SAS)
 
-**Office Hours**: XXX
+**Office Hours**: Mondays & Fridays 1100 to 1200 (Room 325, SAS)
 
 **Attendance Policy**: Attendance is mandatory, check the institute's attendance policy on AURIS (please note, we have a new policy from last semester). If you are low on attendance then you should talk to me (at least 3 weeks before the end-semester examination).
 
