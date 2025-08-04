@@ -48,7 +48,8 @@ I will use other resources from time to time, which I will list below as the cou
 
 # Lectures
 
-M 04/08: Introduction to the course, historical overview of number theory & cryptography
+M 04/08: Introduction to the course, historical overview of number theory & cryptography ([Slides](/teaching/AhdUni/MAT215/MAT215_Lecture1.pdf))  
+F 08/08: Well-ordering principle and applications
 
 # Assignments
 
