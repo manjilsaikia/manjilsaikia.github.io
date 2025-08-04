@@ -43,7 +43,8 @@ In addition, I will use material from other sources which I will list below as t
 
 # Lectures
 
-M 06/01: Introduction to the course, basics of abstract algebra  
+M 04/08: Introduction to the course, basics of abstract algebra  
+F 08/08: Matrix Representations, G-Modules
 
 # Problem Sets
 
