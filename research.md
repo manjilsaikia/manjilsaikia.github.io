@@ -14,6 +14,8 @@ My current work is focused on combinatorics (enumerative and algebraic), $q$-ser
 
 ## Preprints
 
+11. *Arithmetic Properties of $t$-Schur Overpartitions*, (with *[Mohammed Lamine Nadji](https://sites.google.com/view/mlnadji) and [James A. Sellers](https://www.d.umn.edu/~jsellers/)*), preprint, 2025.
+
 10. *New Arithmetic Properties for Overpartitions where Nonoverlined Parts are $\ell$-Regular*, (with *[Hemjyoti Nath](https://sites.google.com/view/hemjyoti-nath) and [James A. Sellers](https://www.d.umn.edu/~jsellers/)*), preprint, 2025. ([pdf](https://arxiv.org/pdf/2503.12145))
 
 9. *Generalizing recent results of Kathiravan, Majumdar,  Sangalae, and Srinivas on $(\ell, k)$-regular partitions*, (with *[James A. Sellers](https://www.d.umn.edu/~jsellers/)*), preprint, 2025. ([pdf](https://hal.science/hal-05055464v1/document))
