@@ -14,7 +14,7 @@ The books that are marked with a ** are the ones that I am either currently read
 
 >All the books that I read are rated on [Goodreads](https://www.goodreads.com/user/show/36494310-manjil).
 
-1. **The Green Book: An Observer's Notebook**, *Amitava Kumar*, HarperCollins Publishers, 2025.
+1. **The Green Book: An Observer's Notebook**, *Amitava Kumar*, HarperCollins Publishers, 2024.
 2. **The Yellow Book: A Traveller's Diary**, *Amitava Kumar*, HarperCollins Publishers, 2024.
 3. **The Blue Book: A Writer's Journal**, *Amitava Kumar*, HarperCollins Publishers, 2022.
 4. **The Prosecutor: One Man's Battle to Bring Nazis to Justice**, *Jack Fairweather*, W. H. Allen, 2025.
