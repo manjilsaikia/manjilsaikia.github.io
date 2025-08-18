@@ -49,7 +49,10 @@ I will use other resources from time to time, which I will list below as the cou
 # Lectures
 
 M 04/08: Introduction to the course, historical overview of number theory & cryptography ([Slides](/teaching/AhdUni/MAT215/MAT215_Lecture1.pdf))  
-F 08/08: Well-ordering principle and applications
+F 08/08: Well-ordering principle and applications  
+M 11/08: Division algorithm and applications  
+M 18/08: GCD, Euclid's lemma and applications  
+F 22/08: Euclidean algorithm and applications
 
 # Assignments
 
