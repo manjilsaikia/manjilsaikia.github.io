@@ -44,7 +44,10 @@ In addition, I will use material from other sources which I will list below as t
 # Lectures
 
 M 04/08: Introduction to the course, basics of abstract algebra  
-F 08/08: Matrix Representations, G-Modules
+F 08/08: Matrix Representations, G-Modules  
+M 11/08: Maschke's Theorem, Schur's Lemma  
+M 18/08: Commutant Algebra, Tensor Products  
+F 22/08: Group Characters
 
 # Problem Sets
 
