@@ -47,7 +47,8 @@ M 04/08: Introduction to the course, basics of abstract algebra
 F 08/08: Matrix Representations, G-Modules  
 M 11/08: Maschke's Theorem, Schur's Lemma  
 M 18/08: Commutant Algebra, Tensor Products  
-F 22/08: Group Characters
+F 22/08: Group Characters  
+M 25/08: Induced & Restricted representations
 
 # Problem Sets
 
@@ -55,7 +56,8 @@ F 22/08: Group Characters
 - You should only submit the designated problem(s) but are encouraged to try the rest as well.
 - To get the most out of this course, you are expected to spend at least thrice the amount of lecture hours on your own.
 
-[Problem Set 1](/teaching/AhdUni/MAT730/M2025/ps1.pdf)
+[Problem Set 1](/teaching/AhdUni/MAT730/M2025/ps1.pdf)  
+[Problem Set 2](/teaching/AhdUni/MAT730/M2025/ps2.pdf)
 
 ## Submissions
 
