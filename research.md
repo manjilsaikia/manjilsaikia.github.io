@@ -40,9 +40,9 @@ My current work is focused on combinatorics (enumerative and algebraic), $q$-ser
 
 34. *On near $F_k$-perfect and deficient $F_k$-perfect numbers*, (with *Flora S. Jeba, [Pankaj Jyoti Mahanta](http://pankajjyoti.com/) and Anirban Roy*), *Integers*, accepted, 2025.
 
-33. *Further Arithmetic Properties of Overcubic Partition Triples*, (with *[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/)*), *Bulletin of the Australian Mathematical Society*, to appear, 2025. ([pdf](https://arxiv.org/pdf/2411.00013))
+33. *Ramanujan-type Congruences for Partition $k$-Tuples with $5$-Cores*, (with *[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/) and Pranjal Talukdar*), *Indian Journal of Pure and Applied Mathematics*, accepted, 2024. ([pdf](https://arxiv.org/pdf/2302.01750.pdf))
 
-32. *Ramanujan-type Congruences for Partition $k$-Tuples with $5$-Cores*, (with *[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/) and Pranjal Talukdar*), *Indian Journal of Pure and Applied Mathematics*, accepted, 2024. ([pdf](https://arxiv.org/pdf/2302.01750.pdf))
+32. *Further Arithmetic Properties of Overcubic Partition Triples*, (with *[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/)*), *Bulletin of the Australian Mathematical Society*, 2025, 112 (2), 260-273. ([pdf](https://arxiv.org/pdf/2411.00013))
 
 31. *Arithmetic Properties of $k$-tuple $\ell$-regular Partitions*, (with *[Hemjyoti Nath](https://sites.google.com/view/hemjyoti-nath) and [Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/)*), *Journal of Mathematical Analysis and Applications*, 2025, 551 (2), 129688. ([pdf](https://arxiv.org/pdf/2412.16193))
 
