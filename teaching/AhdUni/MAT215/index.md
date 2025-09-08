@@ -54,7 +54,10 @@ M 11/08: Division algorithm and applications
 M 18/08: GCD, Euclid's lemma and applications  
 F 22/08: Euclidean algorithm and applications  
 M 25/08: Euclid's proof of the infinitude of primes, [Quiz 1](/teaching/AhdUni/MAT215/Quiz1.pdf)  
-F 29/08: [Problem Sheet 1](/teaching/AhdUni/MAT215/ps1.pdf)
+F 29/08: Theory of Congruences, Euler's & Fermat's Theorems  
+F 05/09: Wilson's Theorem  
+M 08/09: [Problem Sheet 1](/teaching/AhdUni/MAT215/ps1.pdf)  
+F 12/09: Congruences, Chinese Remainder Theorem
 
 # Assignments
 
