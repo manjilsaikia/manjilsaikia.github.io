@@ -1,0 +1,523 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 12.3' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[     19031,        515]
+NotebookOptionsPosition[     16766,        469]
+NotebookOutlinePosition[     17160,        485]
+CellTagsIndexPosition[     17117,        482]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[BoxData[
+ RowBox[{"<<", "RaduRK.m"}]], "Input",
+ CellChangeTimes->{{3.9653669104210377`*^9, 3.965366913335827*^9}},
+ CellLabel->"In[8]:=",ExpressionUUID->"67d807f6-fdfb-410b-a5f0-79b533c49a30"],
+
+Cell["\<\
+math4ti2: Mathematica interface to 4ti2 (http://www.4ti2.de/)
+Copyright (C) 2017, Ralf Hemmecke <ralf@hemmecke.org>
+Copyright (C) 2017, Silviu Radu <sradu@risc.jku.at>\
+\>", "Text",
+ CellFrame->0.5,
+ GeneratedCell->True,
+ CellAutoOverwrite->True,
+ CellChangeTimes->{3.965366914214962*^9},
+ ShowAutoSpellCheck->False,
+ FontColor->RGBColor[0, 0, 0],
+ Background->RGBColor[
+  0.796887, 0.789075, 
+   0.871107],ExpressionUUID->"d53d49f8-2556-4011-9fed-06ceadb92a32"],
+
+Cell["\<\
+RaduRK: Ramanujan--Kolberg Program Version 2.8
+Copyright (C) 2020, Nicolas Allen Smoot <nicolas.smoot@risc.jku.at>
+Research Institute for Symbolic Computation
+Johannes Kepler Universit\[ADoubleDot]t, Linz\
+\>", "Text",
+ CellFrame->0.5,
+ GeneratedCell->True,
+ CellAutoOverwrite->True,
+ CellChangeTimes->{3.965366914252054*^9},
+ ShowAutoSpellCheck->False,
+ FontColor->RGBColor[0, 0, 0],
+ Background->RGBColor[
+  0.796887, 0.789075, 
+   0.871107],ExpressionUUID->"c0549a9f-c769-4508-a1cc-5ad56b9a03ee"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"{", 
+  RowBox[{
+   RowBox[{"SetVar1", "[", "q", "]"}], ",", 
+   RowBox[{"SetVar2", "[", "t", "]"}]}], "}"}]], "Input",
+ CellChangeTimes->{{3.9653669158750887`*^9, 3.9653669251579523`*^9}},
+ CellLabel->"In[9]:=",ExpressionUUID->"0612c9c5-9cfa-42a2-a8d0-cfa7214516e2"],
+
+Cell[BoxData[
+ RowBox[{"{", 
+  RowBox[{"q", ",", "t"}], "}"}]], "Output",
+ CellChangeTimes->{3.965366925499354*^9},
+ CellLabel->"Out[9]=",ExpressionUUID->"69d8e8e4-045b-4a1f-8445-a9782714e5a2"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"minN", "[", 
+  RowBox[{"14", ",", 
+   RowBox[{"{", 
+    RowBox[{"2", ",", "2", ",", "2", ",", "2"}], "}"}], ",", "7", ",", "5"}], 
+  "]"}]], "Input",
+ CellChangeTimes->{{3.9653677066359*^9, 3.965367730163398*^9}},
+ CellLabel->"In[18]:=",ExpressionUUID->"8b8f0fcf-fbbc-4a86-86ec-0ecfbcd9d9df"],
+
+Cell[BoxData["14"], "Output",
+ CellChangeTimes->{3.965367730495597*^9},
+ CellLabel->"Out[18]=",ExpressionUUID->"b27d7505-5028-4269-be47-4acbaa7ad33e"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"RK", "[", 
+  RowBox[{"14", ",", "14", ",", 
+   RowBox[{"{", 
+    RowBox[{"2", ",", "2", ",", "2", ",", "2"}], "}"}], ",", "7", ",", "5"}], 
+  "]"}]], "Input",
+ CellChangeTimes->{{3.96536773468139*^9, 3.965367736833692*^9}},
+ CellLabel->"In[19]:=",ExpressionUUID->"204fcaf2-846a-4b5c-8e44-365890555380"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData["\<\"\\!\\(\\*UnderscriptBox[\\(\[Product]\\), \\(\[Delta] | \
+M\\)]\\)(\\!\\(\\*SuperscriptBox[\\(q\\), \
+\\(\[Delta]\\)]\\);\\!\\(\\*SuperscriptBox[\\(q\\), \
+\\(\[Delta]\\)]\\)\\!\\(\\*SubsuperscriptBox[\\()\\), \\(\[Infinity]\\), \
+SubscriptBox[\\(r\\), \\(\[Delta]\\)]]\\) = \\!\\(\\*UnderoverscriptBox[\\(\
+\[Sum]\\), \\(n = 0\\), \\(\[Infinity]\\)]\\)a(n)\\!\\(\\*SuperscriptBox[\\(q\
+\\), \\(n\\)]\\)\"\>"], "Print",
+ CellChangeTimes->{3.965367737415736*^9},
+ CellLabel->
+  "During evaluation of \
+In[19]:=",ExpressionUUID->"6024bdd5-3b2f-4586-9c7c-ad0885617d3c"],
+
+Cell[BoxData["\<\"\\!\\(\\*FrameBox[\\n RowBox[{\\n  RowBox[{\\n   \
+SubscriptBox[\\\"f\\\", \\\"1\\\"], \\n   RowBox[{\\n    RowBox[{\\\"(\\\", \
+\\\"q\\\", \\\")\\\"}], \\\"\[CenterDot]\\\", \\n    RowBox[{\\n     \
+UnderscriptBox[\\\"\[Product]\\\", \\n      RowBox[{\\n       RowBox[{\\\"j\\\
+\", \\\"'\\\"}], \\\"\[Element]\\\", \\n       RowBox[{\\n        \
+SubscriptBox[\\\"P\\\", \\n         RowBox[{\\\"m\\\", \\\",\\\", \
+\\\"r\\\"}]], \\n        RowBox[{\\\"(\\\", \\\"j\\\", \\\")\\\"}]}]}]], \\n  \
+   RowBox[{\\n      UnderoverscriptBox[\\n       RowBox[{\\\"  \\\", \\\"\
+\[Sum]\\\"}], \\n       RowBox[{\\\"   \\\", \\n        RowBox[{\\\"n\\\", \\\
+\"=\\\", \\\"0\\\"}]}], \\\"\[Infinity]\\\"], \\\"a\\\", \\n      \
+RowBox[{\\\"(\\\", \\n       RowBox[{\\\"mn\\\", \\\"+\\\", \\n        \
+RowBox[{\\\"j\\\", \\\"'\\\"}]}], \\\")\\\"}], \\n      \
+SuperscriptBox[\\\"q\\\", \\\"n\\\"]}]}]}]}], \\\" \\\", \\\"=\\\", \\\" \
+\\\", \\n  RowBox[{\\n   UnderscriptBox[\\\"\[Sum]\\\", \\n    \
+RowBox[{\\\"g\\\", \\\"\[Element]\\\", \\\"AB\\\"}]], \\n   RowBox[{\\n    \
+RowBox[{\\\"g\\\", \\\"\[CenterDot]\\\", \\n     SubscriptBox[\\\"p\\\", \
+\\\"g\\\"]}], \\n    RowBox[{\\\"(\\\", \\\"t\\\", \
+\\\")\\\"}]}]}]}]]\\)\"\>"], "Print",
+ CellChangeTimes->{3.9653677374174213`*^9},
+ CellLabel->
+  "During evaluation of \
+In[19]:=",ExpressionUUID->"9d73d4d3-6661-4cc2-a648-7a1554f3f032"],
+
+Cell[BoxData["\<\"Modular Curve: \\!\\(\\*SubscriptBox[\\(X\\), \
+\\(0\\)]\\)(N)\"\>"], "Print",
+ CellChangeTimes->{3.965367737419681*^9},
+ CellLabel->
+  "During evaluation of \
+In[19]:=",ExpressionUUID->"d9f3fbc6-3768-44c4-951e-807ef32a32b6"]
+}, Open  ]],
+
+Cell[BoxData[
+ TagBox[GridBox[{
+    {"\<\"N:\"\>", "14"},
+    {"\<\"{M,(\\!\\(\\*SubscriptBox[\\(r\\), \
+\\(\[Delta]\\)]\\)\\!\\(\\*SubscriptBox[\\()\\), \\(\[Delta] | \
+M\\)]\\)}:\"\>", 
+     RowBox[{"{", 
+      RowBox[{"14", ",", 
+       RowBox[{"{", 
+        RowBox[{"2", ",", "2", ",", "2", ",", "2"}], "}"}]}], "}"}]},
+    {"\<\"m:\"\>", "7"},
+    {"\<\"\\!\\(\\*SubscriptBox[\\(P\\), \\(m, r\\)]\\)(j):\"\>", 
+     RowBox[{"{", "5", "}"}]},
+    {"\<\"\\!\\(\\*SubscriptBox[\\(f\\), \\(1\\)]\\)(q):\"\>", 
+     TagBox[
+      FormBox[
+       FractionBox[
+        TemplateBox[{
+          SuperscriptBox["q", "7"], 
+          SuperscriptBox["q", "7"], "5"},
+         "QPochhammerPower2"], 
+        RowBox[{
+         SuperscriptBox["q", "3"], " ", 
+         TemplateBox[{
+           SuperscriptBox["q", "2"], 
+           SuperscriptBox["q", "2"]},
+          "QPochhammer2"], " ", 
+         TemplateBox[{"q", "q", "3"},
+          "QPochhammerPower2"], " ", 
+         TemplateBox[{
+           SuperscriptBox["q", "14"], 
+           SuperscriptBox["q", "14"], "9"},
+          "QPochhammerPower2"]}]],
+       TraditionalForm],
+      TraditionalForm,
+      Editable->True]},
+    {"\<\"t:\"\>", 
+     TagBox[
+      FormBox[
+       FractionBox[
+        RowBox[{
+         TemplateBox[{
+           SuperscriptBox["q", "2"], 
+           SuperscriptBox["q", "2"]},
+          "QPochhammer2"], " ", 
+         TemplateBox[{
+           SuperscriptBox["q", "7"], 
+           SuperscriptBox["q", "7"], "7"},
+          "QPochhammerPower2"]}], 
+        RowBox[{
+         SuperscriptBox["q", "2"], " ", 
+         TemplateBox[{"q", "q"},
+          "QPochhammer2"], " ", 
+         TemplateBox[{
+           SuperscriptBox["q", "14"], 
+           SuperscriptBox["q", "14"], "7"},
+          "QPochhammerPower2"]}]],
+       TraditionalForm],
+      TraditionalForm,
+      Editable->True]},
+    {"\<\"AB:\"\>", 
+     TagBox[
+      FormBox[
+       RowBox[{"{", 
+        RowBox[{"1", ",", 
+         RowBox[{
+          FractionBox[
+           RowBox[{
+            TemplateBox[{
+              SuperscriptBox["q", "2"], 
+              SuperscriptBox["q", "2"], "8"},
+             "QPochhammerPower2"], " ", 
+            TemplateBox[{
+              SuperscriptBox["q", "7"], 
+              SuperscriptBox["q", "7"], "4"},
+             "QPochhammerPower2"]}], 
+           RowBox[{
+            SuperscriptBox["q", "3"], " ", 
+            TemplateBox[{"q", "q", "4"},
+             "QPochhammerPower2"], " ", 
+            TemplateBox[{
+              SuperscriptBox["q", "14"], 
+              SuperscriptBox["q", "14"], "8"},
+             "QPochhammerPower2"]}]], "-", 
+          FractionBox[
+           RowBox[{"4", " ", 
+            TemplateBox[{
+              SuperscriptBox["q", "2"], 
+              SuperscriptBox["q", "2"]},
+             "QPochhammer2"], " ", 
+            TemplateBox[{
+              SuperscriptBox["q", "7"], 
+              SuperscriptBox["q", "7"], "7"},
+             "QPochhammerPower2"]}], 
+           RowBox[{
+            SuperscriptBox["q", "2"], " ", 
+            TemplateBox[{"q", "q"},
+             "QPochhammer2"], " ", 
+            TemplateBox[{
+              SuperscriptBox["q", "14"], 
+              SuperscriptBox["q", "14"], "7"},
+             "QPochhammerPower2"]}]]}]}], "}"}],
+       TraditionalForm],
+      TraditionalForm,
+      Editable->True]},
+    {"\<\"{\\!\\(\\*SubscriptBox[\\(p\\), \\(g\\)]\\)(t): g\[Element]AB}\"\>", 
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{
+        RowBox[{"-", "7"}], " ", "t"}], ",", "0"}], "}"}]},
+    {"\<\"Common Factor:\"\>", "7"}
+   },
+   AutoDelete->False,
+   GridBoxDividers->{
+    "Columns" -> {False, True}, 
+     "Rows" -> {False, True, True, True, True, True, True, True, True}},
+   GridBoxItemSize->{"Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}},
+   GridBoxSpacings->{"Columns" -> {{1}}, "Rows" -> {{2}}}],
+  "Grid"]], "Output",
+ CellChangeTimes->{3.965367744973268*^9},
+ CellLabel->"Out[19]=",ExpressionUUID->"2bddb159-deed-4baf-a91e-c66efe69d247"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"minN", "[", 
+  RowBox[{"14", ",", 
+   RowBox[{"{", 
+    RowBox[{"5", ",", 
+     RowBox[{"-", "1"}], ",", "5", ",", 
+     RowBox[{"-", "1"}]}], "}"}], ",", "7", ",", "6"}], "]"}]], "Input",
+ CellChangeTimes->{{3.965367754221188*^9, 3.965367768864801*^9}},
+ CellLabel->"In[20]:=",ExpressionUUID->"09960a49-97b5-421c-9ab0-6f7111802224"],
+
+Cell[BoxData["14"], "Output",
+ CellChangeTimes->{3.965367769241761*^9},
+ CellLabel->"Out[20]=",ExpressionUUID->"3d18508b-9240-4b99-b53b-9905519ec6f6"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"RK", "[", 
+  RowBox[{"14", ",", "14", ",", 
+   RowBox[{"{", 
+    RowBox[{"5", ",", 
+     RowBox[{"-", "1"}], ",", "5", ",", 
+     RowBox[{"-", "1"}]}], "}"}], ",", "7", ",", "6"}], "]"}]], "Input",
+ CellChangeTimes->{{3.965367774098377*^9, 3.965367775884923*^9}},
+ CellLabel->"In[21]:=",ExpressionUUID->"935e1aa4-0d36-4f2a-ae37-1fae4fbac827"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData["\<\"\\!\\(\\*UnderscriptBox[\\(\[Product]\\), \\(\[Delta] | \
+M\\)]\\)(\\!\\(\\*SuperscriptBox[\\(q\\), \
+\\(\[Delta]\\)]\\);\\!\\(\\*SuperscriptBox[\\(q\\), \
+\\(\[Delta]\\)]\\)\\!\\(\\*SubsuperscriptBox[\\()\\), \\(\[Infinity]\\), \
+SubscriptBox[\\(r\\), \\(\[Delta]\\)]]\\) = \\!\\(\\*UnderoverscriptBox[\\(\
+\[Sum]\\), \\(n = 0\\), \\(\[Infinity]\\)]\\)a(n)\\!\\(\\*SuperscriptBox[\\(q\
+\\), \\(n\\)]\\)\"\>"], "Print",
+ CellChangeTimes->{3.9653677763564243`*^9},
+ CellLabel->
+  "During evaluation of \
+In[21]:=",ExpressionUUID->"b68e921f-effd-4c48-b8db-e16ec8807565"],
+
+Cell[BoxData["\<\"\\!\\(\\*FrameBox[\\n RowBox[{\\n  RowBox[{\\n   \
+SubscriptBox[\\\"f\\\", \\\"1\\\"], \\n   RowBox[{\\n    RowBox[{\\\"(\\\", \
+\\\"q\\\", \\\")\\\"}], \\\"\[CenterDot]\\\", \\n    RowBox[{\\n     \
+UnderscriptBox[\\\"\[Product]\\\", \\n      RowBox[{\\n       RowBox[{\\\"j\\\
+\", \\\"'\\\"}], \\\"\[Element]\\\", \\n       RowBox[{\\n        \
+SubscriptBox[\\\"P\\\", \\n         RowBox[{\\\"m\\\", \\\",\\\", \
+\\\"r\\\"}]], \\n        RowBox[{\\\"(\\\", \\\"j\\\", \\\")\\\"}]}]}]], \\n  \
+   RowBox[{\\n      UnderoverscriptBox[\\n       RowBox[{\\\"  \\\", \\\"\
+\[Sum]\\\"}], \\n       RowBox[{\\\"   \\\", \\n        RowBox[{\\\"n\\\", \\\
+\"=\\\", \\\"0\\\"}]}], \\\"\[Infinity]\\\"], \\\"a\\\", \\n      \
+RowBox[{\\\"(\\\", \\n       RowBox[{\\\"mn\\\", \\\"+\\\", \\n        \
+RowBox[{\\\"j\\\", \\\"'\\\"}]}], \\\")\\\"}], \\n      \
+SuperscriptBox[\\\"q\\\", \\\"n\\\"]}]}]}]}], \\\" \\\", \\\"=\\\", \\\" \
+\\\", \\n  RowBox[{\\n   UnderscriptBox[\\\"\[Sum]\\\", \\n    \
+RowBox[{\\\"g\\\", \\\"\[Element]\\\", \\\"AB\\\"}]], \\n   RowBox[{\\n    \
+RowBox[{\\\"g\\\", \\\"\[CenterDot]\\\", \\n     SubscriptBox[\\\"p\\\", \
+\\\"g\\\"]}], \\n    RowBox[{\\\"(\\\", \\\"t\\\", \
+\\\")\\\"}]}]}]}]]\\)\"\>"], "Print",
+ CellChangeTimes->{3.9653677763581676`*^9},
+ CellLabel->
+  "During evaluation of \
+In[21]:=",ExpressionUUID->"b9b26b9a-ad16-4bb2-b322-a3b310e3258e"],
+
+Cell[BoxData["\<\"Modular Curve: \\!\\(\\*SubscriptBox[\\(X\\), \
+\\(0\\)]\\)(N)\"\>"], "Print",
+ CellChangeTimes->{3.96536777636051*^9},
+ CellLabel->
+  "During evaluation of \
+In[21]:=",ExpressionUUID->"33b04ac4-a4f2-44d3-8897-732b91deb903"]
+}, Open  ]],
+
+Cell[BoxData[
+ TagBox[GridBox[{
+    {"\<\"N:\"\>", "14"},
+    {"\<\"{M,(\\!\\(\\*SubscriptBox[\\(r\\), \
+\\(\[Delta]\\)]\\)\\!\\(\\*SubscriptBox[\\()\\), \\(\[Delta] | \
+M\\)]\\)}:\"\>", 
+     RowBox[{"{", 
+      RowBox[{"14", ",", 
+       RowBox[{"{", 
+        RowBox[{"5", ",", 
+         RowBox[{"-", "1"}], ",", "5", ",", 
+         RowBox[{"-", "1"}]}], "}"}]}], "}"}]},
+    {"\<\"m:\"\>", "7"},
+    {"\<\"\\!\\(\\*SubscriptBox[\\(P\\), \\(m, r\\)]\\)(j):\"\>", 
+     RowBox[{"{", "6", "}"}]},
+    {"\<\"\\!\\(\\*SubscriptBox[\\(f\\), \\(1\\)]\\)(q):\"\>", 
+     TagBox[
+      FormBox[
+       FractionBox[
+        RowBox[{
+         TemplateBox[{
+           SuperscriptBox["q", "2"], 
+           SuperscriptBox["q", "2"], "3"},
+          "QPochhammerPower2"], " ", 
+         TemplateBox[{
+           SuperscriptBox["q", "7"], 
+           SuperscriptBox["q", "7"], "9"},
+          "QPochhammerPower2"]}], 
+        RowBox[{
+         SuperscriptBox["q", "4"], " ", 
+         TemplateBox[{"q", "q", "7"},
+          "QPochhammerPower2"], " ", 
+         TemplateBox[{
+           SuperscriptBox["q", "14"], 
+           SuperscriptBox["q", "14"], "13"},
+          "QPochhammerPower2"]}]],
+       TraditionalForm],
+      TraditionalForm,
+      Editable->True]},
+    {"\<\"t:\"\>", 
+     TagBox[
+      FormBox[
+       FractionBox[
+        RowBox[{
+         TemplateBox[{
+           SuperscriptBox["q", "2"], 
+           SuperscriptBox["q", "2"]},
+          "QPochhammer2"], " ", 
+         TemplateBox[{
+           SuperscriptBox["q", "7"], 
+           SuperscriptBox["q", "7"], "7"},
+          "QPochhammerPower2"]}], 
+        RowBox[{
+         SuperscriptBox["q", "2"], " ", 
+         TemplateBox[{"q", "q"},
+          "QPochhammer2"], " ", 
+         TemplateBox[{
+           SuperscriptBox["q", "14"], 
+           SuperscriptBox["q", "14"], "7"},
+          "QPochhammerPower2"]}]],
+       TraditionalForm],
+      TraditionalForm,
+      Editable->True]},
+    {"\<\"AB:\"\>", 
+     TagBox[
+      FormBox[
+       RowBox[{"{", 
+        RowBox[{"1", ",", 
+         RowBox[{
+          FractionBox[
+           RowBox[{
+            TemplateBox[{
+              SuperscriptBox["q", "2"], 
+              SuperscriptBox["q", "2"], "8"},
+             "QPochhammerPower2"], " ", 
+            TemplateBox[{
+              SuperscriptBox["q", "7"], 
+              SuperscriptBox["q", "7"], "4"},
+             "QPochhammerPower2"]}], 
+           RowBox[{
+            SuperscriptBox["q", "3"], " ", 
+            TemplateBox[{"q", "q", "4"},
+             "QPochhammerPower2"], " ", 
+            TemplateBox[{
+              SuperscriptBox["q", "14"], 
+              SuperscriptBox["q", "14"], "8"},
+             "QPochhammerPower2"]}]], "-", 
+          FractionBox[
+           RowBox[{"4", " ", 
+            TemplateBox[{
+              SuperscriptBox["q", "2"], 
+              SuperscriptBox["q", "2"]},
+             "QPochhammer2"], " ", 
+            TemplateBox[{
+              SuperscriptBox["q", "7"], 
+              SuperscriptBox["q", "7"], "7"},
+             "QPochhammerPower2"]}], 
+           RowBox[{
+            SuperscriptBox["q", "2"], " ", 
+            TemplateBox[{"q", "q"},
+             "QPochhammer2"], " ", 
+            TemplateBox[{
+              SuperscriptBox["q", "14"], 
+              SuperscriptBox["q", "14"], "7"},
+             "QPochhammerPower2"]}]]}]}], "}"}],
+       TraditionalForm],
+      TraditionalForm,
+      Editable->True]},
+    {"\<\"{\\!\\(\\*SubscriptBox[\\(p\\), \\(g\\)]\\)(t): g\[Element]AB}\"\>", 
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{
+        RowBox[{"-", "7"}], " ", 
+        SuperscriptBox["t", "2"]}], ",", "0"}], "}"}]},
+    {"\<\"Common Factor:\"\>", "7"}
+   },
+   AutoDelete->False,
+   GridBoxDividers->{
+    "Columns" -> {False, True}, 
+     "Rows" -> {False, True, True, True, True, True, True, True, True}},
+   GridBoxItemSize->{"Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}},
+   GridBoxSpacings->{"Columns" -> {{1}}, "Rows" -> {{2}}}],
+  "Grid"]], "Output",
+ CellChangeTimes->{3.965367783898219*^9},
+ CellLabel->"Out[21]=",ExpressionUUID->"8f492974-31e6-4884-b13d-7cdf17645b09"]
+}, Open  ]]
+},
+WindowSize->{808, 674},
+WindowMargins->{{116, Automatic}, {-25, Automatic}},
+FrontEndVersion->"12.3 for Mac OS X ARM (64-bit) (July 9, 2021)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"fdc4bea1-778f-4f85-96eb-40866dd4449d"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 198, 3, 30, "Input",ExpressionUUID->"67d807f6-fdfb-410b-a5f0-79b533c49a30"],
+Cell[759, 25, 472, 13, 99, "Text",ExpressionUUID->"d53d49f8-2556-4011-9fed-06ceadb92a32"],
+Cell[1234, 40, 509, 14, 122, "Text",ExpressionUUID->"c0549a9f-c769-4508-a1cc-5ad56b9a03ee"],
+Cell[CellGroupData[{
+Cell[1768, 58, 290, 6, 30, "Input",ExpressionUUID->"0612c9c5-9cfa-42a2-a8d0-cfa7214516e2"],
+Cell[2061, 66, 193, 4, 34, "Output",ExpressionUUID->"69d8e8e4-045b-4a1f-8445-a9782714e5a2"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[2291, 75, 316, 7, 30, "Input",ExpressionUUID->"8b8f0fcf-fbbc-4a86-86ec-0ecfbcd9d9df"],
+Cell[2610, 84, 150, 2, 34, "Output",ExpressionUUID->"b27d7505-5028-4269-be47-4acbaa7ad33e"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[2797, 91, 326, 7, 30, "Input",ExpressionUUID->"204fcaf2-846a-4b5c-8e44-365890555380"],
+Cell[CellGroupData[{
+Cell[3148, 102, 584, 10, 50, "Print",ExpressionUUID->"6024bdd5-3b2f-4586-9c7c-ad0885617d3c"],
+Cell[3735, 114, 1397, 21, 63, "Print",ExpressionUUID->"9d73d4d3-6661-4cc2-a648-7a1554f3f032"],
+Cell[5135, 137, 243, 5, 24, "Print",ExpressionUUID->"d9f3fbc6-3768-44c4-951e-807ef32a32b6"]
+}, Open  ]],
+Cell[5393, 145, 4011, 120, 429, "Output",ExpressionUUID->"2bddb159-deed-4baf-a91e-c66efe69d247"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[9441, 270, 357, 8, 30, "Input",ExpressionUUID->"09960a49-97b5-421c-9ab0-6f7111802224"],
+Cell[9801, 280, 150, 2, 34, "Output",ExpressionUUID->"3d18508b-9240-4b99-b53b-9905519ec6f6"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[9988, 287, 366, 8, 30, "Input",ExpressionUUID->"935e1aa4-0d36-4f2a-ae37-1fae4fbac827"],
+Cell[CellGroupData[{
+Cell[10379, 299, 586, 10, 50, "Print",ExpressionUUID->"b68e921f-effd-4c48-b8db-e16ec8807565"],
+Cell[10968, 311, 1397, 21, 63, "Print",ExpressionUUID->"b9b26b9a-ad16-4bb2-b322-a3b310e3258e"],
+Cell[12368, 334, 242, 5, 24, "Print",ExpressionUUID->"33b04ac4-a4f2-44d3-8897-732b91deb903"]
+}, Open  ]],
+Cell[12625, 342, 4125, 124, 433, "Output",ExpressionUUID->"8f492974-31e6-4884-b13d-7cdf17645b09"]
+}, Open  ]]
+}
+]
+*)
+
