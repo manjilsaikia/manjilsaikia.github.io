@@ -14,7 +14,7 @@ My current work is focused on combinatorics (enumerative and algebraic), $q$-ser
 
 ## Preprints
 
-12. *Arithmetic properties of partition functions introduced by Pushpa and Vasuki*, (with *[Hemjyoti Nath](https://sites.google.com/view/hemjyoti-nath)*), preprint, 2025.
+12. *Arithmetic properties of partition functions introduced by Pushpa and Vasuki*, (with *[Hemjyoti Nath](https://sites.google.com/view/hemjyoti-nath)*), preprint, 2025. ([pdf](https://arxiv.org/pdf/2509.08801))
 
 11. *Arithmetic Properties of $t$-Schur Overpartitions*, (with *[Mohammed Lamine Nadji](https://sites.google.com/view/mlnadji) and [James A. Sellers](https://www.d.umn.edu/~jsellers/)*), preprint, 2025. ([pdf](https://arxiv.org/pdf/2508.17928))
 
