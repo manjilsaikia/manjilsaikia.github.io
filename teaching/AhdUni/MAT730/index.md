@@ -48,7 +48,8 @@ F 08/08: Matrix Representations, G-Modules
 M 11/08: Maschke's Theorem, Schur's Lemma  
 M 18/08: Commutant Algebra, Tensor Products  
 F 22/08: Group Characters  
-M 25/08: Induced & Restricted representations
+M 25/08: Induced & Restricted representations  
+F 12/09: Partitions, Tableaux, and Tabloids
 
 # Problem Sets
 
