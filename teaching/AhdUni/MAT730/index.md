@@ -49,7 +49,9 @@ M 11/08: Maschke's Theorem, Schur's Lemma
 M 18/08: Commutant Algebra, Tensor Products  
 F 22/08: Group Characters  
 M 25/08: Induced & Restricted representations  
-F 12/09: Partitions, Tableaux, and Tabloids
+F 12/09: Partitions, Tableaux, and Tabloids  
+M 15/09: Specht Modules, Sign Lemma  
+F 19/09: Submodule Theorem
 
 # Problem Sets
 
