@@ -58,7 +58,11 @@ F 29/08: Theory of Congruences, Euler's & Fermat's Theorems
 F 05/09: Wilson's Theorem  
 M 08/09: [Problem Sheet 1](/teaching/AhdUni/MAT215/ps1.pdf)  
 F 12/09: Review of Congruences  
-S 13/09: Chinese Remainder Theorem
+S 13/09: Linear Congruences, Chinese Remainder Theorem  
+M 15/09: Fermat's Little Theorem and Wilson's Therem  
+F 19/09: Problem Sheet 2  
+S 27/09: Mid-Semester Examination  
+M 29/09: Multiplicative Functions
 
 # Assignments
 
