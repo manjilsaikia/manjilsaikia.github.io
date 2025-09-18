@@ -40,9 +40,9 @@ My current work is focused on combinatorics (enumerative and algebraic), $q$-ser
 
 ## Peer Reviewed Papers
 
-34. *On near $F_k$-perfect and deficient $F_k$-perfect numbers*, (with *Flora S. Jeba, [Pankaj Jyoti Mahanta](http://pankajjyoti.com/) and Anirban Roy*), *Integers*, accepted, 2025.
+34. *Ramanujan-type Congruences for Partition $k$-Tuples with $5$-Cores*, (with *[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/) and Pranjal Talukdar*), *Indian Journal of Pure and Applied Mathematics*, accepted, 2024. ([pdf](https://arxiv.org/pdf/2302.01750.pdf))
 
-33. *Ramanujan-type Congruences for Partition $k$-Tuples with $5$-Cores*, (with *[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/) and Pranjal Talukdar*), *Indian Journal of Pure and Applied Mathematics*, accepted, 2024. ([pdf](https://arxiv.org/pdf/2302.01750.pdf))
+33. *On near $F_k$-perfect and deficient $F_k$-perfect numbers*, (with *Flora S. Jeba, [Pankaj Jyoti Mahanta](http://pankajjyoti.com/) and Anirban Roy*), *Integers*, 2025, 25, A#86. ([pdf](https://math.colgate.edu/~integers/z86/z86.pdf))
 
 32. *Further Arithmetic Properties of Overcubic Partition Triples*, (with *[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/)*), *Bulletin of the Australian Mathematical Society*, 2025, 112 (2), 260-273. ([pdf](https://arxiv.org/pdf/2411.00013))
 
