@@ -51,7 +51,8 @@ F 22/08: Group Characters
 M 25/08: Induced & Restricted representations  
 F 12/09: Partitions, Tableaux, and Tabloids  
 M 15/09: Specht Modules, Sign Lemma  
-F 19/09: Submodule Theorem
+F 19/09: Submodule Theorem, Standard Tableau  
+M 29/09: Basis for $S^\lambda$
 
 # Problem Sets
 
@@ -60,7 +61,8 @@ F 19/09: Submodule Theorem
 - To get the most out of this course, you are expected to spend at least thrice the amount of lecture hours on your own.
 
 [Problem Set 1](/teaching/AhdUni/MAT730/M2025/ps1.pdf)  
-[Problem Set 2](/teaching/AhdUni/MAT730/M2025/ps2.pdf)
+[Problem Set 2](/teaching/AhdUni/MAT730/M2025/ps2.pdf)  
+[Problem Set 3](/teaching/AhdUni/MAT730/M2025/ps3.pdf)
 
 ## Submissions
 
