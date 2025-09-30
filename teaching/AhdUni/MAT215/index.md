@@ -61,16 +61,20 @@ F 12/09: Review of Congruences
 S 13/09: Linear Congruences, Chinese Remainder Theorem  
 M 15/09: Fermat's Little Theorem and Wilson's Therem  
 F 19/09: [Problem Sheet 2](/teaching/AhdUni/MAT215/ps2.pdf)  
-S 27/09: Mid-Semester Examination (Part A & Part B)
+S 27/09: Mid-Semester Examination ([Part A](/teaching/AhdUni/MAT215/Mid_Sem_PartA.pdf) & [Part B](/teaching/AhdUni/MAT215/Mid_Sem_PartB.pdf))  
+M 29/09: Arithmetic functions, $\tau(n)$, $\sigma(n)$, $\varphi(n)$, Euler's theorem  
+F 03/10: Classical cryptology techniques
 
 # Assignments
 
 - The problem set will be updated over the semester. I will announce this in class when I post a set here.
 - To get the most out of this course, you are expected to spend at least twice the number of lecture hours on your own.
 
+[Assignment 1](/teaching/AhdUni/MAT215/Assignment_1.pdf)
+
 ## Submissions
 
-- Due time: 11:59 am of each due date
+- Due time: as written on the file
 - Must be submitted as a PDF (via email) or printed/written (slide under my office door)
 - Begin each solution on a new page, and use only blank or dotted pages (not ruled)
 - Staple the submission, if submitting a paper version
