@@ -14,29 +14,27 @@ My current work is focused on combinatorics (enumerative and algebraic), $q$-ser
 
 ## Preprints
 
-12. *Arithmetic properties of partition functions introduced by Pushpa and Vasuki*, (with *[Hemjyoti Nath](https://sites.google.com/view/hemjyoti-nath)*), preprint, 2025. ([pdf](https://arxiv.org/pdf/2509.08801))
+11. *Arithmetic properties of partition functions introduced by Pushpa and Vasuki*, (with *[Hemjyoti Nath](https://sites.google.com/view/hemjyoti-nath)*), preprint, 2025. ([pdf](https://arxiv.org/pdf/2509.08801))
 
-11. *Arithmetic Properties of $t$-Schur Overpartitions*, (with *[Mohammed Lamine Nadji](https://sites.google.com/view/mlnadji) and [James A. Sellers](https://www.d.umn.edu/~jsellers/)*), preprint, 2025. ([pdf](https://arxiv.org/pdf/2508.17928))
+10. *Arithmetic Properties of $t$-Schur Overpartitions*, (with *[Mohammed Lamine Nadji](https://sites.google.com/view/mlnadji) and [James A. Sellers](https://www.d.umn.edu/~jsellers/)*), preprint, 2025. ([pdf](https://arxiv.org/pdf/2508.17928))
 
-10. *New Arithmetic Properties for Overpartitions where Nonoverlined Parts are $\ell$-Regular*, (with *[Hemjyoti Nath](https://sites.google.com/view/hemjyoti-nath) and [James A. Sellers](https://www.d.umn.edu/~jsellers/)*), preprint, 2025. ([pdf](https://arxiv.org/pdf/2503.12145))
+9. *New Arithmetic Properties for Overpartitions where Nonoverlined Parts are $\ell$-Regular*, (with *[Hemjyoti Nath](https://sites.google.com/view/hemjyoti-nath) and [James A. Sellers](https://www.d.umn.edu/~jsellers/)*), preprint, 2025. ([pdf](https://arxiv.org/pdf/2503.12145))
 
-9. *Generalizing recent results of Kathiravan, Majumdar,  Sangalae, and Srinivas on $(\ell, k)$-regular partitions*, (with *[James A. Sellers](https://www.d.umn.edu/~jsellers/)*), preprint, 2025. ([pdf](https://hal.science/hal-05055464v1/document))
+8. *Generalizing recent results of Kathiravan, Majumdar,  Sangalae, and Srinivas on $(\ell, k)$-regular partitions*, (with *[James A. Sellers](https://www.d.umn.edu/~jsellers/)*), preprint, 2025. ([pdf](https://hal.science/hal-05055464v1/document))
 
-8. *Arithmetic Properties of Generalized Cubic and Overcubic Partitions*, (with *[Hirakjyoti Das](https://sites.google.com/view/hirakjyotidas/home?authuser=0) and [Saikat Maity](https://sites.google.com/view/saikat-maity/)*), preprint, 2025. ([pdf](https://arxiv.org/pdf/2503.19399))
+7. *Arithmetic Properties of Generalized Cubic and Overcubic Partitions*, (with *[Hirakjyoti Das](https://sites.google.com/view/hirakjyotidas/home?authuser=0) and [Saikat Maity](https://sites.google.com/view/saikat-maity/)*), preprint, 2025. ([pdf](https://arxiv.org/pdf/2503.19399))
 
-7. *Some Properties of Overpartitions into nonmultiples of two integers* (with *[Abdulaziz M. Alanazi](https://scholar.google.com/citations?user=NHGt6AEAAAAJ&hl=en)* and *[Agustine O. Munagi](https://orcid.org/0000-0003-0426-1366)*), preprint, 2024. ([pdf](https://arxiv.org/pdf/2412.18938))
+6. *Some Properties of Overpartitions into nonmultiples of two integers* (with *[Abdulaziz M. Alanazi](https://scholar.google.com/citations?user=NHGt6AEAAAAJ&hl=en)* and *[Agustine O. Munagi](https://orcid.org/0000-0003-0426-1366)*), preprint, 2024. ([pdf](https://arxiv.org/pdf/2412.18938))
 
-6. *Symmetric Domino Tilings of Aztec Diamonds*, (with *[Pravakar Paul](https://ahduni.edu.in/academics/schools-centres/school-of-arts-and-sciences/faculty/pravakar-paul/)*), preprint, 2024. ([pdf](https://arxiv.org/pdf/2410.23324))
+5. *Symmetric Domino Tilings of Aztec Diamonds*, (with *[Pravakar Paul](https://ahduni.edu.in/academics/schools-centres/school-of-arts-and-sciences/faculty/pravakar-paul/)*), preprint, 2024. ([pdf](https://arxiv.org/pdf/2410.23324))
 
-5. *A Novel Approach to Counting Perfect Matchings of Graphs*, (with *[Pravakar Paul](https://ahduni.edu.in/academics/schools-centres/school-of-arts-and-sciences/faculty/pravakar-paul/)*), preprint, 2024. ([pdf](https://arxiv.org/abs/2408.10273))
+4. *A Novel Approach to Counting Perfect Matchings of Graphs*, (with *[Pravakar Paul](https://ahduni.edu.in/academics/schools-centres/school-of-arts-and-sciences/faculty/pravakar-paul/)*), preprint, 2024. ([pdf](https://arxiv.org/abs/2408.10273))
 
-4. *Congruences for Andrews-Uncu's partition function $\mathcal{EO}_u(n)$*, (with *[Nayandeep Deka Baruah](https://www.tezu.ernet.in/dmaths/people/faculty-pages/ndb.html)*, *[Hirakjyoti Das](https://sites.google.com/view/hirakjyotidas/home?authuser=0) and [Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/)*), preprint, 2024.
+3. *Congruences for Andrews-Uncu's partition function $\mathcal{EO}_u(n)$*, (with *[Nayandeep Deka Baruah](https://www.tezu.ernet.in/dmaths/people/faculty-pages/ndb.html)*, *[Hirakjyoti Das](https://sites.google.com/view/hirakjyotidas/home?authuser=0) and [Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/)*), preprint, 2024.
 
-3. *The Signed Roman Domination Number of Ladder graphs, circular Ladder graphs and their complements*, (with *[Dilbak Haje](https://uod.ac/staff/delpak-haji-muhamad/), [Delbrin Ahmed](https://uod.ac/ac/c/cbe/departments/mathematics/academic-members/delbrin-ahmed/), and Hassan Izanloo*), preprint, 2024. ([pdf](https://arxiv.org/abs/2407.07182))
+2. *The Signed Roman Domination Number of Ladder graphs, circular Ladder graphs and their complements*, (with *[Dilbak Haje](https://uod.ac/staff/delpak-haji-muhamad/), [Delbrin Ahmed](https://uod.ac/ac/c/cbe/departments/mathematics/academic-members/delbrin-ahmed/), and Hassan Izanloo*), preprint, 2024. ([pdf](https://arxiv.org/abs/2407.07182))
 
-2. *Arithmetic Properties Modulo Powers of $2$ and $3$ for Overpartition $k$-Tuples with Odd Parts*, (with *[Hirakjyoti Das](https://sites.google.com/view/hirakjyotidas/home?authuser=0) and [Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/)*), preprint, 2024. ([pdf](https://arxiv.org/pdf/2409.02929))
-
-1. *Biases in Non-Unitary Partitions*, (with *[Pankaj Jyoti Mahanta](http://pankajjyoti.com/) and [Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/)*), preprint, 2022. ([pdf](/publ/papers/bisa_new.pdf))
+1. *Arithmetic Properties Modulo Powers of $2$ and $3$ for Overpartition $k$-Tuples with Odd Parts*, (with *[Hirakjyoti Das](https://sites.google.com/view/hirakjyotidas/home?authuser=0) and [Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/)*), preprint, 2024. ([pdf](https://arxiv.org/pdf/2409.02929))
 
 ## Peer Reviewed Papers
 
@@ -129,6 +127,8 @@ My current work is focused on combinatorics (enumerative and algebraic), $q$-ser
 1. *Solution to Problem 1908 of Mathematics Magazine*, (with *Bishal Deb*), *The Mathematics Magazine*, December 2013, 86 (5), 384 — 385.
 
 ## Non Peer-Reviewed Papers
+
+9. *Biases in Non-Unitary Partitions*, (with *[Pankaj Jyoti Mahanta](http://pankajjyoti.com/) and [Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/)*), preprint, 2022. ([pdf](/publ/papers/bisa_new.pdf))
 
 8. *Almost Circular Balancing Numbers*, *Advances in Mathematical Sciences* (Z. Ahmed (ed.)), Empyreal Publishing House, 2019, 61 — 67. ([pdf](http://www.editedbook.in/pdf/dr-zakir-ahmed-edited.pdf#%5B%7B%22num%22%3A72%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C73.441%2C696.959%2Cnull%5D))
 
