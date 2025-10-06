@@ -15,7 +15,7 @@ permalink: /teaching/AhdUni/MAT165/
 
 **Lecture Time & Place**: Wednesdays & Fridays 1100 to 1215 (Room XXX, SAS)
 
-**Office Hours**: Mondays 1100 to 1200, Wednesdays & Fridays 0930 to 1030 (Room 325, SAS)
+**Office Hours**: By appointment (Room 325, SAS)
 
 **Attendance Policy**: Attendance is mandatory, check the institute's attendance policy on AURIS (please note, we have a new policy from last semester). If you are low on attendance then you should talk to me (at least 3 weeks before the end-semester examination).
 
@@ -50,7 +50,7 @@ W 08/10: Introduction to the course, historical overview of mathematical thought
 
 ## Submissions
 
-- Due time: 11:59 am of each due date
+- Due time: as mentioned on the sheet
 - Must be submitted as PDF (via email) or printed/written (slide under my office door)
 - Begin each solution on a new page, and use only blank or dotted pages (not ruled)
 - Staple the submission, if submitting a paper version
