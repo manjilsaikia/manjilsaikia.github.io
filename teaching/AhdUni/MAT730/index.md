@@ -52,7 +52,9 @@ M 25/08: Induced & Restricted representations
 F 12/09: Partitions, Tableaux, and Tabloids  
 M 15/09: Specht Modules, Sign Lemma  
 F 19/09: Submodule Theorem, Standard Tableau  
-M 29/09: Basis for $S^\lambda$
+M 29/09: Basis for $S^\lambda$  
+F 03/10: Branching Rule and Young's Rule  
+M 06/10: Applications of R-S Algorithm
 
 # Problem Sets
 
