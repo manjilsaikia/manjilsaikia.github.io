@@ -63,7 +63,9 @@ M 15/09: Fermat's Little Theorem and Wilson's Therem
 F 19/09: [Problem Sheet 2](/teaching/AhdUni/MAT215/ps2.pdf)  
 S 27/09: Mid-Semester Examination ([Part A](/teaching/AhdUni/MAT215/Mid_Sem_PartA.pdf) & [Part B](/teaching/AhdUni/MAT215/Mid_Sem_PartB.pdf))  
 M 29/09: Arithmetic functions, $\tau(n)$, $\sigma(n)$, $\varphi(n)$, Euler's theorem  
-F 03/10: Classical cryptology techniques
+F 03/10: Classical cryptology techniques  
+M 06/10: Attacks on Classical cryptosystems  
+F 11/10: Attacks on Classical cryptosystems
 
 # Assignments
 
