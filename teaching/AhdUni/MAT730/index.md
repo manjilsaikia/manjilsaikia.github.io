@@ -54,7 +54,9 @@ M 15/09: Specht Modules, Sign Lemma
 F 19/09: Submodule Theorem, Standard Tableau  
 M 29/09: Basis for $S^\lambda$  
 F 03/10: Branching Rule and Young's Rule  
-M 06/10: Applications of R-S Algorithm
+M 06/10: Applications of R-S Algorithm  
+F 10/10: Viennot's Shadows, Schutzenberger's Theorem  
+F 17/10: Hook-length formula
 
 # Problem Sets
 
