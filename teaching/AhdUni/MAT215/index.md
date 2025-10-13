@@ -65,7 +65,9 @@ S 27/09: Mid-Semester Examination ([Part A](/teaching/AhdUni/MAT215/Mid_Sem_Part
 M 29/09: Arithmetic functions, $\tau(n)$, $\sigma(n)$, $\varphi(n)$, Euler's theorem  
 F 03/10: Classical cryptology techniques  
 M 06/10: Attacks on Classical cryptosystems  
-F 11/10: Attacks on Classical cryptosystems
+F 10/10: Attacks on Classical cryptosystems  
+M 13/10: Problem solving  
+F 17/10: Quiz 2
 
 # Assignments
 
