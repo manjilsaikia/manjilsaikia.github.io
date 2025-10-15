@@ -41,12 +41,17 @@ To get a high-level overview of mathematics, I recommend **Mathematics: A Very S
 
 # Lectures
 
-W 08/10: Introduction to the course, historical overview of mathematical thought
+W 08/10: Introduction to the course, historical overview of mathematical thought  
+F 10/11: How mathematics helped shape civilization? & [The Evolution of Trust](https://ncase.me/trust/)  
+W 15/10: Basic proof ideas, identities, proof without words, Pythagoras' theorem  
+F 17/10: More proof ideas, irrationality of $\sqrt{2}$ and $\phi$
 
 # Assignments
 
 - The problem sets will be updated over the semester. I will announce this in class when I post a set here.
 - To get the most out of this course, you are expected to spend at least twice the amount of lecture hours on your own.
+
+[Assignment 1](/teaching/AhdUni/MAT165/ps1.pdf)
 
 ## Submissions
 
