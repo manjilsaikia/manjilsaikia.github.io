@@ -74,7 +74,8 @@ F 17/10: Quiz 2
 - The problem set will be updated over the semester. I will announce this in class when I post a set here.
 - To get the most out of this course, you are expected to spend at least twice the number of lecture hours on your own.
 
-[Assignment 1](/teaching/AhdUni/MAT215/Assignment_1.pdf)
+[Assignment 1](/teaching/AhdUni/MAT215/Assignment_1.pdf)  
+[Assignment 2](/teaching/AhdUni/MAT215/Assignment_2.pdf)
 
 ## Submissions
 
