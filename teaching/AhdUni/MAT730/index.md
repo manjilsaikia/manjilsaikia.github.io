@@ -56,7 +56,7 @@ M 29/09: Basis for $S^\lambda$
 F 03/10: Branching Rule and Young's Rule  
 M 06/10: Applications of R-S Algorithm  
 F 10/10: Viennot's Shadows, Schutzenberger's Theorem  
-F 17/10: Hook-length formula
+F 17/10: Hook-length formula (see Chapter 6 of the notes [here](https://www.math.uni-tuebingen.de/de/forschung/maphy/lehre/ws-2018-19/sgc/dateien/combinatorics-lecturenotes.pdf))
 
 # Problem Sets
 
@@ -66,7 +66,8 @@ F 17/10: Hook-length formula
 
 [Problem Set 1](/teaching/AhdUni/MAT730/M2025/ps1.pdf)  
 [Problem Set 2](/teaching/AhdUni/MAT730/M2025/ps2.pdf)  
-[Problem Set 3](/teaching/AhdUni/MAT730/M2025/ps3.pdf)
+[Problem Set 3](/teaching/AhdUni/MAT730/M2025/ps3.pdf)  
+[Problem Set 4](/teaching/AhdUni/MAT730/M2025/ps4.pdf)
 
 ## Submissions
 
