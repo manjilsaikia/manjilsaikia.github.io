@@ -14,15 +14,13 @@ My current work is focused on combinatorics (enumerative and algebraic), $q$-ser
 
 ## Preprints
 
-12. *Hook-Length Biases in $t$-regular partitions*, (with *Prabal Talukdar*), preprint, 2025.
+11. *Hook-Length Biases in $t$-regular partitions*, (with *Prabal Talukdar*), preprint, 2025.
 
-11. *Arithmetic properties of partition functions introduced by Pushpa and Vasuki*, (with *[Hemjyoti Nath](https://sites.google.com/view/hemjyoti-nath)*), preprint, 2025. ([pdf](https://arxiv.org/pdf/2509.08801))
+10. *Arithmetic properties of partition functions introduced by Pushpa and Vasuki*, (with *[Hemjyoti Nath](https://sites.google.com/view/hemjyoti-nath)*), preprint, 2025. ([pdf](https://arxiv.org/pdf/2509.08801))
 
-10. *Arithmetic Properties of $t$-Schur Overpartitions*, (with *[Mohammed Lamine Nadji](https://sites.google.com/view/mlnadji) and [James A. Sellers](https://www.d.umn.edu/~jsellers/)*), preprint, 2025. ([pdf](https://arxiv.org/pdf/2508.17928))
+9. *Arithmetic Properties of $t$-Schur Overpartitions*, (with *[Mohammed Lamine Nadji](https://sites.google.com/view/mlnadji) and [James A. Sellers](https://www.d.umn.edu/~jsellers/)*), preprint, 2025. ([pdf](https://arxiv.org/pdf/2508.17928))
 
-9. *New Arithmetic Properties for Overpartitions where Nonoverlined Parts are $\ell$-Regular*, (with *[Hemjyoti Nath](https://sites.google.com/view/hemjyoti-nath) and [James A. Sellers](https://www.d.umn.edu/~jsellers/)*), preprint, 2025. ([pdf](https://arxiv.org/pdf/2503.12145))
-
-8. *Generalizing recent results of Kathiravan, Majumdar,  Sangalae, and Srinivas on $(\ell, k)$-regular partitions*, (with *[James A. Sellers](https://www.d.umn.edu/~jsellers/)*), preprint, 2025. ([pdf](https://hal.science/hal-05055464v1/document))
+8. *New Arithmetic Properties for Overpartitions where Nonoverlined Parts are $\ell$-Regular*, (with *[Hemjyoti Nath](https://sites.google.com/view/hemjyoti-nath) and [James A. Sellers](https://www.d.umn.edu/~jsellers/)*), preprint, 2025. ([pdf](https://arxiv.org/pdf/2503.12145))
 
 7. *Arithmetic Properties of Generalized Cubic and Overcubic Partitions*, (with *[Hirakjyoti Das](https://sites.google.com/view/hirakjyotidas/home?authuser=0) and [Saikat Maity](https://sites.google.com/view/saikat-maity/)*), preprint, 2025. ([pdf](https://arxiv.org/pdf/2503.19399))
 
@@ -39,6 +37,8 @@ My current work is focused on combinatorics (enumerative and algebraic), $q$-ser
 1. *Arithmetic Properties Modulo Powers of $2$ and $3$ for Overpartition $k$-Tuples with Odd Parts*, (with *[Hirakjyoti Das](https://sites.google.com/view/hirakjyotidas/home?authuser=0) and [Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/)*), preprint, 2024. ([pdf](https://arxiv.org/pdf/2409.02929))
 
 ## Peer Reviewed Papers
+
+35. *Generalizing recent results of Kathiravan, Majumdar,  Sangalae, and Srinivas on $(\ell, k)$-regular partitions*, (with *[James A. Sellers](https://www.d.umn.edu/~jsellers/)*), *Journal of Integer Sequences*, accepted, 2025. ([pdf](https://hal.science/hal-05055464v1/document))
 
 34. *Ramanujan-type Congruences for Partition $k$-Tuples with $5$-Cores*, (with *[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/) and Pranjal Talukdar*), *Indian Journal of Pure and Applied Mathematics*, accepted, 2024. ([pdf](https://arxiv.org/pdf/2302.01750.pdf))
 
