@@ -38,9 +38,9 @@ My current work is focused on combinatorics (enumerative and algebraic), $q$-ser
 
 ## Peer Reviewed Papers
 
-35. *Generalizing recent results of Kathiravan, Majumdar,  Sangalae, and Srinivas on $(\ell, k)$-regular partitions*, (with *[James A. Sellers](https://www.d.umn.edu/~jsellers/)*), *Journal of Integer Sequences*, accepted, 2025. ([pdf](https://hal.science/hal-05055464v1/document))
+35. *Ramanujan-type Congruences for Partition $k$-Tuples with $5$-Cores*, (with *[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/) and Pranjal Talukdar*), *Indian Journal of Pure and Applied Mathematics*, accepted, 2024. ([pdf](https://arxiv.org/pdf/2302.01750.pdf))
 
-34. *Ramanujan-type Congruences for Partition $k$-Tuples with $5$-Cores*, (with *[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/) and Pranjal Talukdar*), *Indian Journal of Pure and Applied Mathematics*, accepted, 2024. ([pdf](https://arxiv.org/pdf/2302.01750.pdf))
+34. *Generalizing recent results of Kathiravan, Majumdar,  Sangalae, and Srinivas on $(\ell, k)$-regular partitions*, (with *[James A. Sellers](https://www.d.umn.edu/~jsellers/)*), *Journal of Integer Sequences*, 2025, 28 (6), Article 25.6.1. ([pdf](https://hal.science/hal-05055464v1/document))
 
 33. *On near $F_k$-perfect and deficient $F_k$-perfect numbers*, (with *Flora S. Jeba, [Pankaj Jyoti Mahanta](http://pankajjyoti.com/) and Anirban Roy*), *Integers*, 2025, 25, A#86. ([pdf](https://math.colgate.edu/~integers/z86/z86.pdf))
 
