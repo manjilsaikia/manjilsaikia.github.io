@@ -15,7 +15,7 @@ The books that are marked with a ** are the ones that I am either currently read
 >All the books that I read are rated on [Goodreads](https://www.goodreads.com/user/show/36494310-manjil).
 
 1. **Ex Libris: Confessions of a Common Reader**, *Anne Fadiman*, Penguin Books, 2000.
-2. **The Lucky Ones: A Memoir**, *Zara Chowdhary**, Context, 2024.
+2. **The Lucky Ones: A Memoir**, *Zara Chowdhary*, Context, 2024.
 3. **The Twice-born: Life and Death on the Ganges**, *Aatish Taseer*, Fourth Estate, 2018.
 4. ** **Hunting Evil: The dramatic true story of the Nazi war criminals who escaped and the hunt to bring them to justice**, *Guy Walters*, Bantam Books, 2010.
 5. ** **Strange Burdens: The Politics and Predicaments of Rahul Gandhi**, *Sugata Srinivasaraju*, Vintage, 2023.
