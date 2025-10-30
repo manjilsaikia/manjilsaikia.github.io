@@ -44,7 +44,10 @@ To get a high-level overview of mathematics, I recommend **Mathematics: A Very S
 W 08/10: Introduction to the course, historical overview of mathematical thought  
 F 10/11: How mathematics helped shape civilization? & [The Evolution of Trust](https://ncase.me/trust/)  
 W 15/10: Basic proof ideas, identities, proof without words, Pythagoras' theorem  
-F 17/10: More proof ideas, irrationality of $\sqrt{2}$ and $\phi$
+F 17/10: More proof ideas, irrationality of $\sqrt{2}$ and $\phi$  
+F 24/10: Principle of Mathematical Induction (PMI)  
+W 29/10: Problems on PMI  
+F 31/10: Problems on PMI
 
 # Assignments
 
