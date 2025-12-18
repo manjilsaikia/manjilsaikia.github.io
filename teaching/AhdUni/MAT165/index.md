@@ -47,15 +47,15 @@ W 15/10: Basic proof ideas, identities, proof without words, Pythagoras' theorem
 F 17/10: More proof ideas, irrationality of $\sqrt{2}$ and $\phi$  
 F 24/10: Principle of Mathematical Induction (PMI)  
 W 29/10: Problems on PMI  
-F 31/10: Problems on PMI & [Problems on parity](teaching/AhdUni/MAT165/MAT165_Assignments.pdf)  
+F 31/10: Problems on PMI & [Problems on parity](/teaching/AhdUni/MAT165/MAT165_Assignments.pdf)  
 W 05/11: Introduction to combinatorics  
 F 07/11: Bijections and double counting  
-W 12/11: [Problems on combinatorics](teaching/AhdUni/MAT165/MAT165_Assignments2.pdf)  
-F 14/11: [Problems on combinatorics](teaching/AhdUni/MAT165/MAT165_Assignments2.pdf)  
+W 12/11: [Problems on combinatorics](/teaching/AhdUni/MAT165/MAT165_Assignments2.pdf)  
+F 14/11: [Problems on combinatorics](/teaching/AhdUni/MAT165/MAT165_Assignments2.pdf)  
 M 17/11: Division Algorithm and GCD  
 W 19/11: Congruences and Divisibility tests  
-W 26/11: [Problems on elementary number theory](teaching/AhdUni/MAT165/ex3.pdf)  
-T 02/12: [Mid-Semester Examination](teaching/AhdUni/MAT165/mat165-mid-sem.pdf)
+W 26/11: [Problems on elementary number theory](/teaching/AhdUni/MAT165/ex3.pdf)  
+T 02/12: [Mid-Semester Examination](/teaching/AhdUni/MAT165/mat165-mid-sem.pdf)
 
 # Assignments
 
