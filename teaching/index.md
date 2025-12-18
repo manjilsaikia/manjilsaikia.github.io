@@ -11,6 +11,10 @@ Courses where I was/am the co-instructor are marked with **.
 
 # Ahmedabad University
 
+**MAT515 Combinatorial Enumeration** (Masters, January 2026 - April 2026, August 2024 - December 2024 & January 2024 - April 2024)
+
+**STA102 Probability and Random Variables (First Year UG, January 2026 - May 2026)
+
 **[MAT165 Gateway to Abstract Reasoning](/teaching/AhdUni/MAT165/)** (First Year UG, October 2025 - February 2026)
 
 **[MAT730 Combinatorial Representation Theory](/teaching/AhdUni/MAT730/)** (Masters/PhD, August 2025 - December 2025)
@@ -20,8 +24,6 @@ Courses where I was/am the co-instructor are marked with **.
 **[MAT631 Algebraic Combinatorics](/teaching/AhdUni/MAT631/)** (Masters/PhD, January 2025 - April 2025)
 
 **Foundation Programme: Environment and Climate Change** ** (First Year UG, March 2024 & August 2023 - September 2023)
-
-**MAT515 Combinatorial Enumeration** (Masters, August 2024 - December 2024 & January 2024 - April 2024)
 
 **MAT315 Combinatorial Enumeration** (Advanced UG, August 2024 - December 2024)
 
