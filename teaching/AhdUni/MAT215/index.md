@@ -67,7 +67,7 @@ F 03/10: Classical cryptology techniques
 M 06/10: Attacks on Classical cryptosystems  
 F 10/10: Attacks on Classical cryptosystems  
 M 13/10: Problem solving  
-F 17/10: [Quiz 1](/teaching/AhdUni/MAT215/Quiz2.pdf)  
+F 17/10: [Quiz 2](/teaching/AhdUni/MAT215/Quiz2.pdf)  
 F 24/10: Modern Cryptographic schemes: LFSR, LFSRSum  
 M 27/10: Non-linearity in LFSRSum  
 F 31/10: Public-channel cryptography: Perfect Codes, KidRSA  
@@ -83,7 +83,8 @@ M 01/12: [End-Semester Examination](/teaching/AhdUni/MAT215/mat215-end-sem.pdf)
 - To get the most out of this course, you are expected to spend at least twice the number of lecture hours on your own.
 
 [Assignment 1](/teaching/AhdUni/MAT215/Assignment_1.pdf)  
-[Assignment 2](/teaching/AhdUni/MAT215/Assignment_2.pdf)
+[Assignment 2](/teaching/AhdUni/MAT215/Assignment_2.pdf)  
+[Assignment 3](/teaching/AhdUni/MAT215/Assignment_3.pdf)
 
 ## Submissions
 
