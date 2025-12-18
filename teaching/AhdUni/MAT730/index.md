@@ -59,7 +59,11 @@ F 10/10: Viennot's Shadows, Schutzenberger's Theorem
 F 17/10: Hook-length formula (see Chapter 6 of the notes [here](https://www.math.uni-tuebingen.de/de/forschung/maphy/lehre/ws-2018-19/sgc/dateien/combinatorics-lecturenotes.pdf))  
 F 24/10: Determinant form of the hook-length formula, partition bijections  
 M 27/10: Hillman-Grassl correspondence, Introduction to symmetric functions  
-F 31/10: Basis of the ring of symmetric functions
+F 31/10: Basis of the ring of symmetric functions  
+M 03/11: Schur functions  
+F 07/11: Jacobi-Trudi identities  
+M 17/11: Connections to the representations of $S_n$  
+M 01/12: [End-Semester Examination](/teaching/AhdUni/MAT730/M2025/mat730-end-sem.pdf)
 
 # Problem Sets
 
