@@ -13,7 +13,7 @@ Courses where I was/am the co-instructor are marked with **.
 
 **MAT515 Combinatorial Enumeration** (Masters, January 2026 - April 2026, August 2024 - December 2024 & January 2024 - April 2024)
 
-**STA102 Probability and Random Variables (First Year UG, January 2026 - May 2026)
+**STA102 Probability and Random Variables** (First Year UG, January 2026 - May 2026)
 
 **[MAT165 Gateway to Abstract Reasoning](/teaching/AhdUni/MAT165/)** (First Year UG, October 2025 - February 2026)
 
