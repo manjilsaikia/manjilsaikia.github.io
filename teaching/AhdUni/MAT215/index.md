@@ -67,14 +67,15 @@ F 03/10: Classical cryptology techniques
 M 06/10: Attacks on Classical cryptosystems  
 F 10/10: Attacks on Classical cryptosystems  
 M 13/10: Problem solving  
-F 17/10: Quiz 2  
+F 17/10: [Quiz 1](/teaching/AhdUni/MAT215/Quiz2.pdf)  
 F 24/10: Modern Cryptographic schemes: LFSR, LFSRSum  
 M 27/10: Non-linearity in LFSRSum  
 F 31/10: Public-channel cryptography: Perfect Codes, KidRSA  
 M 03/11: RSA and Diffie-Hellman Key generation  
 F 07/11: Problem solving  
 M 10/11: Prime Factorization and Error-correcting codes  
-F 14/11: Problem solving
+F 14/11: Problem solving  
+M 01/12: [End-Semester Examination](/teaching/AhdUni/MAT215/mat215-end-sem.pdf)
 
 # Assignments
 
