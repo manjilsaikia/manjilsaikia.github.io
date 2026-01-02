@@ -38,6 +38,10 @@ My current work is focused on combinatorics (enumerative and algebraic), $q$-ser
 
 ## Peer Reviewed Papers
 
+37. *Biases in Non-Unitary Partitions*, (with *[Pankaj Jyoti Mahanta](http://pankajjyoti.com/) and [Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/)*), *Boletín de la Sociedad Matemática Mexicana*, accepted, 2026. ([pdf](/publ/papers/bisa_new.pdf))
+
+36. *On some conjectures of Paudel, Sellers, and Wang*, *Journal of the Assam Academy of Mathematics*, to appear, 2025.
+
 35. *Ramanujan-type Congruences for Partition $k$-Tuples with $5$-Cores*, (with *[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/) and Pranjal Talukdar*), *Indian Journal of Pure and Applied Mathematics*, accepted, 2024. ([pdf](https://arxiv.org/pdf/2302.01750.pdf))
 
 34. *Generalizing Recent Results of Kathiravan, Majumdar,  Sangalae, and Srinivas on $(\ell, k)$-regular Partitions*, (with *[James A. Sellers](https://www.d.umn.edu/~jsellers/)*), *Journal of Integer Sequences*, 2025, 28 (6), Article 25.6.1. ([pdf](https://cs.uwaterloo.ca/journals/JIS/VOL28/Sellers/sellers79.pdf))
@@ -129,8 +133,6 @@ My current work is focused on combinatorics (enumerative and algebraic), $q$-ser
 1. *Solution to Problem 1908 of Mathematics Magazine*, (with *Bishal Deb*), *The Mathematics Magazine*, December 2013, 86 (5), 384 — 385.
 
 ## Non Peer-Reviewed Papers
-
-9. *Biases in Non-Unitary Partitions*, (with *[Pankaj Jyoti Mahanta](http://pankajjyoti.com/) and [Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/)*), preprint, 2022. ([pdf](/publ/papers/bisa_new.pdf))
 
 8. *Almost Circular Balancing Numbers*, *Advances in Mathematical Sciences* (Z. Ahmed (ed.)), Empyreal Publishing House, 2019, 61 — 67. ([pdf](http://www.editedbook.in/pdf/dr-zakir-ahmed-edited.pdf#%5B%7B%22num%22%3A72%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C73.441%2C696.959%2Cnull%5D))
 
