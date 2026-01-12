@@ -40,7 +40,7 @@ My current work is focused on combinatorics (enumerative and algebraic), $q$-ser
 
 37. *Ramanujan-type Congruences for Partition $k$-Tuples with $5$-Cores*, (with *[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/) and Pranjal Talukdar*), *Indian Journal of Pure and Applied Mathematics*, 2024, accepted. ([pdf](https://arxiv.org/pdf/2302.01750.pdf))
 
-36. *Hook-Length Biases in $t$-regular partitions*, (with *Prabal Talukdar*), *Enumerative Combinatorics and Applications*, 2026, 6 (1), Article #S2R8.
+36. *Hook-Length Biases in $t$-regular partitions*, (with *Prabal Talukdar*), *Enumerative Combinatorics and Applications*, 2026, 6 (1), Article #S2R8. ([pdf](https://arxiv.org/pdf/2601.05592))
 
 35. *On some conjectures of Paudel, Sellers, and Wang*, *Journal of the Assam Academy of Mathematics*, 2025, to appear.
 
