@@ -14,8 +14,6 @@ My current work is focused on combinatorics (enumerative and algebraic), $q$-ser
 
 ## Preprints
 
-9. *Arithmetic Properties of $t$-Schur Overpartitions*, (with *[Mohammed Lamine Nadji](https://sites.google.com/view/mlnadji) and [James A. Sellers](https://www.d.umn.edu/~jsellers/)*), preprint, 2025. ([pdf](https://arxiv.org/pdf/2508.17928))
-
 8. *New Arithmetic Properties for Overpartitions where Nonoverlined Parts are $\ell$-Regular*, (with *[Hemjyoti Nath](https://sites.google.com/view/hemjyoti-nath) and [James A. Sellers](https://www.d.umn.edu/~jsellers/)*), preprint, 2025. ([pdf](https://arxiv.org/pdf/2503.12145))
 
 7. *Arithmetic Properties of Generalized Cubic and Overcubic Partitions*, (with *[Hirakjyoti Das](https://sites.google.com/view/hirakjyotidas/home?authuser=0) and [Saikat Maity](https://sites.google.com/view/saikat-maity/)*), preprint, 2025. ([pdf](https://arxiv.org/pdf/2503.19399))
@@ -33,6 +31,8 @@ My current work is focused on combinatorics (enumerative and algebraic), $q$-ser
 1. *Arithmetic Properties Modulo Powers of $2$ and $3$ for Overpartition $k$-Tuples with Odd Parts*, (with *[Hirakjyoti Das](https://sites.google.com/view/hirakjyotidas/home?authuser=0) and [Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/)*), preprint, 2024. ([pdf](https://arxiv.org/pdf/2409.02929))
 
 ## Peer Reviewed Papers
+
+40. *Arithmetic Properties of $t$-Schur Overpartitions*, (with *[Mohammed Lamine Nadji](https://sites.google.com/view/mlnadji) and [James A. Sellers](https://www.d.umn.edu/~jsellers/)*), *Quaestiones Mathematicae*, 2026, accepted. ([pdf](https://arxiv.org/pdf/2508.17928)) 
 
 39. *Arithmetic properties of partition functions introduced by Pushpa and Vasuki*, (with *[Hemjyoti Nath](https://sites.google.com/view/hemjyoti-nath)*), *Journal of Symbolic Computation*, 2026, accepted. ([pdf](https://arxiv.org/pdf/2509.08801))
 
