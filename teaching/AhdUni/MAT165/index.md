@@ -55,7 +55,10 @@ F 14/11: [Problems on combinatorics](/teaching/AhdUni/MAT165/MAT165_Assignments2
 M 17/11: Division Algorithm and GCD  
 W 19/11: Congruences and Divisibility tests  
 W 26/11: [Problems on elementary number theory](/teaching/AhdUni/MAT165/ex3.pdf)  
-T 02/12: [Mid-Semester Examination](/teaching/AhdUni/MAT165/mat165-mid-sem.pdf)
+T 02/12: [Mid-Semester Examination](/teaching/AhdUni/MAT165/mat165-mid-sem.pdf)  
+W 07/01: Pigeonhole Principle (PHP) and Applications  
+F 09/01: [Problems on PHP](/teaching/AhdUni/MAT165/php-ex-hints.pdf)  
+F 16/01: Advanced problems on PHP
 
 # Assignments
 
