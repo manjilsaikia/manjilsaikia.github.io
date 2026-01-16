@@ -34,15 +34,15 @@ My current work is focused on combinatorics (enumerative and algebraic), $q$-ser
 
 40. *Arithmetic Properties of $t$-Schur Overpartitions*, (with *[Mohammed Lamine Nadji](https://sites.google.com/view/mlnadji) and [James A. Sellers](https://www.d.umn.edu/~jsellers/)*), *Quaestiones Mathematicae*, 2026, accepted. ([pdf](https://arxiv.org/pdf/2508.17928)) 
 
-39. *Arithmetic properties of partition functions introduced by Pushpa and Vasuki*, (with *[Hemjyoti Nath](https://sites.google.com/view/hemjyoti-nath)*), *Journal of Symbolic Computation*, 2026, accepted. ([pdf](https://arxiv.org/pdf/2509.08801))
+39. *Biases in Non-Unitary Partitions*, (with *[Pankaj Jyoti Mahanta](http://pankajjyoti.com/) and [Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/)*), *Boletín de la Sociedad Matemática Mexicana*, 2026, accepted. ([pdf](/publ/papers/bisa_new.pdf))
 
-38. *Biases in Non-Unitary Partitions*, (with *[Pankaj Jyoti Mahanta](http://pankajjyoti.com/) and [Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/)*), *Boletín de la Sociedad Matemática Mexicana*, 2026, accepted. ([pdf](/publ/papers/bisa_new.pdf))
+38. *Ramanujan-type Congruences for Partition $k$-Tuples with $5$-Cores*, (with *[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/) and Pranjal Talukdar*), *Indian Journal of Pure and Applied Mathematics*, 2024, accepted. ([pdf](https://arxiv.org/pdf/2302.01750.pdf))
 
-37. *Ramanujan-type Congruences for Partition $k$-Tuples with $5$-Cores*, (with *[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/) and Pranjal Talukdar*), *Indian Journal of Pure and Applied Mathematics*, 2024, accepted. ([pdf](https://arxiv.org/pdf/2302.01750.pdf))
+37. *On some conjectures of Paudel, Sellers, and Wang*, *Journal of the Assam Academy of Mathematics*, 2025, to appear.
 
-36. *Hook-Length Biases in $t$-regular partitions*, (with *Prabal Talukdar*), *Enumerative Combinatorics and Applications*, 2026, 6 (1), Article #S2R8. ([pdf](https://arxiv.org/pdf/2601.05592))
+36. *Arithmetic properties of partition functions introduced by Pushpa and Vasuki*, (with *[Hemjyoti Nath](https://sites.google.com/view/hemjyoti-nath)*), *Journal of Symbolic Computation*, July - August 2026, 135, 102555. ([pdf](https://arxiv.org/pdf/2509.08801))
 
-35. *On some conjectures of Paudel, Sellers, and Wang*, *Journal of the Assam Academy of Mathematics*, 2025, to appear.
+35. *Hook-Length Biases in $t$-regular partitions*, (with *Prabal Talukdar*), *Enumerative Combinatorics and Applications*, 2026, 6 (1), Article #S2R8. ([pdf](https://arxiv.org/pdf/2601.05592))
 
 34. *Generalizing Recent Results of Kathiravan, Majumdar,  Sangalae, and Srinivas on $(\ell, k)$-regular Partitions*, (with *[James A. Sellers](https://www.d.umn.edu/~jsellers/)*), *Journal of Integer Sequences*, 2025, 28 (6), Article 25.6.1. ([pdf](https://cs.uwaterloo.ca/journals/JIS/VOL28/Sellers/sellers79.pdf))
 
