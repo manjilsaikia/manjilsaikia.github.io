@@ -58,7 +58,8 @@ W 26/11: [Problems on elementary number theory](/teaching/AhdUni/MAT165/ex3.pdf)
 T 02/12: [Mid-Semester Examination](/teaching/AhdUni/MAT165/mat165-mid-sem.pdf)  
 W 07/01: Pigeonhole Principle (PHP) and Applications  
 F 09/01: [Problems on PHP](/teaching/AhdUni/MAT165/php-ex-hints.pdf)  
-F 16/01: Advanced problems on PHP
+F 16/01: Advanced problems on PHP  
+W 21/01: Invariance Principle
 
 # Assignments
 
@@ -67,7 +68,8 @@ F 16/01: Advanced problems on PHP
 
 [Assignment 1](/teaching/AhdUni/MAT165/ps1.pdf)  
 [Assignment 2](/teaching/AhdUni/MAT165/ps2.pdf)  
-[Assignment 3](/teaching/AhdUni/MAT165/ps3.pdf)
+[Assignment 3](/teaching/AhdUni/MAT165/ps3.pdf)  
+[Assignment 4](/teaching/AhdUni/MAT165/ps4.pdf)
 
 ## Submissions
 
