@@ -58,8 +58,9 @@ W 26/11: [Problems on elementary number theory](/teaching/AhdUni/MAT165/ex3.pdf)
 T 02/12: [Mid-Semester Examination](/teaching/AhdUni/MAT165/mat165-mid-sem.pdf)  
 W 07/01: Pigeonhole Principle (PHP) and Applications  
 F 09/01: [Problems on PHP](/teaching/AhdUni/MAT165/php-ex-hints.pdf)  
-F 16/01: Advanced problems on PHP  
-W 21/01: Invariance Principle
+F 16/01: [More problems (PHP and others)](/teaching/AhdUni/MAT165/php_practice.pdf)  
+W 21/01: Invariants and Colourings  
+F 23/01: Guest Lecture by [Professor Aalok Thakker](https://aalok-thakkar.github.io)
 
 # Assignments
 
