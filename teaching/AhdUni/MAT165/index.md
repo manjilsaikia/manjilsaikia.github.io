@@ -61,11 +61,13 @@ F 09/01: [Problems on PHP](/teaching/AhdUni/MAT165/php-ex-hints.pdf)
 F 16/01: [More problems (PHP and others)](/teaching/AhdUni/MAT165/php_practice.pdf)  
 W 21/01: Invariants and Colourings  
 F 23/01: Guest Lecture by [Professor Aalok Thakkar](https://aalok-thakkar.github.io)  
-W 28/01: Problems on Invariants and Colourings  
-F 30/01: Problems on Invariants and Colourings  
-S 31/01: problems on Graphs  
-S 31/01: Problems on Graphs  
-S 31/01: Guest Lecture by [Professor Pravakar Paul](https://ahduni.edu.in/faculty/pravakar-paul/)
+W 28/01: Invariants and Colourings  
+F 30/01: [Problems on Invariants and Colourings](/teaching/AhdUni/MAT165/Invariants_colorings.pdf)  
+S 31/01: Basic introduction to Graphs  
+S 31/01: [Problems on Graphs](/teaching/Ahduni/MAT165/graphs.pdf)  
+S 31/01: Guest Lecture by [Professor Pravakar Paul](https://ahduni.edu.in/faculty/pravakar-paul/)  
+W 04/02: Countable & Uncountable Sets  
+F 06/02: Topology and its applications
 
 # Assignments
 
