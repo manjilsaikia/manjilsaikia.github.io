@@ -77,7 +77,9 @@ F 06/02: Topology and its applications
 [Assignment 1](/teaching/AhdUni/MAT165/ps1.pdf)  
 [Assignment 2](/teaching/AhdUni/MAT165/ps2.pdf)  
 [Assignment 3](/teaching/AhdUni/MAT165/ps3.pdf)  
-[Assignment 4](/teaching/AhdUni/MAT165/ps4.pdf)
+[Assignment 4](/teaching/AhdUni/MAT165/ps4.pdf)  
+[Assignment 5](/teaching/AhdUni/MAT165/ps5.pdf)  
+[Assignment 6](/teaching/AhdUni/MAT165/ps6.pdf)
 
 ## Submissions
 
