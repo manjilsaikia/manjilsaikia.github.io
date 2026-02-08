@@ -14,32 +14,24 @@ permalink: /links/
 [ZbMath](https://zbmath.org)  
 [Scopus](https://www-scopus-com.ahdunielib.remotexs.in/search/form.uri?display=basic#basic)
 
-## Journals
+## Some journals of interest to me (and to which I have access)
 
-[ACM Transactions on Algorithms](https://dl-acm-org.ahdunielib.remotexs.in/journal/talg)  
-[Advances in Applied Mathematics](https://www.sciencedirect.com/journal/advances-in-applied-mathematics)  
-[Advances in Mathematics](https://www.sciencedirect.com/journal/advances-in-mathematics)  
 [Algebraic Combinatorics](https://alco.centre-mersenne.org)  
 [Annals of Combinatorics](http://www.springer.com/new+%26+forthcoming+titles+%28default%29/journal/26)  
 [Bulletin of the Australian Mathematical Society](https://www.cambridge.org/core/journals/bulletin-of-the-australian-mathematical-society/firstview)  
 [Combinatorial Theory](https://escholarship.org/uc/combinatorial_theory)  
 [Discrete Applied Mathematics](https://www-sciencedirect-com.ahdunielib.remotexs.in/journal/discrete-applied-mathematics)  
-[Discrete Mathematics](http://www.sciencedirect.com/science/journal/0012365X)  
 [Economic & Political Weekly](https://www-epw-in.ahdunielib.remotexs.in)  
-[European Journal of Combinatorics](http://www.sciencedirect.com/science/journal/01956698)  
 [Forum of Mathematics, Pi](https://www.cambridge.org/core/journals/forum-of-mathematics-pi)  
 [Forum of Mathematics, Sigma](https://www.cambridge.org/core/journals/forum-of-mathematics-sigma)  
 [Indian Journal of Pure and Applied Mathematics](https://link.springer.com/journal/13226)  
 [Integers](http://www.integers-ejcnt.org/)  
-[International Journal of Number Theory](https://www-worldscientific-com.ahdunielib.remotexs.in/page/ijnt/editorial-board)  
+[International Journal of Number Theory](https://www.worldscientific.com/page/ijnt/editorial-board)  
 [Journal of Algebraic Combinatorics](https://link.springer.com/journal/10801)  
-[Journal of Combinatorial Theory, Series A](https://www.sciencedirect.com/journal/journal-of-combinatorial-theory-series-a)  
 [Journal of Integer Sequences](https://cs.uwaterloo.ca/journals/JIS/)  
 [Journal of Symbolic Computation](https://www-sciencedirect-com.ahdunielib.remotexs.in/journal/journal-of-symbolic-computation)  
-[Journal of Mathematical Analysis and Applications](https://www.sciencedirect.com/journal/journal-of-mathematical-analysis-and-applications)  
 [Revista de la Real Academia de Ciencias Exactas, Físicas y Naturales, Series A Matemáticas](https://link.springer.com/journal/13398)  
 [The Electronic Journal of Combinatorics](http://www.combinatorics.org/)  
-[The Mathematical Intelligencer](http://www.springer.com/mathematics/journal/283)  
 [The Ramanujan Journal](http://www.springer.com/mathematics/numbers/journal/11139)  
 [Theoretical Computer Science](https://www-sciencedirect-com.ahdunielib.remotexs.in/journal/theoretical-computer-science)
 
@@ -63,7 +55,7 @@ permalink: /links/
 ## People
 
 [Krishnaswami Alladi](http://krishnaswami-alladi.com)  
-[George E. Andrews](http://www.personal.psu.edu/gea1/)  
+[George E. Andrews](https://georgeandrews1.github.io)  
 [Arvind Ayyer](http://www.math.iisc.ernet.in/~arvind/index.html)  
 [Rupam Barman](https://www.iitg.ac.in/rupam/)  
 [Nayandeep Deka Baruah](https://scholar.google.co.in/citations?hl=en&user=2U1ewzYAAAAJ&view_op=list_works&sortby=pubdate)  
@@ -71,7 +63,7 @@ permalink: /links/
 [Bruce C. Berndt](http://www.math.uiuc.edu/~berndt/)  
 [Gaurav Bhatnagar](https://gauravbhatnagar.org)  
 [Shane Chern](https://shanechern.github.io)  
-[Mihai Ciucu](http://pages.iu.edu/~mciucu/)  
+[Mihai Ciucu](https://mciucu.pages.iu.edu)  
 [Hirakjyoti Das](https://sites.google.com/view/hirakjyotidas/)  
 [Bishal Deb](https://bishaldeb.com)  
 [Ilse Fischer](https://homepage.univie.ac.at/ilse.fischer/?page_id=21)  
@@ -95,14 +87,9 @@ permalink: /links/
 [Tim Gowers](http://gowers.wordpress.com/)  
 [Tanya Khovanova](http://blog.tanyakhovanova.com/)  
 [Math with Bad Drawings](http://mathwithbaddrawings.com/)  
-[The value of the variable: H. A. Helfgott](https://valuevar.wordpress.com/)  
-[Luit-Pariya](http://luit-pariya.blogspot.it/)  
 [Peter Cameron](https://cameroncounts.wordpress.com/)  
 [Igor Pak](https://igorpak.wordpress.com/)  
 [British Combinatorial Committee](https://britishcombinatorial.wordpress.com/)  
-[Academia Obscura](http://www.academiaobscura.com)  
-[Viviane Pons](http://openpyviv.com)  
-[Mukunth V](https://canonicalensemble.net)
 
 ## Tips
 
