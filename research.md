@@ -14,7 +14,7 @@ My current work is focused on combinatorics (enumerative and algebraic), $q$-ser
 
 ## Preprints
 
-11. *Elementary Proofs of Two Recent Parity Results of Merca*, (with [James A. Sellers](https://www.d.umn.edu/~jsellers/)*), preprint, 2026.
+11. *Elementary Proofs of Two Recent Parity Results of Merca*, (with *[James A. Sellers](https://www.d.umn.edu/~jsellers/)*), preprint, 2026.
 
 10. *TBA*, (with *[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/)*), preprint, 2026.
 
