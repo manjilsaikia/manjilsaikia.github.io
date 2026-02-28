@@ -14,7 +14,7 @@ The books that are marked with a ** are the ones that I am either currently read
 
 >All the books that I read are rated on [Goodreads](https://www.goodreads.com/user/show/36494310-manjil).
 
-1. **The Consul's Wife**, *Ranbir Singh Sidhu*, Harper*, 2014.
+1. **The Consul's Wife**, *Ranbir Singh Sidhu*, Harper, 2014.
 2. **The Middle Finger**, *Saikat Majumdar*, Simon & Schuster, 2022.
 3. **Body in the Backyard**, *Manjula Padmanabhan*, Penguin, 2018.
 4. **Morning Glory in East-of-Kailash**, *Manjula Padmanabhan*, Penguin, 2018.
