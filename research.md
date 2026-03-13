@@ -14,11 +14,13 @@ My current work is focused on combinatorics (enumerative and algebraic), $q$-ser
 
 ## Preprints
 
+12. *Hook Length Biases in $t$-Core Partitions*, (with *[Nayandeep Deka Baruah](https://www.tezu.ernet.in/dmaths/people/faculty-pages/ndb.html)*, *[Hirakjyoti Das](https://sites.google.com/view/hirakjyotidas/home?authuser=0), and [Pankaj Jyoti Mahanta](http://pankajjyoti.com/)*), preprint, 2026. ([pdf](https://arxiv.org/pdf/2603.10140))
+
 11. *Elementary Proofs of Two Recent Parity Results of Merca*, (with *[James A. Sellers](https://www.d.umn.edu/~jsellers/)*), preprint, 2026.
 
 10. *TBA*, (with *[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/)*), preprint, 2026.
 
-9. *TBA*, (with *TBA*), preprint, 2026. *(redacted due to submission venue policy)*
+9. *QEDBENCH: Quantifying the Alignment Gap in Automated Evaluation of University-Level Mathematical Proofs*, (with *Santiago Gonzalez, Alireza Amiri Bavandpour, Peter Ye, Edward Zhang, Ruslans Aleksejevs, Todor Antić, Polina Baron, Sujeet Bhalerao, Shubhrajit Bhattacharya, Zachary Burton, John Byrne, Hyungjun Choi, Nujhat Ahmed Disha, Koppany István Encz, Yuchen Fang, Robert Joseph George, Ebrahim Ghorbani, Alan Goldfarb, Jing Guo, Meghal Gupta, Stefano Huber, Annika Kanckos, Minjung Kang, Hyun Jong Kim, Dino Lorenzini, Levi Lorenzo, Tianyi Mao, Giovanni Marzenta, Ariane M. Masuda, Lukas Mauth, Ana Mickovic, Andres Miniguano-Trujillo, Antoine Moulin, Wenqi Ni, Tomos Parry, Kevin Ren, Hossein Roodbarani, Mathieu Rundström, Detchat Samart, Rebecca Steiner, Connor Stewart, Dhara Thakkar, Jeffrey Tse, Vasiliki Velona, Yunhai Xiang, Sibel Yalçın, Jun Yan, Ji Zeng, Arman Cohan, and Quanquan C. Liu*), preprint, 2026. ([pdf](https://arxiv.org/pdf/2602.20629))
 
 8. *New Arithmetic Properties for Overpartitions where Nonoverlined Parts are $\ell$-Regular*, (with *[Hemjyoti Nath](https://sites.google.com/view/hemjyoti-nath) and [James A. Sellers](https://www.d.umn.edu/~jsellers/)*), preprint, 2025. ([pdf](https://arxiv.org/pdf/2503.12145))
 
