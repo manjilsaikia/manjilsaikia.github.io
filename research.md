@@ -42,9 +42,9 @@ My current work is focused on combinatorics (enumerative and algebraic), $q$-ser
 
 40. *Arithmetic Properties of $t$-Schur Overpartitions*, (with *[Mohammed Lamine Nadji](https://sites.google.com/view/mlnadji) and [James A. Sellers](https://www.d.umn.edu/~jsellers/)*), *Quaestiones Mathematicae*, 2026, accepted. ([pdf](https://arxiv.org/pdf/2508.17928)) 
 
-39. *Ramanujan-type Congruences for Partition $k$-Tuples with $5$-Cores*, (with *[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/) and Pranjal Talukdar*), *Indian Journal of Pure and Applied Mathematics*, 2024, accepted. ([pdf](https://arxiv.org/pdf/2302.01750.pdf))
+39. *On some conjectures of Paudel, Sellers, and Wang*, *Journal of the Assam Academy of Mathematics*, 2025, to appear.
 
-38. *On some conjectures of Paudel, Sellers, and Wang*, *Journal of the Assam Academy of Mathematics*, 2025, to appear.
+38. *Ramanujan-type Congruences for Partition $k$-Tuples with $5$-Cores*, (with *[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/) and Pranjal Talukdar*), *Indian Journal of Pure and Applied Mathematics*, 2026, 57 (2), 344-354. ([pdf](https://arxiv.org/pdf/2302.01750.pdf))
 
 37. *Biases in Non-Unitary Partitions*, (with *[Pankaj Jyoti Mahanta](http://pankajjyoti.com/) and [Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/)*), *Boletín de la Sociedad Matemática Mexicana*, 2026, 32 (1), Article 23. ([pdf](/publ/papers/bisa_new.pdf))
 
