@@ -11,6 +11,12 @@ Courses where I was/am the co-instructor are marked with **.
 
 # Ahmedabad University
 
+**MAT123 Precalculus** (UG, September 2026 - February 2027 & August 2026 - December 2026)
+
+**MAT751 Advanced Combinatorics: Enumerative and Algebraic** (Masters/PhD, [August 2026 - December 2026](http://combinatorics.in/permutations))
+
+**MAT142 Introductory Calculus** (First Year UG, August 2026 - December 2026 & October 2023 - February 2024)
+
 **MAT515 Combinatorial Enumeration** (Masters, January 2026 - April 2026, August 2024 - December 2024 & January 2024 - April 2024)
 
 **STA102 Probability and Random Variables** (First Year UG, January 2026 - May 2026)
