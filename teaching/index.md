@@ -13,7 +13,7 @@ Courses where I was/am the co-instructor are marked with **.
 
 **MAT123 Precalculus** (UG, September 2026 - February 2027 & August 2026 - December 2026)
 
-**MAT751 Advanced Combinatorics: Enumerative and Algebraic** (Masters/PhD, [August 2026 - December 2026](http://combinatorics.in/permutations))
+**MAT751 Advanced Combinatorics: Enumerative and Algebraic** (Masters/PhD, [August 2026 - December 2026](http://www.combinatorics.in/permutations))
 
 **MAT142 Introductory Calculus** (First Year UG, August 2026 - December 2026 & October 2023 - February 2024)
 
