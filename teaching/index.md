@@ -11,23 +11,23 @@ Courses where I was/am the co-instructor are marked with **.
 
 # Ahmedabad University
 
+**MAT142 Introductory Calculus** (First Year UG, January 2027 - May 2027 & October 2023 - February 2024)
+
 **MAT123 Precalculus** (UG, September 2026 - February 2027 & August 2026 - December 2026)
 
 **MAT751 Advanced Combinatorics: Enumerative and Algebraic** (Masters/PhD, [August 2026 - December 2026](http://www.combinatorics.in/permutations))
-
-**MAT142 Introductory Calculus** (First Year UG, August 2026 - December 2026 & October 2023 - February 2024)
 
 **MAT515 Combinatorial Enumeration** (Masters, January 2026 - April 2026, August 2024 - December 2024 & January 2024 - April 2024)
 
 **STA102 Probability and Random Variables** (First Year UG, January 2026 - May 2026)
 
-**[MAT165 Gateway to Abstract Reasoning](/teaching/AhdUni/MAT165/)** (First Year UG, October 2025 - February 2026)
+**MAT165 Gateway to Abstract Reasoning** (First Year UG, [October 2025 - February 2026](/teaching/AhdUni/MAT165/))
 
-**[MAT730 Combinatorial Representation Theory](/teaching/AhdUni/MAT730/)** (Masters/PhD, August 2025 - December 2025)
+**MAT730 Combinatorial Representation Theory** (Masters/PhD, [August 2025 - December 2025](/teaching/AhdUni/MAT730/))
 
-**[MAT215 Elementary Number Theory & Cryptography](/teaching/AhdUni/MAT215/)** (UG, August 2025 - December 2025)
+**MAT215 Elementary Number Theory & Cryptography** (UG, [August 2025 - December 2025](/teaching/AhdUni/MAT215/))
 
-**[MAT631 Algebraic Combinatorics](/teaching/AhdUni/MAT631/)** (Masters/PhD, January 2025 - April 2025)
+**MAT631 Algebraic Combinatorics** (Masters/PhD, [January 2025 - April 2025](/teaching/AhdUni/MAT631/))
 
 **Foundation Programme: Environment and Climate Change** ** (First Year UG, March 2024 & August 2023 - September 2023)
 
