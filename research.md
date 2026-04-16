@@ -38,11 +38,11 @@ My current work is focused on combinatorics (enumerative and algebraic), $q$-ser
 
 ## Peer Reviewed Papers
 
-41. *Some Properties of Overpartitions into nonmultiples of two integers* (with *[Abdulaziz M. Alanazi](https://scholar.google.com/citations?user=NHGt6AEAAAAJ&hl=en)* and *[Agustine O. Munagi](https://orcid.org/0000-0003-0426-1366)*), *AIMS Mathematics*, 2026, accepted. ([pdf](https://arxiv.org/pdf/2412.18938))
+41. *Arithmetic Properties of $t$-Schur Overpartitions*, (with *[Mohammed Lamine Nadji](https://sites.google.com/view/mlnadji) and [James A. Sellers](https://www.d.umn.edu/~jsellers/)*), *Quaestiones Mathematicae*, 2026, accepted. ([pdf](https://arxiv.org/pdf/2508.17928)) 
 
-40. *Arithmetic Properties of $t$-Schur Overpartitions*, (with *[Mohammed Lamine Nadji](https://sites.google.com/view/mlnadji) and [James A. Sellers](https://www.d.umn.edu/~jsellers/)*), *Quaestiones Mathematicae*, 2026, accepted. ([pdf](https://arxiv.org/pdf/2508.17928)) 
+40. *On some conjectures of Paudel, Sellers, and Wang*, *Journal of the Assam Academy of Mathematics*, 2025, to appear.
 
-39. *On some conjectures of Paudel, Sellers, and Wang*, *Journal of the Assam Academy of Mathematics*, 2025, to appear.
+39. *Some Properties of Overpartitions into nonmultiples of two integers* (with *[Abdulaziz M. Alanazi](https://scholar.google.com/citations?user=NHGt6AEAAAAJ&hl=en)* and *[Agustine O. Munagi](https://orcid.org/0000-0003-0426-1366)*), *AIMS Mathematics*, 2026, 11 (4), 9876-9891. ([pdf](https://arxiv.org/pdf/2412.18938))
 
 38. *Ramanujan-type Congruences for Partition $k$-Tuples with $5$-Cores*, (with *[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/) and Pranjal Talukdar*), *Indian Journal of Pure and Applied Mathematics*, 2026, 57 (2), 344-354. ([pdf](https://arxiv.org/pdf/2302.01750.pdf))
 
