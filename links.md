@@ -12,7 +12,12 @@ permalink: /links/
 
 [MathSciNet](https://mathscinet-ams-org.ahdunielib.remotexs.in/mathscinet/publications-search)  
 [ZbMath](https://zbmath.org)  
-[Scopus](https://www-scopus-com.ahdunielib.remotexs.in/search/form.uri?display=basic#basic)
+[Scopus](https://www-scopus-com.ahdunielib.remotexs.in/search/form.uri?display=basic#basic)  
+
+## Course Playlists
+
+[Algorithms 1](https://www.youtube.com/watch?v=yRM3sc57q0c&list=PLXFMmlk03Dt7Q0xr1PIAriY5623cKiH7V)  
+[Undergraduate Complexity](https://www.youtube.com/watch?v=RxhpiYKFQd8&list=PLm3J0oaFux3YL5vLXpzOyJiLtqLp6dCW2)  
 
 ## Some journals of interest to me (and to which I have access)
 
