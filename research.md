@@ -143,6 +143,8 @@ My current work is focused on combinatorics (enumerative and algebraic), $q$-ser
 
 ## Non Peer-Reviewed Papers
 
+9. *Congruences and conjectures for regular bipartitions and bipartition tuples*, preprint, 2026. ([pdf](/publ/papers/Regular_Partitions.pdf))
+
 8. *Almost Circular Balancing Numbers*, *Advances in Mathematical Sciences* (Z. Ahmed (ed.)), Empyreal Publishing House, 2019, 61 — 67. ([pdf](http://www.editedbook.in/pdf/dr-zakir-ahmed-edited.pdf#%5B%7B%22num%22%3A72%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C73.441%2C696.959%2Cnull%5D))
 
 7. *On Deficient Perfect Numbers with Four Distinct Prime Factors, II*, preprint, 2018. ([pdf](/publ/papers/saikia_deficient_7.pdf))
