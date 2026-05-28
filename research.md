@@ -14,13 +14,11 @@ My current work is focused on combinatorics (enumerative and algebraic), $q$-ser
 
 ## Preprints
 
-8. *Hook Length Biases in $t$-Core Partitions*, (with *[Nayandeep Deka Baruah](https://www.tezu.ernet.in/dmaths/people/faculty-pages/ndb.html)*, *[Hirakjyoti Das](https://sites.google.com/view/hirakjyotidas/home?authuser=0), and [Pankaj Jyoti Mahanta](http://pankajjyoti.com/)*), preprint, 2026. ([pdf](https://arxiv.org/pdf/2603.10140))
+7. *Hook Length Biases in $t$-Core Partitions*, (with *[Nayandeep Deka Baruah](https://www.tezu.ernet.in/dmaths/people/faculty-pages/ndb.html)*, *[Hirakjyoti Das](https://sites.google.com/view/hirakjyotidas/home?authuser=0), and [Pankaj Jyoti Mahanta](http://pankajjyoti.com/)*), preprint, 2026. ([pdf](https://arxiv.org/pdf/2603.10140))
 
-7. *Elementary Proofs of Two Recent Parity Results of Merca*, (with *[James A. Sellers](https://www.d.umn.edu/~jsellers/)*), preprint, 2026.
+6. *Elementary Proofs of Two Recent Parity Results of Merca*, (with *[James A. Sellers](https://www.d.umn.edu/~jsellers/)*), preprint, 2026.
 
-6. *New Arithmetic Properties for Overpartitions where Nonoverlined Parts are $\ell$-Regular*, (with *[Hemjyoti Nath](https://sites.google.com/view/hemjyoti-nath) and [James A. Sellers](https://www.d.umn.edu/~jsellers/)*), preprint, 2025. ([pdf](https://arxiv.org/pdf/2503.12145))
-
-5. *Arithmetic Properties of Generalized Cubic and Overcubic Partitions*, (with *[Hirakjyoti Das](https://sites.google.com/view/hirakjyotidas/home?authuser=0) and [Saikat Maity](https://sites.google.com/view/saikat-maity/)*), preprint, 2025. ([pdf](https://arxiv.org/pdf/2503.19399))
+5. *New Arithmetic Properties for Overpartitions where Nonoverlined Parts are $\ell$-Regular*, (with *[Hemjyoti Nath](https://sites.google.com/view/hemjyoti-nath) and [James A. Sellers](https://www.d.umn.edu/~jsellers/)*), preprint, 2025. ([pdf](https://arxiv.org/pdf/2503.12145))
 
 4. *Symmetric Domino Tilings of Aztec Diamonds*, (with *[Pravakar Paul](https://ahduni.edu.in/academics/schools-centres/school-of-arts-and-sciences/faculty/pravakar-paul/)*), preprint, 2024. ([pdf](https://arxiv.org/pdf/2410.23324))
 
@@ -32,6 +30,8 @@ My current work is focused on combinatorics (enumerative and algebraic), $q$-ser
 
 
 ## Peer Reviewed Papers
+
+45. *Arithmetic Properties of Generalized Cubic and Overcubic Partitions*, (with *[Hirakjyoti Das](https://sites.google.com/view/hirakjyotidas/home?authuser=0) and [Saikat Maity](https://sites.google.com/view/saikat-maity/)*), *European Journal of Mathematics*, accepted, 2026. ([pdf](https://arxiv.org/pdf/2503.19399))
 
 44. *Proof of a Nonnegativity Conjecture of Merca*, (with *[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/)*), *Results in Mathematics*, accepted, 2026. ([pdf](/publ/papers/rima.pdf))
 
