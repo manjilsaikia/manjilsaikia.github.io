@@ -14,22 +14,22 @@ My current work is focused on combinatorics (enumerative and algebraic), $q$-ser
 
 ## Preprints
 
-7. *Hook Length Biases in $t$-Core Partitions*, (with *[Nayandeep Deka Baruah](https://www.tezu.ernet.in/dmaths/people/faculty-pages/ndb.html)*, *[Hirakjyoti Das](https://sites.google.com/view/hirakjyotidas/home?authuser=0), and [Pankaj Jyoti Mahanta](http://pankajjyoti.com/)*), preprint, 2026. ([pdf](https://arxiv.org/pdf/2603.10140))
+6. *Hook Length Biases in $t$-Core Partitions*, (with *[Nayandeep Deka Baruah](https://www.tezu.ernet.in/dmaths/people/faculty-pages/ndb.html)*, *[Hirakjyoti Das](https://sites.google.com/view/hirakjyotidas/home?authuser=0), and [Pankaj Jyoti Mahanta](http://pankajjyoti.com/)*), preprint, 2026. ([pdf](https://arxiv.org/pdf/2603.10140))
 
-6. *Elementary Proofs of Two Recent Parity Results of Merca*, (with *[James A. Sellers](https://www.d.umn.edu/~jsellers/)*), preprint, 2026.
+5. *Elementary Proofs of Two Recent Parity Results of Merca*, (with *[James A. Sellers](https://www.d.umn.edu/~jsellers/)*), preprint, 2026.
 
-5. *New Arithmetic Properties for Overpartitions where Nonoverlined Parts are $\ell$-Regular*, (with *[Hemjyoti Nath](https://sites.google.com/view/hemjyoti-nath) and [James A. Sellers](https://www.d.umn.edu/~jsellers/)*), preprint, 2025. ([pdf](https://arxiv.org/pdf/2503.12145))
+4. *New Arithmetic Properties for Overpartitions where Nonoverlined Parts are $\ell$-Regular*, (with *[Hemjyoti Nath](https://sites.google.com/view/hemjyoti-nath) and [James A. Sellers](https://www.d.umn.edu/~jsellers/)*), preprint, 2025. ([pdf](https://arxiv.org/pdf/2503.12145))
 
-4. *Symmetric Domino Tilings of Aztec Diamonds*, (with *[Pravakar Paul](https://ahduni.edu.in/academics/schools-centres/school-of-arts-and-sciences/faculty/pravakar-paul/)*), preprint, 2024. ([pdf](https://arxiv.org/pdf/2410.23324))
+3. *Symmetric Domino Tilings of Aztec Diamonds*, (with *[Pravakar Paul](https://ahduni.edu.in/academics/schools-centres/school-of-arts-and-sciences/faculty/pravakar-paul/)*), preprint, 2024. ([pdf](https://arxiv.org/pdf/2410.23324))
 
-3. *A Novel Approach to Counting Perfect Matchings of Graphs*, (with *[Pravakar Paul](https://ahduni.edu.in/academics/schools-centres/school-of-arts-and-sciences/faculty/pravakar-paul/)*), preprint, 2024. ([pdf](https://arxiv.org/abs/2408.10273))
+2. *A Novel Approach to Counting Perfect Matchings of Graphs*, (with *[Pravakar Paul](https://ahduni.edu.in/academics/schools-centres/school-of-arts-and-sciences/faculty/pravakar-paul/)*), preprint, 2024. ([pdf](https://arxiv.org/abs/2408.10273))
 
-2. *Congruences for Andrews-Uncu's partition function $\mathcal{EO}_u(n)$*, (with *[Nayandeep Deka Baruah](https://www.tezu.ernet.in/dmaths/people/faculty-pages/ndb.html)*, *[Hirakjyoti Das](https://sites.google.com/view/hirakjyotidas/home?authuser=0) and [Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/)*), preprint, 2024.
-
-1. *The Signed Roman Domination Number of Ladder graphs, circular Ladder graphs and their complements*, (with *[Dilbak Haje](https://uod.ac/staff/delpak-haji-muhamad/), [Delbrin Ahmed](https://uod.ac/ac/c/cbe/departments/mathematics/academic-members/delbrin-ahmed/), and Hassan Izanloo*), preprint, 2024. ([pdf](https://arxiv.org/abs/2407.07182))
+1. *Congruences for Andrews-Uncu's partition function $\mathcal{EO}_u(n)$*, (with *[Nayandeep Deka Baruah](https://www.tezu.ernet.in/dmaths/people/faculty-pages/ndb.html)*, *[Hirakjyoti Das](https://sites.google.com/view/hirakjyotidas/home?authuser=0) and [Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/)*), preprint, 2024.
 
 
 ## Peer Reviewed Papers
+
+46. *The Signed Roman Domination Number of Ladder Graphs and Their Complements*, (with *[Dilbak Haje](https://uod.ac/staff/delpak-haji-muhamad/), [Delbrin Ahmed](https://uod.ac/ac/c/cbe/departments/mathematics/academic-members/delbrin-ahmed/), and Hassan Izanloo*), *Journal of Combinatorial Mathematics and Combinatorial Computing*, accepted, 2026. ([pdf](/publ/papers/JCMCC.pdf))
 
 45. *Arithmetic Properties of Generalized Cubic and Overcubic Partitions*, (with *[Hirakjyoti Das](https://sites.google.com/view/hirakjyotidas/home?authuser=0) and [Saikat Maity](https://sites.google.com/view/saikat-maity/)*), *European Journal of Mathematics*, accepted, 2026. ([pdf](https://arxiv.org/pdf/2503.19399))
 
