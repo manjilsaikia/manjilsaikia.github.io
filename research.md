@@ -29,7 +29,7 @@ My current work is focused on combinatorics (enumerative and algebraic), $q$-ser
 
 ## Peer Reviewed Papers
 
-46. *The Signed Roman Domination Number of Ladder Graphs and Their Complements*, (with *[Dilbak Haje](https://uod.ac/staff/delpak-haji-muhamad/), [Delbrin Ahmed](https://uod.ac/ac/c/cbe/departments/mathematics/academic-members/delbrin-ahmed/), and Hassan Izanloo*), *Journal of Combinatorial Mathematics and Combinatorial Computing*, accepted, 2026. ([pdf](/publ/papers/JCMCC.pdf))
+46. *The Signed Roman Domination Number of Ladder Graphs and Their Complements*, (with *[Dilbak Haje](https://uod.ac/staff/delpak-haji-muhamad/), [Delbrin Ahmed](https://uod.ac/ac/c/cbe/departments/mathematics/academic-members/delbrin-ahmed/), and [Hassan Izanloo](https://eps.leeds.ac.uk/faculty-engineering-physical-sciences/staff/14267/dr-hassan-izanloo)*), *Journal of Combinatorial Mathematics and Combinatorial Computing*, accepted, 2026. ([pdf](/publ/papers/JCMCC.pdf))
 
 45. *Arithmetic Properties of Generalized Cubic and Overcubic Partitions*, (with *[Hirakjyoti Das](https://sites.google.com/view/hirakjyotidas/home?authuser=0) and [Saikat Maity](https://sites.google.com/view/saikat-maity/)*), *European Journal of Mathematics*, accepted, 2026. ([pdf](https://arxiv.org/pdf/2503.19399))
 
