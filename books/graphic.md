@@ -14,7 +14,9 @@ The books which are marked with a ** are the ones that I am either currently rea
 
 >All the books that I read are rated on [Goodreads](https://www.goodreads.com/user/show/36494310-manjil).
 
-1. **Corridor: A Graphic Novel**, *Sarnath Banerjee*, Penguin Books, 2024.
-2. ** **Look, No Feet!**, *Bryan McAllister*, Victor Gollancz Ltd, 1987.
-3. **Soppy**, *Philipa Rice*, Square Peg, 2015.
-4. **The Best of Laxman: The Common Man in the New Millennium**, *R. K. Laxman*, Penguin Books, 2000.
+1. **Discovery of New India**, *Aakar Patel and PenPencilDraw*, Vintage, 2026.
+2. **Absolute Jafar**, *Sarnath Banerjee*, HarperCollins Publishers, 2026.
+3. **Corridor: A Graphic Novel**, *Sarnath Banerjee*, Penguin Books, 2024.
+4. ** **Look, No Feet!**, *Bryan McAllister*, Victor Gollancz Ltd, 1987.
+5. **Soppy**, *Philipa Rice*, Square Peg, 2015.
+6. **The Best of Laxman: The Common Man in the New Millennium**, *R. K. Laxman*, Penguin Books, 2000.
