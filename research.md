@@ -14,11 +14,9 @@ My current work is focused on combinatorics (enumerative and algebraic), $q$-ser
 
 ## Preprints
 
-6. *Hook Length Biases in $t$-Core Partitions*, (with *[Nayandeep Deka Baruah](https://www.tezu.ernet.in/dmaths/people/faculty-pages/ndb.html)*, *[Hirakjyoti Das](https://sites.google.com/view/hirakjyotidas/home?authuser=0), and [Pankaj Jyoti Mahanta](http://pankajjyoti.com/)*), preprint, 2026. ([pdf](https://arxiv.org/pdf/2603.10140))
+5. *Hook Length Biases in $t$-Core Partitions*, (with *[Nayandeep Deka Baruah](https://www.tezu.ernet.in/dmaths/people/faculty-pages/ndb.html)*, *[Hirakjyoti Das](https://sites.google.com/view/hirakjyotidas/home?authuser=0), and [Pankaj Jyoti Mahanta](http://pankajjyoti.com/)*), preprint, 2026. ([pdf](https://arxiv.org/pdf/2603.10140))
 
-5. *Elementary Proofs of Two Recent Parity Results of Merca*, (with *[James A. Sellers](https://www.d.umn.edu/~jsellers/)*), preprint, 2026.
-
-4. *New Arithmetic Properties for Overpartitions where Nonoverlined Parts are $\ell$-Regular*, (with *[Hemjyoti Nath](https://sites.google.com/view/hemjyoti-nath) and [James A. Sellers](https://www.d.umn.edu/~jsellers/)*), preprint, 2025. ([pdf](https://arxiv.org/pdf/2503.12145))
+4. *Elementary Proofs of Two Recent Parity Results of Merca*, (with *[James A. Sellers](https://www.d.umn.edu/~jsellers/)*), preprint, 2026.
 
 3. *Symmetric Domino Tilings of Aztec Diamonds*, (with *[Pravakar Paul](https://ahduni.edu.in/academics/schools-centres/school-of-arts-and-sciences/faculty/pravakar-paul/)*), preprint, 2024. ([pdf](https://arxiv.org/pdf/2410.23324))
 
@@ -28,6 +26,8 @@ My current work is focused on combinatorics (enumerative and algebraic), $q$-ser
 
 
 ## Peer Reviewed Papers
+
+47. *New Arithmetic Properties for Overpartitions where Nonoverlined Parts are $\ell$-Regular*, (with *[Hemjyoti Nath](https://sites.google.com/view/hemjyoti-nath) and [James A. Sellers](https://www.d.umn.edu/~jsellers/)*), *Bulletin of the Malaysian Mathematical Sciences Society*, accepted, 2026. ([pdf](https://arxiv.org/pdf/2503.12145))
 
 46. *The Signed Roman Domination Number of Ladder Graphs and Their Complements*, (with *[Dilbak Haje](https://uod.ac/staff/delpak-haji-muhamad/), [Delbrin Ahmed](https://uod.ac/ac/c/cbe/departments/mathematics/academic-members/delbrin-ahmed/), and [Hassan Izanloo](https://eps.leeds.ac.uk/faculty-engineering-physical-sciences/staff/14267/dr-hassan-izanloo)*), *Journal of Combinatorial Mathematics and Combinatorial Computing*, accepted, 2026. ([pdf](/publ/papers/JCMCC.pdf))
 
