@@ -14,6 +14,8 @@ My current work is focused on combinatorics (enumerative and algebraic), $q$-ser
 
 ## Preprints
 
+6. *Extending Recent Arithmetic Properties of Overcubic Partition Tuples*, (with *[Saikat Maity](https://sites.google.com/view/saikat-maity/)*), preprint, 2026.
+
 5. *Hook Length Biases in $t$-Core Partitions*, (with *[Nayandeep Deka Baruah](https://www.tezu.ernet.in/dmaths/people/faculty-pages/ndb.html)*, *[Hirakjyoti Das](https://sites.google.com/view/hirakjyotidas/home?authuser=0), and [Pankaj Jyoti Mahanta](http://pankajjyoti.com/)*), preprint, 2026. ([pdf](https://arxiv.org/pdf/2603.10140))
 
 4. *Elementary Proofs of Two Recent Parity Results of Merca*, (with *[James A. Sellers](https://www.d.umn.edu/~jsellers/)*), preprint, 2026.
