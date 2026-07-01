@@ -14,6 +14,8 @@ My current work is focused on combinatorics (enumerative and algebraic), $q$-ser
 
 ## Preprints
 
+7. *Some Comments on Regular Overpartitions modulo $2^k$*, (with *[Abdulaziz M. Alanazi](https://scholar.google.com/citations?user=NHGt6AEAAAAJ&hl=en)*), preprint, 2026.
+
 6. *Extending Recent Arithmetic Properties of Overcubic Partition Tuples*, (with *[Saikat Maity](https://sites.google.com/view/saikat-maity/)*), preprint, 2026.
 
 5. *Hook Length Biases in $t$-Core Partitions*, (with *[Nayandeep Deka Baruah](https://www.tezu.ernet.in/dmaths/people/faculty-pages/ndb.html)*, *[Hirakjyoti Das](https://sites.google.com/view/hirakjyotidas/home?authuser=0), and [Pankaj Jyoti Mahanta](http://pankajjyoti.com/)*), preprint, 2026. ([pdf](https://arxiv.org/pdf/2603.10140))
