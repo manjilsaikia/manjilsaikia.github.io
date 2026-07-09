@@ -14,7 +14,7 @@ My current work is focused on combinatorics (enumerative and algebraic), $q$-ser
 
 ## Preprints
 
-9. *Internal congruences modulo powers of \(2\) for overpartition triples with odd parts: An Experimental Approach*, (with *[Prabal Talukdar](https://orcid.org/0009-0006-3713-1348)*), preprint, 2026.
+9. *Internal congruences modulo powers of $2$ for overpartition triples with odd parts: An Experimental Approach*, (with *[Prabal Talukdar](https://orcid.org/0009-0006-3713-1348)*), preprint, 2026.
 
 8. *Dyck paths on colored lattices*, preprint, 2026. ([pdf](https://arxiv.org/pdf/2607.07256))
 
