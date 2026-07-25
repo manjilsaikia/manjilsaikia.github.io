@@ -104,11 +104,17 @@ Canal Ring Area of Amsterdam (January 2017)
 
 Historic Centre of Sighișoara (December 2018)
 
+**Slovenia**
+
+The works of Jože Plečnik in Ljubljana – Human Centred Urban Design (June 2015)
+
 **United Kingdom of Great Britain and Northern Ireland**
 
 Castles and Town Walls of King Edward in Gwynedd (July 2021)  
 Old and New Towns of Edinburgh (April 2022)
 
-**Slovenia**
+**United States of America**
 
-The works of Jože Plečnik in Ljubljana – Human Centred Urban Design (June 2015)
+Independence Hall (July 2026)
+
+
