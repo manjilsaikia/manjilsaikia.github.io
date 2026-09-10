@@ -14,7 +14,7 @@ My current work is focused on combinatorics (enumerative and algebraic), $q$-ser
 
 ## Preprints
 
-11. *18-Colored Generalized Frobenius Partitions Modulo 16*, preprint, 2026.
+11. *Generalized Frobenius Partitions Modulo Powers of $2$*, preprint, 2026.
 
 10. *On the positivity of truncated pentagonal number series and some conjectures of Merca*, (with *[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/)*), preprint, 2026.
 
