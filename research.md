@@ -14,11 +14,15 @@ My current work is focused on combinatorics (enumerative and algebraic), $q$-ser
 
 ## Preprints
 
+12. *A truncated theta-type series with triangular weights*, preprint, 2026. ([pdf](https://doi.org/10.13140/RG.2.2.25391.91042/1))
+
+11. *Congruences modulo powers of $7$ for partitions with colored odd parts*, (with *[Saikat Maity](https://sites.google.com/view/saikat-maity/)* and *[Prabal Talukdar](https://orcid.org/0009-0006-3713-1348)*), preprint, 2026.
+
 10. *Generalized Frobenius Partitions Modulo Powers of $2$*, preprint, 2026. ([pdf](https://arxiv.org/pdf/2609.11813))
 
 9. *On the positivity of truncated pentagonal number series and some conjectures of Merca*, (with *[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/)*), preprint, 2026. ([pdf](https://arxiv.org/pdf/2609.25739))
 
-8. *Internal congruences modulo powers of $2$ for overpartition triples with odd parts*, (with *[Prabal Talukdar](https://orcid.org/0009-0006-3713-1348)*), preprint, 2026. ([pdf](https://arxiv.org/pdf/2609.11806))
+8. *Internal congruences modulo powers of $2$ for $k$-colored overpartitions into odd parts*, (with *[Prabal Talukdar](https://orcid.org/0009-0006-3713-1348)* and *[Dazhao Tang](https://scholar.google.com/citations?user=xbUGSxUAAAAJ&hl=en&oi=ao)*), preprint, 2026. 
 
 7. *Dyck paths on colored lattices*, preprint, 2026. ([pdf](https://arxiv.org/pdf/2607.07256))
 
