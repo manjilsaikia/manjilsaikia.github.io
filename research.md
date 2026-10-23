@@ -14,7 +14,7 @@ My current work is focused on combinatorics (enumerative and algebraic), $q$-ser
 
 ## Preprints
 
-12. *A truncated theta-type series with triangular weights*, preprint, 2026. ([pdf](https://doi.org/10.13140/RG.2.2.25391.91042/1))
+12. *A truncated theta-type series with triangular weights*, preprint, 2026. ([pdf](https://hexagonmath.org/pdf/2610.00469v1))
 
 11. *Congruences modulo powers of $7$ for partitions with colored odd parts*, (with *[Saikat Maity](https://sites.google.com/view/saikat-maity/)* and *[Prabal Talukdar](https://orcid.org/0009-0006-3713-1348)*), preprint, 2026.
 
