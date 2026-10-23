@@ -14,25 +14,23 @@ My current work is focused on combinatorics (enumerative and algebraic), $q$-ser
 
 ## Preprints
 
-12. *A truncated theta-type series with triangular weights*, preprint, 2026. ([pdf](https://hexagonmath.org/pdf/2610.00469v1))
+11. *A truncated theta-type series with triangular weights*, preprint, 2026. ([pdf](https://hexagonmath.org/pdf/2610.00469v1))
 
-11. *Congruences modulo powers of $7$ for partitions with colored odd parts*, (with *[Saikat Maity](https://sites.google.com/view/saikat-maity/)* and *[Prabal Talukdar](https://orcid.org/0009-0006-3713-1348)*), preprint, 2026.
+10. *Congruences modulo powers of $7$ for partitions with colored odd parts*, (with *[Saikat Maity](https://sites.google.com/view/saikat-maity/)* and *[Prabal Talukdar](https://orcid.org/0009-0006-3713-1348)*), preprint, 2026.
 
-10. *Generalized Frobenius Partitions Modulo Powers of $2$*, preprint, 2026. ([pdf](https://arxiv.org/pdf/2609.11813))
+9. *Generalized Frobenius Partitions Modulo Powers of $2$*, preprint, 2026. ([pdf](https://arxiv.org/pdf/2609.11813))
 
-9. *On the positivity of truncated pentagonal number series and some conjectures of Merca*, (with *[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/)*), preprint, 2026. ([pdf](https://arxiv.org/pdf/2609.25739))
+8. *On the positivity of truncated pentagonal number series and some conjectures of Merca*, (with *[Abhishek Sarma](https://sites.google.com/view/abhishek-sarma/)*), preprint, 2026. ([pdf](https://arxiv.org/pdf/2609.25739))
 
-8. *Internal congruences modulo powers of $2$ for $k$-colored overpartitions into odd parts*, (with *[Prabal Talukdar](https://orcid.org/0009-0006-3713-1348)* and *[Dazhao Tang](https://scholar.google.com/citations?user=xbUGSxUAAAAJ&hl=en&oi=ao)*), preprint, 2026. 
+7. *Internal congruences modulo powers of $2$ for $k$-colored overpartitions into odd parts*, (with *[Prabal Talukdar](https://orcid.org/0009-0006-3713-1348)* and *[Dazhao Tang](https://scholar.google.com/citations?user=xbUGSxUAAAAJ&hl=en&oi=ao)*), preprint, 2026. 
 
-7. *Dyck paths on colored lattices*, preprint, 2026. ([pdf](https://arxiv.org/pdf/2607.07256))
+6. *Dyck paths on colored lattices*, preprint, 2026. ([pdf](https://arxiv.org/pdf/2607.07256))
 
-6. *Some Comments on Regular Overpartitions modulo $2^k$*, (with *[Abdulaziz M. Alanazi](https://scholar.google.com/citations?user=NHGt6AEAAAAJ&hl=en)*), preprint, 2026. ([pdf](https://arxiv.org/pdf/2607.07259))
+5. *Some Comments on Regular Overpartitions modulo $2^k$*, (with *[Abdulaziz M. Alanazi](https://scholar.google.com/citations?user=NHGt6AEAAAAJ&hl=en)*), preprint, 2026. ([pdf](https://arxiv.org/pdf/2607.07259))
 
-5. *Extending Recent Arithmetic Properties of Overcubic Partition Tuples*, (with *[Saikat Maity](https://sites.google.com/view/saikat-maity/)*), preprint, 2026. ([pdf](https://arxiv.org/pdf/2607.07270))
+4. *Extending Recent Arithmetic Properties of Overcubic Partition Tuples*, (with *[Saikat Maity](https://sites.google.com/view/saikat-maity/)*), preprint, 2026. ([pdf](https://arxiv.org/pdf/2607.07270))
 
-4. *Hook Length Biases in $t$-Core Partitions*, (with *[Nayandeep Deka Baruah](https://www.tezu.ernet.in/dmaths/people/faculty-pages/ndb.html)*, *[Hirakjyoti Das](https://sites.google.com/view/hirakjyotidas/home?authuser=0), and [Pankaj Jyoti Mahanta](http://pankajjyoti.com/)*), preprint, 2026. ([pdf](https://arxiv.org/pdf/2603.10140))
-
-3. *Symmetric Domino Tilings of Aztec Diamonds*, (with *[Pravakar Paul](https://ahduni.edu.in/academics/schools-centres/school-of-arts-and-sciences/faculty/pravakar-paul/)*), preprint, 2024. ([pdf](https://arxiv.org/pdf/2410.23324))
+3. *Hook Length Biases in $t$-Core Partitions*, (with *[Nayandeep Deka Baruah](https://www.tezu.ernet.in/dmaths/people/faculty-pages/ndb.html)*, *[Hirakjyoti Das](https://sites.google.com/view/hirakjyotidas/home?authuser=0), and [Pankaj Jyoti Mahanta](http://pankajjyoti.com/)*), preprint, 2026. ([pdf](https://arxiv.org/pdf/2603.10140))
 
 2. *A Novel Approach to Counting Perfect Matchings of Graphs*, (with *[Pravakar Paul](https://ahduni.edu.in/academics/schools-centres/school-of-arts-and-sciences/faculty/pravakar-paul/)*), preprint, 2024. ([pdf](https://arxiv.org/abs/2408.10273))
 
@@ -40,6 +38,8 @@ My current work is focused on combinatorics (enumerative and algebraic), $q$-ser
 
 
 ## Peer Reviewed Papers
+
+48. *Symmetric Domino Tilings of Aztec Diamonds*, (with *[Pravakar Paul](https://ahduni.edu.in/academics/schools-centres/school-of-arts-and-sciences/faculty/pravakar-paul/)*), *Communications in Combinatorics and Optimization*, accepted, 2026. ([pdf](https://arxiv.org/pdf/2410.23324))
 
 47. *Elementary Proofs of Two Recent Parity Results of Merca*, (with *[James A. Sellers](https://www.d.umn.edu/~jsellers/)*), *New Zealand Journal of Mathematics*, accepted, 2026.
 
