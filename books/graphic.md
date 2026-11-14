@@ -14,9 +14,14 @@ The books which are marked with a ** are the ones that I am either currently rea
 
 >All the books that I read are rated on [Goodreads](https://www.goodreads.com/user/show/36494310-manjil).
 
-1. **Discovery of New India**, *Aakar Patel and PenPencilDraw*, Vintage, 2026.
-2. **Absolute Jafar**, *Sarnath Banerjee*, HarperCollins Publishers, 2026.
-3. **Corridor: A Graphic Novel**, *Sarnath Banerjee*, Penguin Books, 2024.
-4. ** **Look, No Feet!**, *Bryan McAllister*, Victor Gollancz Ltd, 1987.
-5. **Soppy**, *Philipa Rice*, Square Peg, 2015.
-6. **The Best of Laxman: The Common Man in the New Millennium**, *R. K. Laxman*, Penguin Books, 2000.
+1. **Grumpy Monkey**, *Suzanne Lang (Illustrated by Max Lang)*, Random House, 2018.
+2. **The Rose Bush: An Anti-War Book**, *Ayesha Chenoy*, Penguin, 2025.
+3. **Jane Austen (Little People, Big Dreams)**, *Maria Isabel Sánchez Vegara (Illustrated by Katie Wilson)*, Frances Lincoln Children’s Books, 2018.
+4. **I Love You So Mush!**, *Daniella McLean (Illustrated by Beatrice Tinarelli)*, Tiger Tales, 2024.
+5. **Peppa’s Car Ride**, *Neville Astley*, Ladybird, 2012.
+6. **Discovery of New India**, *Aakar Patel and PenPencilDraw*, Vintage, 2026.
+7. **Absolute Jafar**, *Sarnath Banerjee*, HarperCollins Publishers, 2026.
+8. **Corridor: A Graphic Novel**, *Sarnath Banerjee*, Penguin Books, 2024.
+9. ** **Look, No Feet!**, *Bryan McAllister*, Victor Gollancz Ltd, 1987.
+10. **Soppy**, *Philipa Rice*, Square Peg, 2015.
+11. **The Best of Laxman: The Common Man in the New Millennium**, *R. K. Laxman*, Penguin Books, 2000.
