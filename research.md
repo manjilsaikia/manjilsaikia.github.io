@@ -14,7 +14,9 @@ My current work is focused on combinatorics (enumerative and algebraic), $q$-ser
 
 ## Preprints
 
-12. *TBA*, (with *[Hirakjyoti Das](https://sites.google.com/view/hirakjyotidas/home?authuser=0)* and *[Prabal Talukdar](https://orcid.org/0009-0006-3713-1348)*), preprint, 2026.
+13. *Congruences modulo powers of $2$ for Lin's function PDO$_t(n)$*, preprint, 2026.
+
+12. *Internal congruences modulo powers of $2$ for restricted $5$-colored partitions into odd parts*, (with *[Hirakjyoti Das](https://sites.google.com/view/hirakjyotidas/home?authuser=0)* and *[Prabal Talukdar](https://orcid.org/0009-0006-3713-1348)*), preprint, 2026.
 
 11. *A truncated theta-type series with triangular weights*, preprint, 2026. ([pdf](https://hexagonmath.org/pdf/2610.00469v1))
 
