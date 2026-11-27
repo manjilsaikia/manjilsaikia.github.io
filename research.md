@@ -14,7 +14,7 @@ My current work is focused on combinatorics (enumerative and algebraic), $q$-ser
 
 ## Preprints
 
-15. *Inequalities and Parity Biases involving Partitions with Parts Separated by Parity*, (with *[Abdulaziz M. Alanazi](https://scholar.google.com/citations?user=NHGt6AEAAAAJ&hl=en), [Gitartha Kalita](), and [Pankaj Jyoti Mahanta](http://pankajjyoti.com/)*), preprint, 2026.
+15. *Inequalities and Parity Biases involving Partitions with Parts Separated by Parity*, (with *[Abdulaziz M. Alanazi](https://scholar.google.com/citations?user=NHGt6AEAAAAJ&hl=en), [Gitartha Kalita](https://orcid.org/0009-0004-6073-9584), and [Pankaj Jyoti Mahanta](http://pankajjyoti.com/)*), preprint, 2026.
 
 14. *On some recent conjectures of Banerjee and Bringmann*, preprint, 2026.
 
