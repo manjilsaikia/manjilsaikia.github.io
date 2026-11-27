@@ -14,6 +14,10 @@ My current work is focused on combinatorics (enumerative and algebraic), $q$-ser
 
 ## Preprints
 
+15. *Inequalities and Parity Biases involving Partitions with Parts Separated by Parity*, (with *[Abdulaziz M. Alanazi](https://scholar.google.com/citations?user=NHGt6AEAAAAJ&hl=en), [Gitartha Kalita](), and [Pankaj Jyoti Mahanta](http://pankajjyoti.com/)*), preprint, 2026.
+
+14. *On some recent conjectures of Banerjee and Bringmann*, preprint, 2026.
+
 13. *Congruences modulo powers of $2$ and $3$ for Lin's function PDO$_t(n)$*, preprint, 2026. ([pdf](https://arxiv.org/pdf/2611.28840))
 
 12. *Internal congruences modulo powers of $2$ for restricted $5$-colored partitions into odd parts*, (with *[Hirakjyoti Das](https://sites.google.com/view/hirakjyotidas/home?authuser=0)* and *[Prabal Talukdar](https://orcid.org/0009-0006-3713-1348)*), preprint, 2026.
